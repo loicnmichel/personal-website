@@ -90,7 +90,7 @@ address = {street = "Deep Environment Laboratory / Laboratoire Environnement Pro
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "48.359309", longitude = "4°33'31.6"}
+coordinates = {latitude = "48.359309", longitude = "-4.558776"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
