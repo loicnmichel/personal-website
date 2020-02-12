@@ -14,24 +14,27 @@ role: Research scientist
 
 # Organizations/Affiliations
 organizations:
-- name:  
+- name: Ifremer Brittany 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests...
+bio: 
 
 interests:
-- 
-- 
-- 
+- Trophic interactions in deep-sea ecosystems
+- Antarctic benthic systems & global climate change
+- Stable isotopes as ecological tracers
+- Anthropogenic impacts on marine ecosystems
+- Seagrass meadows and associated food webs
 
 education:
   courses:
-  - course: 
-  - course: 
-    year: 2009
-  - course: 
-    year: 2008
+  - course: PhD in Biology of Organisms and Ecology, University of Liège (BE)
+    year: 2011
+  - course: MAS in Oceanography, University of Liège (BE)
+    year: 2007
+  - course: MSc in Animal Biology, University of Liège (BE)
+    year: 2005
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,13 +46,11 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/loicnmichel
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://scholar.google.com/citations?user=BxfeVdAAAAAJ
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a marine ecologist broadly interested in the influence of food web structure on marine ecosystems functioning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Since September 2017,   I’m a research scientist at the Deep Environment Laboratory of Ifremer Brittany, Brest, France. In this context, my main research focus is the study of trophic interactions among deep-sea benthic communities. Before that, most of my research has focused on Antarctic benthos, anthropogenic influence on marine ecosystems, and seagrass meadows. I’m also interested in the wide range of applications of stable isotope ratios of light biogenic elements in environmental sciences.
