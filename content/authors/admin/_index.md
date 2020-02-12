@@ -50,12 +50,15 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=BxfeVdAAAAAJ
-
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-0988-7050
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Loic_Michel
+- icon: cv
+  icon_pack: ai
+  link: https://docs.google.com/document/d/1nSPq47XahkX0iHRBBMtOsTF7_6QIaPDXEDnX_0YYfnQ/export?format=pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,3 +73,5 @@ user_groups:
 I’m a marine ecologist broadly interested in the influence of food web structure on marine ecosystems functioning.
 
 Since September 2017,   I’m a research scientist at the Deep Environment Laboratory of Ifremer Brittany, Brest, France. In this context, my main research focus is the study of trophic interactions among deep-sea benthic communities. Before that, most of my research has focused on Antarctic benthos, anthropogenic influence on marine ecosystems, and seagrass meadows. I’m also interested in the wide range of applications of stable isotope ratios of light biogenic elements in environmental sciences.
+
+This website is under construction. Sorry about the missing info and pages...
