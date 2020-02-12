@@ -86,11 +86,11 @@ phone = "+33 2 98 22 43 02"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "Deep Environment Laboratory / Laboratoire Environnement Profond (LEP), Ifremer Brittany / Ifremer Centre Bretagne,  ZI de la pointe du Diable, CS10070", city = "Plouzané", postcode = "29280", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "48.359309", longitude = "4°33'31.6"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
@@ -133,7 +133,7 @@ date_format = "2006-01-02"
 time_format = "15:04"
 
 # Address format (choose from the [address_formats] list below or add you own to the list).
-address_format = "en-us"
+address_format = "fr-fr"
 
 ############################
 ## Advanced
