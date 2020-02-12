@@ -86,7 +86,7 @@ phone = "+33 2 98 22 43 02"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Deep Environment Laboratory / Laboratoire Environnement Profond (LEP), Ifremer Brittany / Ifremer Centre Bretagne,  ZI de la pointe du Diable, CS10070", city = "Plouzané", postcode = "29280", country = "France", country_code = "FR"}
+address = {street = "Deep Environment Laboratory / Laboratoire Environnement Profond (LEP), Ifremer Brittany / Ifremer Centre Bretagne,  ZI de la pointe du Diable, CS10070", city = "Plouzane", postcode = "29280", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -133,7 +133,7 @@ date_format = "2006-01-02"
 time_format = "15:04"
 
 # Address format (choose from the [address_formats] list below or add you own to the list).
-address_format = "fr-fr"
+address_format = "de"
 
 ############################
 ## Advanced
