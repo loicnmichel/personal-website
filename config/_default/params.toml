@@ -86,7 +86,7 @@ phone = "+33 2 98 22 43 02"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Deep Environment Laboratory / Laboratoire Environnement Profond (LEP),<br>Ifremer Brittany / Ifremer Centre Bretagne,<br>ZI de la pointe du Diable - CS10070,<br>29280 Plouzan&#233;,<br>France"}
+address = {street = "Deep Environment Laboratory / Laboratoire Environnement Profond (LEP)<br>Ifremer Brittany / Ifremer Centre de Bretagne<br>ZI de la pointe du Diable - CS10070<br>29280 Plouzan&#233;<br>France"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
