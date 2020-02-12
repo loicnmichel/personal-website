@@ -21,11 +21,13 @@
 [[main]]
   name = "Publications"
   url = "#featured"
+  identifier="test"
   weight = 40
 
 [[main]]
   name = "Contact"
   url = "#contact"
+  parent="test"
   weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
