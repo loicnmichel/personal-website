@@ -15,7 +15,7 @@ role: Research scientist
 # Organizations/Affiliations
 organizations:
 - name: Ifremer Brittany 
-  url: ""
+  url: "https://wwz.ifremer.fr/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -73,8 +73,8 @@ user_groups:
 - Visitors
 ---
 
-I’m a marine ecologist broadly interested in the influence of food web structure on marine ecosystems functioning.
+<p align-jusitfy>I’m a marine ecologist broadly interested in the influence of food web structure on marine ecosystems functioning.</p>
 
-Since September 2017,   I’m a research scientist at the Deep Environment Laboratory of Ifremer Brittany, Brest, France. In this context, my main research focus is the study of trophic interactions among deep-sea benthic communities. Before that, most of my research has focused on Antarctic benthos, anthropogenic influence on marine ecosystems, and seagrass meadows. I’m also interested in the wide range of applications of stable isotope ratios of light biogenic elements in environmental sciences.
+<p align-jusitfy>Since September 2017,   I’m a research scientist at the Deep Environment Laboratory of Ifremer Brittany, Brest, France. In this context, my main research focus is the study of trophic interactions among deep-sea benthic communities. Before that, most of my research has focused on Antarctic benthos, anthropogenic influence on marine ecosystems, and seagrass meadows. I’m also interested in the wide range of applications of stable isotope ratios of light biogenic elements in environmental sciences.</p>
 
 This website is under construction. Sorry about the missing info and pages...
