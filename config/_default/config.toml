@@ -1,4 +1,4 @@
-# Configuration of Academic
+﻿# Configuration of Academic
 # Documentation: https://sourcethemes.com/academic/
 #
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
@@ -60,8 +60,8 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [imaging]
   resampleFilter = "lanczos"
-  quality = 90
-  anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
+  quality = 100
+  anchor = "center"  # Anchor for cropping. Options include Smart and Center.
 
 # Taxonomies.
 [taxonomies]
