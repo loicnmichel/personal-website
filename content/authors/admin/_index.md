@@ -29,11 +29,14 @@ interests:
 
 education:
   courses:
-  - course: PhD in Biology of Organisms and Ecology, University of Liège (BE)
+  - course: PhD in Biology of Organisms and Ecology 
+    institution: University of Liège (BE)
     year: 2011
-  - course: MAS in Oceanography, University of Liège (BE)
+  - course: MAS in Oceanology
+    institution: University of Liège (BE)
     year: 2007
-  - course: MSc in Animal Biology, University of Liège (BE)
+  - course: MSc in Animal Biology
+    institution: University of Liège (BE)
     year: 2005
 
 # Social/Academic Networking
