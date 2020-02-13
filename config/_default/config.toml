@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Loïc N. Michel - Marine ecologist"
+title = "Loïc N. Michel"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -60,7 +60,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 [imaging]
   resampleFilter = "lanczos"
-  quality = 90
+  quality = 100
   anchor = "smart"  # Anchor for cropping. Options include Smart and Center.
 
 # Taxonomies.
