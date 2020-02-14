@@ -34,8 +34,8 @@ tags:
 featured: true
 
 # links:
-- name: "Press release"
-  url: "https://www.sciences.uliege.be/cms/c_5170884/en/sea-ice-cover-increase-is-changing-the-invertebrates-feeding-habits"
+#- name: "Press release"
+#  url: "https://www.sciences.uliege.be/cms/c_5170884/en/sea-ice-cover-increase-is-changing-the-invertebrates-feeding-habits"
 url_pdf: http://hdl.handle.net/2268/236151
 url_code: ''
 url_dataset: 'https://ipt.biodiversity.aq/resource?r=ddu_isotopes_verso_2013_2015'
