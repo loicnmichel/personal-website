@@ -24,15 +24,15 @@
 #  identifier="test"
 #  weight = 40
 
-#[[main]]
-#  name = "Contact"
-#  url = "#contact"
+[[main]]
+  name = "Contact"
+  url = "#contact"
 #  parent="test"
-#  weight = 60
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+[[main]]
+    name = "CV"
+    url = "https://docs.google.com/document/d/1nSPq47XahkX0iHRBBMtOsTF7_6QIaPDXEDnX_0YYfnQ/export?format=pdf"
+    weight = 70
