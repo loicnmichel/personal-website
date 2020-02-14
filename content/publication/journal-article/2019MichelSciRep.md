@@ -1,7 +1,7 @@
 ---
 title: "Increased sea ice cover alters food web structure in East Antarctica"
 authors:
-- **admin**
+- <strong>admin</strong>
 - Bruno Danis
 - Philippe Dubois
 - Marc Eleaume
