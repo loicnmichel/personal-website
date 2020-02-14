@@ -5,7 +5,7 @@ authors:
 - Bruno Danis
 - Philippe Dubois
 - Marc Eleaume
-- Jérôme Fournier
+- JÃ©rÃ´me Fournier
 - Cyril Gallut
 - Philip Jane
 - Gilles Lepoint
