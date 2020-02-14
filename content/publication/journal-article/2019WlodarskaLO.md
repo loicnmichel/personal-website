@@ -3,7 +3,7 @@ title: "Is the trophic diversity of marine benthic consumers decoupled from taxo
 authors:
 - Maria Włodarska‐Kowalczuk
 - Magnus Aune
-- admin
+- <strong>Loïc N. Michel</strong>
 - Agata Zaborska
 - Joanna Legeżyńska
 date: "2019-04-24T00:00:00Z"
