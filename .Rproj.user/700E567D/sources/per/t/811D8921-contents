@@ -8,7 +8,7 @@ authors:
 - Fournier J.
 - Gallut C.
 - Jane P.
-- Lepoint G.
+- Lepoint G
 date: "2019-05-30T00:00:00Z"
 doi: "10.1038/s41598-019-44605-5"
 
@@ -25,7 +25,7 @@ publication_types: ["2"]
 publication: "*Scientific Reports*, 9: 8062"
 publication_short: ""
 
-abstract: In recent years, sea ice cover along coasts of East Antarctica has tended to increase. To understand ecological implications of these environmental changes, we studied benthic food web structure on the coasts of Adélie Land during an event of unusually high sea ice cover (i.e. two successive austral summers without seasonal breakup). We used integrative trophic markers (stable isotope ratios of carbon, nitrogen and sulfur) to build ecological models and explored feeding habits of macroinvertebrates. In total, 28 taxa spanning most present animal groups and functional guilds were investigated. Our results indicate that the absence of seasonal sea ice breakup deeply influenced benthic food webs. Sympagic algae dominated the diet of many key consumers, and the trophic levels of invertebrates were low, suggesting omnivore consumers did not rely much on predation and/or scavenging. Our results provide insights about how Antarctic benthic consumers, which typically live in an extremely stable environment, might adapt their feeding habits in response to sudden changes in environmental conditions and trophic resource availability. They also show that local and/or global trends of sea ice increase in Antarctica have the potential to cause drastic changes in food web structure, and therefore to impact benthic communities.
+abstract: "In recent years, sea ice cover along coasts of East Antarctica has tended to increase. To understand ecological implications of these environmental changes, we studied benthic food web structure on the coasts of Adélie Land during an event of unusually high sea ice cover (i.e. two successive austral summers without seasonal breakup). We used integrative trophic markers (stable isotope ratios of carbon, nitrogen and sulfur) to build ecological models and explored feeding habits of macroinvertebrates. In total, 28 taxa spanning most present animal groups and functional guilds were investigated. Our results indicate that the absence of seasonal sea ice breakup deeply influenced benthic food webs. Sympagic algae dominated the diet of many key consumers, and the trophic levels of invertebrates were low, suggesting omnivore consumers did not rely much on predation and/or scavenging. Our results provide insights about how Antarctic benthic consumers, which typically live in an extremely stable environment, might adapt their feeding habits in response to sudden changes in environmental conditions and trophic resource availability. They also show that local and/or global trends of sea ice increase in Antarctica have the potential to cause drastic changes in food web structure, and therefore to impact benthic communities."
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -34,8 +34,8 @@ tags:
 featured: true
 
 # links:
-#- name: "Press release"
-#  url: "https://www.sciences.uliege.be/cms/c_5170884/en/sea-ice-cover-increase-is-changing-the-invertebrates-feeding-habits"
+#- name: Press release
+#  url: 'https://www.sciences.uliege.be/cms/c_5170884/en/sea-ice-cover-increase-is-changing-the-invertebrates-feeding-habits'
 url_pdf: http://hdl.handle.net/2268/236151
 url_code: ''
 url_dataset: 'https://ipt.biodiversity.aq/resource?r=ddu_isotopes_verso_2013_2015'
