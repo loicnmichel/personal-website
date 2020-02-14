@@ -93,7 +93,7 @@ address = {street = "Deep Environment Laboratory / Laboratoire Environnement Pro
 coordinates = {latitude = "48.359622", longitude = "-4.558728"}
 
 # Directions for visitors to locate you.
-directions = "Building Emile Postel, 1st floor, Room 217B.01.029"
+directions = "Building Emile Postel, 1st floor, room 217B.01.29"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
