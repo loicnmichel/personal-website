@@ -1,5 +1,5 @@
 ---
-title: "Increased sea ice cover alters food web structure in East Antarctica."
+title: "Increased sea ice cover alters food web structure in East Antarctica"
 authors:
 - admin
 - Bruno Danis
@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Scientific Reports*,9: 8062"
+publication: "*Scientific Reports*, 9: 8062"
 publication_short: ""
 
 abstract: 

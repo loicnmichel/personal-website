@@ -1,5 +1,5 @@
 ---
-title: "Is the trophic diversity of marine benthic consumers decoupled from taxonomic and functional trait diversity? Isotopic niches of Arctic communities."
+title: "Is the trophic diversity of marine benthic consumers decoupled from taxonomic and functional trait diversity? Isotopic niches of Arctic communities"
 authors:
 - Maria Włodarska‐Kowalczuk
 - Magnus Aune
@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Limnology and Oceanography*,65 (5): 2140-2151"
+publication: "*Limnology and Oceanography*, 65 (5): 2140-2151"
 publication_short: ""
 
 abstract: 
