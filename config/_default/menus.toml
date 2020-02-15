@@ -8,31 +8,80 @@
   url = "#about"
   weight = 10
 
-#[[main]]
-#  name = "Posts"
-#  url = "#posts"
-#  weight = 20
+[[main]]
+  name = "Research"
+  url = ""
+  identifier="Research"
+  weight = 20
 
-#[[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 30
+[[main]]
+  name = "Research interests"
+  url = "/interests"
+  parent="Research"
+  weight = 21
+
+[[main]]
+  name = "Collaboration network"
+  url = "/collaborators"
+  parent="Research"
+  weight = 22
+
+[[main]]
+  name = "News"
+  url = "/post"
+  weight = 30
+
 
 [[main]]
   name = "Publications"
-  url = "/publication"
-#  identifier="test"
+  url = ""
+  identifier="Publications"
   weight = 40
+
+[[main]]
+  name = "Peer-reviewed articles"
+  url = "/publication"
+  parent="Publications"
+  weight = 41
+
+[[main]]
+  name = "Conferences"
+  url = "/conferences"
+  parent="Publications"
+  weight = 42
+
+[[main]]
+  name = "Outreach & media"
+  url = "/outreach-media"
+  parent="Publications"
+  weight = 43
+
+[[main]]
+  name = "Data"
+  url = ""
+  identifier="Data"
+  weight = 50
+
+[[main]]
+  name = "Datasets"
+  url = "/datasets"
+  parent="Data"
+  weight = 51
+
+[[main]]
+  name = "Deep-sea database"
+  url = "/deepseabase"
+  parent="Data"
+  weight = 52
+
+[[main]]
+    name = "CV"
+    url = "https://docs.google.com/document/d/1nSPq47XahkX0iHRBBMtOsTF7_6QIaPDXEDnX_0YYfnQ/export?format=pdf"
+    weight = 60
 
 [[main]]
   name = "Contact"
   url = "#contact"
-#  parent="test"
-  weight = 60
+  weight = 70
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[main]]
-    name = "CV"
-    url = "https://docs.google.com/document/d/1nSPq47XahkX0iHRBBMtOsTF7_6QIaPDXEDnX_0YYfnQ/export?format=pdf"
-    weight = 70
+

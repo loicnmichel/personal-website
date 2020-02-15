@@ -48,16 +48,16 @@ url_video: 'https://www.youtube.com/watch?v=fTNziVltIYE'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 #image:
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-#  focal_point: ""
-#  preview_only: false
+#  caption: 'A graphical summary of observed changes in food web structure'
+#  focal_point: Center
+#  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [stable-isotopes-in-ecology]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -66,3 +66,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+{{< figure src="/img/2019MichelSciRep.jpg" title="A graphical summary of observed changes in food web structure" >}}

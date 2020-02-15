@@ -1,4 +1,4 @@
-﻿---
+---
 # Display name
 name: Loïc N. Michel
 
@@ -70,7 +70,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
 <p align-jusitfy>I’m a marine ecologist broadly interested in the influence of food web structure on marine ecosystems functioning.</p>
