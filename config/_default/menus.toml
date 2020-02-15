@@ -75,9 +75,22 @@
   weight = 52
 
 [[main]]
-    name = "CV"
-    url = "https://docs.google.com/document/d/1nSPq47XahkX0iHRBBMtOsTF7_6QIaPDXEDnX_0YYfnQ/export?format=pdf"
-    weight = 60
+  name = "CV"
+  url = ""
+  identifier="CV"
+  weight = 60
+
+[[main]]
+  name = "Experience"
+  url = "/experience"
+  parent="CV"
+  weight = 61
+
+[[main]]
+  name = "Download my CV"
+  url = "https://docs.google.com/document/d/1nSPq47XahkX0iHRBBMtOsTF7_6QIaPDXEDnX_0YYfnQ/export?format=pdf"
+  parent="CV"
+  weight = 62
 
 [[main]]
   name = "Contact"
