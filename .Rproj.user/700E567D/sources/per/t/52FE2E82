@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1581765915123.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2199529838",
+    "id" : "52FE2E82",
+    "lastKnownWriteTime" : 1581587180,
+    "last_content_update" : 1581587180,
+    "path" : "C:/Research/12 Personal website/personal-website/config/_default/config.toml",
+    "project_path" : "config/_default/config.toml",
+    "properties" : {
+        "cursorPosition" : "61,27",
+        "scrollLine" : "49"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
