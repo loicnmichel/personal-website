@@ -1,5 +1,5 @@
 ---
-title: Stable isotopes in ecology
+title: Stable isotopes as ecological tracers
 summary:
 tags:
 -
