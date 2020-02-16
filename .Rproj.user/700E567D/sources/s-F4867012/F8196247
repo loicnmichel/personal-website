@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3928288761",
+    "hash" : "0",
     "id" : "F8196247",
-    "lastKnownWriteTime" : 1581846352,
-    "last_content_update" : 1581846352569,
+    "lastKnownWriteTime" : 1581846639,
+    "last_content_update" : 1581846639890,
     "path" : "C:/Research/12 Personal website/personal-website/assets/scss/custom.scss",
     "project_path" : "assets/scss/custom.scss",
     "properties" : {
-        "cursorPosition" : "1,20",
+        "cursorPosition" : "1,16",
         "scrollLine" : "0"
     },
     "read_only" : false,
