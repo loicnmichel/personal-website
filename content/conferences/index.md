@@ -2,6 +2,7 @@
 title: "Conferences"  # Add a page title.
 summary: "Hello!"  # Add a page description.
 date: "2019-01-01T00:00:00Z"  # Add today's date.
+type: "widget_page"  # Page type is a Widget Page
 ---
 <div><!-- wp:paragraph --><p>Relevant material (presentation or poster) associated to most of these conference contributions is available through <a href="https://orbi.ulg.ac.be/simple-search?query=u172073" target="_blank" rel="noopener">University of Liège's institutional repository (ORBI)</a>. If not, <a href="/#contact" target="_blank" rel="noopener">contact me</a> to get a copy.</p><!-- /wp:paragraph --><br>
 
