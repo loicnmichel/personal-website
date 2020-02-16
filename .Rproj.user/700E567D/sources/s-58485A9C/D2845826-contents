@@ -63,9 +63,9 @@ Since most my research took place in French-speaking countries, most of the mate
 <p><strong>01/2017:</strong> "Pourquoi prélève-t-on des organismes marins ?", guest post on the French National Museum of Natural History expedition blog about our research in Adélie Land. <a href="http://expeditions-antarctiques.mnhn.fr/fr/carnet-bord/carnet-bord-scientifiques/pourquoi-recolte-t-organismes-marins" target="_blank" rel="noopener">Link to the article</a></p>
 <br>
 <p><strong>12/2016:</strong> During the <a href="http://www.proteker.net/?lang=en" target="_blank" rel="noopener">PROTEKER</a> campaign in Kerguelen Islands, several videos were shot about the journey and the research program. One of them focuses specifically on my research.</p>
-{{< youtube w7Ft2ymGmfc eNVStleK0Yw>}}
+{{< youtube eNVStleK0Yw>}}
 <br>
 <p>You can see all the other videos <a href="https://www.youtube.com/playlist?list=PLXPucz7oiNMFIttNjU7ov_Ed1FgvEMAzx" target="_blank" rel="noopener">here</a>. Unfortunately most are in French, but non-French speakers can still enjoy this one that focuses on the benthic ecosystems of the archipelago and whose soundtrack is only music.</p>
-{{< youtube w7Ft2ymGmfc c0hCyblbxSM>}}
+{{< youtube c0hCyblbxSM>}}
 <br><br>
 <p><strong>04/2015:</strong> "Briser la glace", outreach article about the sampling campaign in Dumont-d'Urville, published in "Le 15ème jour du mois", University of Liège's monthly journal. <a href="http://le15ejour.ulg.ac.be/jcms/c_48540/fr/briser-la-glace" target="_blank" rel="noopener">Link to the article</a></p>
