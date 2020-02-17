@@ -77,6 +77,6 @@ user_groups:
 - Researchers
 ---
 
-I’m a marine ecologist broadly interested in how food web structure and trophic interactions influence ecosystem functioning and biodiversity. I’m also interested in how natural or anthropogenic environmental variations impact animal feeding, and how marine consumers respond change (ecological plasticity). Most of my research is based on trophic markers (particularly stable isotope ratios) and focuses on benthic invertebrates from polar and deep-sea ecosystems.
+I’m a marine ecologist broadly interested in how food web structure and trophic interactions influence ecosystem functioning and biodiversity. I’m also interested in how natural or anthropogenic environmental variations impact animal feeding, and how marine consumers respond to change (ecological plasticity). Most of my research is based on trophic markers (particularly stable isotope ratios) and focuses on benthic invertebrates from polar and deep-sea ecosystems.
 
 This website is under construction. Sorry about the missing info and pages...

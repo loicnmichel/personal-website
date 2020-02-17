@@ -25,4 +25,4 @@ organizations:
 user_groups:
 - Collaborators
 ---
-Topic of the collaboration: stable isotope ecology, seagrass ecology. Patrick was my PhD advisor.
+Collaboration topics: stable isotope ecology, seagrass ecology. Patrick was my PhD advisor.

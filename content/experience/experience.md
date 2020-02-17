@@ -51,7 +51,7 @@ date_format = "Jan 2006"
   location = "Calvi, France"
   date_start = "2012-02-01"
   date_end = "2014-02-01"
-  description = """I was in charge of the scientific coordination of the STARE-CAPMED project, which focused on anthropogenic influence on Mediterranean coastal ecosystems."""
+  description = """I was in charge of the scientific coordination of the STARE-CAPMED project, which focused on anthropogenic impacts on Mediterranean coastal ecosystems."""
 
 [[experience]]
   title = "Postdoctoral researcher"
@@ -69,6 +69,6 @@ date_format = "Jan 2006"
   location = "Liège, Belgium"
   date_start = "2006-10-01"
   date_end = "2011-08-01"
-  description = """I completed a PhD about food webs associated to Mediterranean seagrass meadows.<br>I taught practical biology courses for undergraduate students"""
+  description = """I completed a PhD about food webs associated to Mediterranean seagrass meadows.<br>I taught practical biology courses to undergraduate students"""
 
 +++
