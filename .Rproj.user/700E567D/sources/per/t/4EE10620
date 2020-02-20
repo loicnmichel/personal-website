@@ -13,7 +13,7 @@
     "project_path" : "config/_default/menus.toml",
     "properties" : {
         "cursorPosition" : "23,24",
-        "scrollLine" : "10"
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
