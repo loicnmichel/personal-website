@@ -49,7 +49,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-{{% alert note %}}I am firmly convinced that Science should be as open as possible. I used to be a contact person for the <a href="http://www.gbif.org/" target="_blank" rel="noopener">Global Biodiversity Information Facility (GBIF)</a> at University of Liège, and I fully support recent initiatives aiming at making scientific output freely and easily available to everyone. Here are some links to freely available datasets which I curated or co-curated. I also contribute to larger scale open data efforts such as the <a href="https://data.aad.gov.au/trophic/" target="_blank" rel="noopener">Southern Ocean Dietary Database</a> or <a href="http://www.isobank.org/" target="_blank" rel="noopener">IsoBank</a>, and I'm currently setting up an <a href="/deepseabase/" target="_blank" rel="noopener">open database of stable isotope ratios in deep-sea organisms</a>.
+{{% alert note %}}I am firmly convinced that scientific output should be freely and easily available to everyone. Besides the datasets listed below, I contribute to larger scale open data efforts such as the <a href="https://data.aad.gov.au/trophic/" target="_blank" rel="noopener">Southern Ocean Dietary Database</a> or <a href="https://www.isobank.org/" target="_blank" rel="noopener">IsoBank</a>, and I'm currently setting up an <a href="/deepseabase/" target="_blank" rel="noopener">open database of stable isotope ratios in deep-sea organisms</a>. I also used to be a contact person for the <a href="https://www.gbif.org/" target="_blank" rel="noopener">Global Biodiversity Information Facility (GBIF)</a> at University of Liège.
 {{% /alert %}}
 <br>
 

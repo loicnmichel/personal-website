@@ -27,6 +27,7 @@ interests:
 - Functional ecology
 - Anthropogenic impacts
 - Global change
+- Invertebrate zoology
 
 education:
   courses:
@@ -45,15 +46,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: open-access
   icon_pack: ai
   link: https://orbi.uliege.be/browse?type=author&value=Michel%2C+Lo%C3%AFc+p003031
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
   link: https://docs.google.com/document/d/1nSPq47XahkX0iHRBBMtOsTF7_6QIaPDXEDnX_0YYfnQ/export?format=pdf
+- icon: university
+  icon_pack: fas
+  link: https://wwz.ifremer.fr/en
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-0988-7050
@@ -63,6 +67,12 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Loic_Michel
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/551146/loic-n-michel/peer-review/
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/ifremer.fr/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/loicnmichel

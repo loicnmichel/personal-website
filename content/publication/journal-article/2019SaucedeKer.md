@@ -83,7 +83,7 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [stable-isotopes-in-ecology]
+projects: [03-stable-isotopes-in-ecology, 01-polar-global-change, 04-anthropogenic-impacts]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

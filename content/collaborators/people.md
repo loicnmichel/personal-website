@@ -50,4 +50,4 @@ weight = 68  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
-Collaborative work is one of my favourite aspects of academic research. Below is an alphabetical list of people I've been working with. Click on a person's name or picture to learn more about them and our work together.
+Collaborative work is one of my favourite aspects of academic research. Below is an alphabetical list of people I've been working with. Click on a person's name to learn more about them and our work together.
