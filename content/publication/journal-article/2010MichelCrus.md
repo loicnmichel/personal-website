@@ -1,5 +1,5 @@
 ---
-title: "Sampling methods for amphipods of Posidonia oceanica meadows: a comparative study"
+title: "Sampling methods for amphipods of *Posidonia oceanica* meadows: a comparative study"
 authors:
 - <strong>Michel L. N.</strong>
 - Lepoint G. 
@@ -21,7 +21,7 @@ publication_types: ["2"]
 publication: "*Crustaceana*, 83 (1): 39-47"
 publication_short: ""
 
-abstract: "Efficient sampling of amphipod crustaceans associated with Posidonia oceanica (L.) Delile meadows is difficult, due to their complex community structure and to the heterogeneity of the meadows. Here we compare three sampling techniques: the hand-towed net, the air-lift, and light traps.
+abstract: "Efficient sampling of amphipod crustaceans associated with *Posidonia oceanica* (L.) Delile meadows is difficult, due to their complex community structure and to the heterogeneity of the meadows. Here we compare three sampling techniques: the hand-towed net, the air-lift, and light traps.
 Each of the methods shows specific advantages and disadvantages, hence the most important feature to consider in the choice of the method would be its adequacy with regard to the study purpose. Moreover, the most accurate way to sample amphipods from P. oceanica meadows could be to combine several methods, keeping in mind their respective strengths and weaknesses, and to adapt the sampling protocol to the aims of the study at issue."
 
 # Summary. An optional shortened abstract.

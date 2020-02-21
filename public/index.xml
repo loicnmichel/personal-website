@@ -5,12 +5,20 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Loïc N. Michel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Loïc N. Michel</title>
       <link>/</link>
     </image>
+    
+    <item>
+      <title>Effects of preservation methodology on stable isotope compositions of sea stars</title>
+      <link>/publication/journal-article/2020lebourgrcms/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2020lebourgrcms/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>New paper in Journal of Animal Ecology</title>
@@ -766,7 +774,7 @@ I started to use stable isotope ratios of light biogenic elements (C, N and S) a
     </item>
     
     <item>
-      <title>Sampling methods for amphipods of Posidonia oceanica meadows: a comparative study</title>
+      <title>Sampling methods for amphipods of *Posidonia oceanica* meadows: a comparative study</title>
       <link>/publication/journal-article/2010michelcrus/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>/publication/journal-article/2010michelcrus/</guid>

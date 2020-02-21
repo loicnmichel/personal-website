@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,8 +15,24 @@
     <item>
       <title>&lt;strong&gt;Michel L. N.&lt;/strong&gt;</title>
       <link>/authors/strongmichel-l.-n./strong/</link>
-      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/strongmichel-l.-n./strong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le Bourg B.</title>
+      <link>/authors/le-bourg-b./</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/le-bourg-b./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lepoint G.</title>
+      <link>/authors/lepoint-g./</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/lepoint-g./</guid>
       <description></description>
     </item>
     
@@ -177,14 +193,6 @@
       <link>/authors/guillaumot-c./</link>
       <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
       <guid>/authors/guillaumot-c./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lepoint G.</title>
-      <link>/authors/lepoint-g./</link>
-      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/lepoint-g./</guid>
       <description></description>
     </item>
     

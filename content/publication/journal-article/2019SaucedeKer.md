@@ -42,7 +42,7 @@ interactions are not considered in these models. Nevertheless, new species inter
 can emerge in communities exposed to environmental changes and the structure of
 biotic interactions is directly related to the potential resilience of ecosystems. Trophic
 interaction studies can help predict species vulnerability to environmental changes using
-carbon (δ13C) and nitrogen (δ15N) stable isotope ratios to generate trophic models. Using
+carbon (δ<sup>13</sup>C) and nitrogen (δ<sup>15</sup>N) stable isotope ratios to generate trophic models. Using
 new available data inputs, we generated robust SDM and trophic interaction models to
 assess the potential response and sensitivity of three echinoid species to future worst-case
 scenarios of environmental change in the Kerguelen Plateau region. The two modelling
