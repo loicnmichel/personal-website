@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Loïc N. Michel</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title>&lt;strong&gt;Michel L. N.&lt;/strong&gt;</title>
+      <link>/authors/strongmichel-l.-n./strong/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/strongmichel-l.-n./strong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Danis B.</title>
+      <link>/authors/danis-b./</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/danis-b./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dubois P.</title>
+      <link>/authors/dubois-p./</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/dubois-p./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eleaume M.</title>
+      <link>/authors/eleaume-m./</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/eleaume-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fournier J.</title>
+      <link>/authors/fournier-j./</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/fournier-j./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gallut C.</title>
+      <link>/authors/gallut-c./</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/gallut-c./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jane P.</title>
+      <link>/authors/jane-p./</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/jane-p./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lepoint G</title>
+      <link>/authors/lepoint-g/</link>
+      <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/lepoint-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aune M.</title>
+      <link>/authors/aune-m./</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/aune-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Legeżyńska J</title>
+      <link>/authors/legezynska-j/</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/legezynska-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Włodarska‐Kowalczuk M.</title>
+      <link>/authors/w%C5%82odarskakowalczuk-m./</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/w%C5%82odarskakowalczuk-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zaborska A.</title>
+      <link>/authors/zaborska-a./</link>
+      <pubDate>Wed, 24 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/zaborska-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bazin A.</title>
+      <link>/authors/bazin-a./</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/bazin-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cabessut M.</title>
+      <link>/authors/cabessut-m./</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/cabessut-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David B.</title>
+      <link>/authors/david-b./</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/david-b./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De Ridder C.</title>
+      <link>/authors/de-ridder-c./</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/de-ridder-c./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Díaz A.</title>
+      <link>/authors/diaz-a./</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/diaz-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fabri-Ruiz S.</title>
+      <link>/authors/fabri-ruiz-s./</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/fabri-ruiz-s./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Féral J.-P</title>
+      <link>/authors/feral-j.-p/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/feral-j.-p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>García-Berro A.</title>
+      <link>/authors/garcia-berro-a./</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/garcia-berro-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guillaumot C.</title>
+      <link>/authors/guillaumot-c./</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/guillaumot-c./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lepoint G.</title>
+      <link>/authors/lepoint-g./</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/lepoint-g./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mateos A.</title>
+      <link>/authors/mateos-a./</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/mateos-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathieu O.</title>
+      <link>/authors/mathieu-o./</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/mathieu-o./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motreuil S.</title>
+      <link>/authors/motreuil-s./</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/motreuil-s./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poulin E.</title>
+      <link>/authors/poulin-e./</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/poulin-e./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saucède T.</title>
+      <link>/authors/saucede-t./</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/saucede-t./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dauby P.</title>
+      <link>/authors/dauby-p./</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/dauby-p./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sturaro N</title>
+      <link>/authors/sturaro-n/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/sturaro-n/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I’m a marine ecologist broadly interested in how food web structure and trophic interactions influence ecosystem functioning and biodiversity. I’m also interested in how natural or anthropogenic environmental variations impact animal feeding, and how ecological plasticity mediates marine consumers&amp;rsquo; response to change. I mostly tackle those issues by using polar and deep-sea benthic invertebrates as ecological models, and by developing approaches based on trophic markers (particularly stable isotopes).&lt;/p&gt;
+&lt;p&gt;This website is under construction. Sorry about the missing info and pages&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/cursus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/cursus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/dauby-patrick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/dauby-patrick/</guid>
+      <description>&lt;p&gt;Collaboration topics: stable isotope ecology, seagrass ecology. Patrick was my PhD advisor.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/lepoint-gilles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/lepoint-gilles/</guid>
+      <description>&lt;p&gt;Collaboration topics: many, most of them involving use of stable isotopes in ecology. Gilles was my PhD co-advisor and postdoc advisor.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

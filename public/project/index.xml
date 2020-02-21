@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Loïc N. Michel</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Polar benthic systems &amp; global change</title>
+      <link>/project/01-polar-global-change/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/project/01-polar-global-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trophic interactions in deep-sea ecosystems</title>
+      <link>/project/02-trophic-deep-sea/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/project/02-trophic-deep-sea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stable isotopes as ecological tracers</title>
+      <link>/project/03-stable-isotopes-in-ecology/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/project/03-stable-isotopes-in-ecology/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/isotopes.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;/img/isotopes.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+I started to use stable isotope ratios of light biogenic elements (C, N and S) as ecological tracers at the beginning of my PhD thesis, and quickly grew interested in their wide range of applications in environmental sciences. Over the years, and in the context of a number of fruitful academic collaborations, I developed extensive theoretical, practical and analytical knowledge of stable isotopes. From 2014 to 2017, alongside Gilles Lepoint, I co-managed University of Liège’s &lt;a href=&#34;http://labos.ulg.ac.be/oceanologie/recherches/isotopes-stables/&#34;&gt;stable isotope facility&lt;/a&gt;. I’m also a guest lecturer at University of Liège, where Gilles and I co-teach a course about stable isotope and their use in marine ecosystems.&lt;/p&gt;
+&lt;p&gt;I successfully used stable isotopes to solve questions in fields ranging from ecophysiology to organic matter fluxes and biogeochemistry. I worked with many model species groups (seagrasses, invertebrates, fishes, marine mammals and seabirds) originating from marine or freshwater ecosystems of tropical, temperate and polar regions. I also grew familiar with most common stable isotope data analysis tools, including mixing models, ecological niches metrics, isotopic diversity indices and trophic position estimation models. When possible, I try to combine stable isotopes with other techniques such as gut content analysis, or with other trophic markers such as fatty acids.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anthropogenic impacts on marine ecosystems</title>
+      <link>/project/04-anthropogenic-impacts/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/project/04-anthropogenic-impacts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seagrass meadows and associated food webs</title>
+      <link>/project/05-seagrass-ecology/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/project/05-seagrass-ecology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
