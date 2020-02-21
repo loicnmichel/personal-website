@@ -30,3 +30,6 @@ image:
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+Besides climate change and its impacts in Antarctica, part of my research focused on direct impacts of human activities on marine ecosystems' structure and function. From 2012 to 2014, I was a postdoctoral researcher at the STARESO research station (Calvi, Corsica, France), where I was in charge the scientific management of a locally funded mutli-institutional research programme focusing on multiscale anthropogenic impacts on Mediterranean coastal zones. 
+
+More recently, I had the opportunity to work with colleagues focusing on marine ecotoxicology, and to help them explore how animal feeding ecology influences their contamination by persistent organic pollutants.

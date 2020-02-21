@@ -30,3 +30,4 @@ image:
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+Since September 2017, I'm a research scientist at the [Deep Environment Laboratory](http://wwz.ifremer.fr/deep/) of [Ifremer Brittany](http://wwz.ifremer.fr/en), Brest, France. My main current focus is the study of trophic interactions among deep-sea benthic communities. More info on this research coming soon!
