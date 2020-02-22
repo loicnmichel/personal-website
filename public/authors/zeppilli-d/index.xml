@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zeppilli D. | Loïc N. Michel</title>
+    <link>/authors/zeppilli-d./</link>
+      <atom:link href="/authors/zeppilli-d./index.xml" rel="self" type="application/rss+xml" />
+    <description>Zeppilli D.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Zeppilli D.</title>
+      <link>/authors/zeppilli-d./</link>
+    </image>
+    
+    <item>
+      <title>Ecology and trophic role of *Oncholaimus dyvae* sp. nov. (Nematoda: Oncholaimidae) from the Lucky Strike hydrothermal vent field (Mid-Atlantic Ridge)</title>
+      <link>/publication/journal-article/2019zeppillibmc/</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2019zeppillibmc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

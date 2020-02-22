@@ -1,7 +1,7 @@
 ---
 title: "Sampling methods for amphipods of *Posidonia oceanica* meadows: a comparative study"
 authors:
-- <strong>Michel L. N.</strong>
+- <strong>Michel L.</strong>
 - Lepoint G. 
 - Dauby P.
 - Sturaro N

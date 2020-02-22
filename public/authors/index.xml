@@ -101,34 +101,10 @@
     </item>
     
     <item>
-      <title>Ann Vanreusel</title>
-      <link>/authors/ann-vanreusel/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/ann-vanreusel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Barbara Górska</title>
       <link>/authors/barbara-gorska/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/authors/barbara-gorska/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Daniela Zeppilli</title>
-      <link>/authors/daniela-zeppilli/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/daniela-zeppilli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Diego Fontaneto</title>
-      <link>/authors/diego-fontaneto/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/diego-fontaneto/</guid>
       <description></description>
     </item>
     
@@ -149,34 +125,10 @@
     </item>
     
     <item>
-      <title>Jozée Sarrazin</title>
-      <link>/authors/jozee-sarrazin/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/jozee-sarrazin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Krishna Das</title>
       <link>/authors/krishna-das/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/authors/krishna-das/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Laure Bellec</title>
-      <link>/authors/laure-bellec/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/laure-bellec/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Loïc N Michel</title>
-      <link>/authors/loic-n-michel/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/loic-n-michel/</guid>
       <description></description>
     </item>
     
@@ -205,74 +157,10 @@
     </item>
     
     <item>
-      <title>Marie Portail</title>
-      <link>/authors/marie-portail/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/marie-portail/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Marie-Anne Cambon-Bonavita</title>
-      <link>/authors/marie-anne-cambon-bonavita/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/marie-anne-cambon-bonavita/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Martin V Sørensen</title>
-      <link>/authors/martin-v-s%C3%B8rensen/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/martin-v-s%C3%B8rensen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mikołaj Mazurkiewicz</title>
       <link>/authors/miko%C5%82aj-mazurkiewicz/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/authors/miko%C5%82aj-mazurkiewicz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nic Smol</title>
-      <link>/authors/nic-smol/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/nic-smol/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nicolas Gayet</title>
-      <link>/authors/nicolas-gayet/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/nicolas-gayet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Perrine Mandon</title>
-      <link>/authors/perrine-mandon/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/perrine-mandon/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sandra Fuchs</title>
-      <link>/authors/sandra-fuchs/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/sandra-fuchs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wilfrida Decraemer</title>
-      <link>/authors/wilfrida-decraemer/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/wilfrida-decraemer/</guid>
       <description></description>
     </item>
     
@@ -361,6 +249,110 @@
       <link>/authors/simon-r.-chenery/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/simon-r.-chenery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bellec L.</title>
+      <link>/authors/bellec-l./</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/bellec-l./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cambon-Bonavita M.-A.</title>
+      <link>/authors/cambon-bonavita-m.-a./</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/cambon-bonavita-m.-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decraemer W.</title>
+      <link>/authors/decraemer-w./</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/decraemer-w./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fontaneto D.</title>
+      <link>/authors/fontaneto-d./</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/fontaneto-d./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fuchs S.</title>
+      <link>/authors/fuchs-s./</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/fuchs-s./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gayet N.</title>
+      <link>/authors/gayet-n./</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/gayet-n./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mandon P.</title>
+      <link>/authors/mandon-p./</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/mandon-p./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portail M.</title>
+      <link>/authors/portail-m./</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/portail-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarrazin J.</title>
+      <link>/authors/sarrazin-j./</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/sarrazin-j./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smol N.</title>
+      <link>/authors/smol-n./</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/smol-n./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sørensen M. V.</title>
+      <link>/authors/s%C3%B8rensen-m.-v./</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/s%C3%B8rensen-m.-v./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vanreusel A.</title>
+      <link>/authors/vanreusel-a./</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/vanreusel-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zeppilli D.</title>
+      <link>/authors/zeppilli-d./</link>
+      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/zeppilli-d./</guid>
       <description></description>
     </item>
     
@@ -569,6 +561,14 @@
       <link>/authors/adrien-latli/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/authors/adrien-latli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loïc N Michel</title>
+      <link>/authors/loic-n-michel/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/loic-n-michel/</guid>
       <description></description>
     </item>
     
@@ -1177,6 +1177,14 @@
       <link>/authors/peter-j.h.-reijnders/</link>
       <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
       <guid>/authors/peter-j.h.-reijnders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>&lt;strong&gt;Michel L.&lt;/strong&gt;</title>
+      <link>/authors/strongmichel-l./strong/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/strongmichel-l./strong/</guid>
       <description></description>
     </item>
     

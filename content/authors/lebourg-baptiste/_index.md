@@ -1,6 +1,6 @@
 ﻿---
 # Display name
-name: FirstName LastName
+name: Baptiste Le Bourg
 
 # Username (this should match the folder name)
 authors:

@@ -93,27 +93,7 @@
   </url>
   
   <url>
-    <loc>/authors/ann-vanreusel/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/barbara-gorska/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/daniela-zeppilli/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/diego-fontaneto/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/2019zeppillibmc/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,22 +108,7 @@
   </url>
   
   <url>
-    <loc>/authors/jozee-sarrazin/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/krishna-das/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/laure-bellec/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/loic-n-michel/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,32 +128,7 @@
   </url>
   
   <url>
-    <loc>/authors/marie-portail/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/marie-anne-cambon-bonavita/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/martin-v-s%C3%B8rensen/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/miko%C5%82aj-mazurkiewicz/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nic-smol/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nicolas-gayet/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -198,22 +138,7 @@
   </url>
   
   <url>
-    <loc>/authors/perrine-mandon/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sandra-fuchs/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/journal-article/2019pinzonechemo/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/wilfrida-decraemer/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -293,12 +218,12 @@
   </url>
   
   <url>
-    <loc>/tags/papers/</loc>
+    <loc>/categories/papers/</loc>
     <lastmod>2019-07-31T10:52:42+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/papers/</loc>
+    <loc>/tags/papers/</loc>
     <lastmod>2019-07-31T10:52:42+01:00</lastmod>
   </url>
   
@@ -315,6 +240,76 @@
   <url>
     <loc>/tags/uncategorized/</loc>
     <lastmod>2019-07-26T13:35:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/bellec-l./</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/cambon-bonavita-m.-a./</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/decraemer-w./</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/2019zeppillibmc/</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/fontaneto-d./</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/fuchs-s./</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/gayet-n./</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/mandon-p./</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/portail-m./</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sarrazin-j./</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/smol-n./</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/s%C3%B8rensen-m.-v./</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/vanreusel-a./</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zeppilli-d./</loc>
+    <lastmod>2019-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -534,6 +529,11 @@
   
   <url>
     <loc>/deepseabase/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/loic-n-michel/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1260,6 +1260,11 @@
   <url>
     <loc>/authors/peter-j.h.-reijnders/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/strongmichel-l./strong/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
