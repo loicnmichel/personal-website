@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loïc Kéver | Loïc N. Michel</title>
+    <link>/authors/loic-kever/</link>
+      <atom:link href="/authors/loic-kever/index.xml" rel="self" type="application/rss+xml" />
+    <description>Loïc Kéver</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Loïc Kéver</title>
+      <link>/authors/loic-kever/</link>
+    </image>
+    
+    <item>
+      <title>Passive acoustic recording of Ophidion rochei calling activity in Calvi Bay (France)</title>
+      <link>/publication/journal-article/2016kevermarecol/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2016kevermarecol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joseph G. Schnitzler | Loïc N. Michel</title>
+    <link>/authors/joseph-g.-schnitzler/</link>
+      <atom:link href="/authors/joseph-g.-schnitzler/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joseph G. Schnitzler</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Joseph G. Schnitzler</title>
+      <link>/authors/joseph-g.-schnitzler/</link>
+    </image>
+    
+    <item>
+      <title>Occurrence of legacy and emerging organic pollutants in whitemouth croakers from Southeastern Brazil</title>
+      <link>/publication/journal-article/2019pizzocherostoten/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2019pizzocherostoten/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick Kestemont | Loïc N. Michel</title>
+    <link>/authors/patrick-kestemont/</link>
+      <atom:link href="/authors/patrick-kestemont/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patrick Kestemont</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Patrick Kestemont</title>
+      <link>/authors/patrick-kestemont/</link>
+    </image>
+    
+    <item>
+      <title>River habitat homogenisation enhances trophic competition and promotes individual specialisation among young of the year fish</title>
+      <link>/publication/journal-article/2019latlifresh/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2019latlifresh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isotopic half-life and enrichment factor in two species of European freshwater fish larvae: an experimental approach</title>
+      <link>/publication/journal-article/2017latlircms/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2017latlircms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

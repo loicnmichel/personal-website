@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Barbara Górska | Loïc N. Michel</title>
+    <link>/authors/barbara-gorska/</link>
+      <atom:link href="/authors/barbara-gorska/index.xml" rel="self" type="application/rss+xml" />
+    <description>Barbara Górska</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Barbara Górska</title>
+      <link>/authors/barbara-gorska/</link>
+    </image>
+    
+    <item>
+      <title>Organic Carbon Origin, Benthic Faunal Consumption, and Burial in Sediments of Northern Atlantic and Arctic Fjords (60–81°N)</title>
+      <link>/publication/journal-article/2019wlodarskajgr/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2019wlodarskajgr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

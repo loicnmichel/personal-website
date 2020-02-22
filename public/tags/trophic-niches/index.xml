@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>trophic niches | Loïc N. Michel</title>
+    <link>/tags/trophic-niches/</link>
+      <atom:link href="/tags/trophic-niches/index.xml" rel="self" type="application/rss+xml" />
+    <description>trophic niches</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>trophic niches</title>
+      <link>/tags/trophic-niches/</link>
+    </image>
+    
+    <item>
+      <title>Trophic ecology of the seagrass-inhabiting footballer demoiselle textitChrysiptera annulata (Peters, 1855); comparison with three other reef-associated damselfishes</title>
+      <link>/publication/journal-article/lepoint-trophic-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/lepoint-trophic-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

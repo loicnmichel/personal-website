@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandra Fuchs | Loïc N. Michel</title>
+    <link>/authors/sandra-fuchs/</link>
+      <atom:link href="/authors/sandra-fuchs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sandra Fuchs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Sandra Fuchs</title>
+      <link>/authors/sandra-fuchs/</link>
+    </image>
+    
+    <item>
+      <title>Ecology and trophic role of textitOncholaimus dyvae sp. nov. (Nematoda: Oncholaimidae) from the lucky strike hydrothermal vent field (Mid-Atlantic Ridge)</title>
+      <link>/publication/journal-article/2019zeppillibmc/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2019zeppillibmc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

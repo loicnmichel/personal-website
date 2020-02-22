@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric Parmentier | Loïc N. Michel</title>
+    <link>/authors/eric-parmentier/</link>
+      <atom:link href="/authors/eric-parmentier/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eric Parmentier</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Eric Parmentier</title>
+      <link>/authors/eric-parmentier/</link>
+    </image>
+    
+    <item>
+      <title>Similar levels of trophic and functional diversity within damselfish assemblages across Indo-Pacific coral reefs</title>
+      <link>/publication/journal-article/2018gajdzikfuneco/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2018gajdzikfuneco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trophic ecology of the seagrass-inhabiting footballer demoiselle textitChrysiptera annulata (Peters, 1855); comparison with three other reef-associated damselfishes</title>
+      <link>/publication/journal-article/2016lepointbjzchris/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2016lepointbjzchris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boundary lines in symbiosis forms</title>
+      <link>/publication/journal-article/2013parmentiersymb/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2013parmentiersymb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Okka E. Jansen | Loïc N. Michel</title>
+    <link>/authors/okka-e.-jansen/</link>
+      <atom:link href="/authors/okka-e.-jansen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Okka E. Jansen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Okka E. Jansen</title>
+      <link>/authors/okka-e.-jansen/</link>
+    </image>
+    
+    <item>
+      <title>Diet of harbor porpoises along the Dutch coast: A combined stable isotope and stomach contents approach</title>
+      <link>/publication/journal-article/2013jansenmarmammal/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2013jansenmarmammal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feeding ecology of harbour porpoises: stable isotope analysis of carbon and nitrogen in muscle and bone</title>
+      <link>/publication/journal-article/2012jansenmarbiolres/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2012jansenmarbiolres/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

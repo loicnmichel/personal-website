@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eens M. | Loïc N. Michel</title>
+    <link>/authors/eens-m./</link>
+      <atom:link href="/authors/eens-m./index.xml" rel="self" type="application/rss+xml" />
+    <description>Eens M.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Eens M.</title>
+      <link>/authors/eens-m./</link>
+    </image>
+    
+    <item>
+      <title>High inter‐ and intraspecific niche overlap among three sympatrically breeding, closely related seabird species: Generalist foraging as an adaptation to a highly variable environment?</title>
+      <link>/publication/journal-article/2020dehnhardjae/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2020dehnhardjae/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

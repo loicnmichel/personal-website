@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thibaud Mascart | Loïc N. Michel</title>
+    <link>/authors/thibaud-mascart/</link>
+      <atom:link href="/authors/thibaud-mascart/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thibaud Mascart</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Thibaud Mascart</title>
+      <link>/authors/thibaud-mascart/</link>
+    </image>
+    
+    <item>
+      <title>Seagrass organic matter transfer in textitPosidonia oceanica macrophytodetritus accumulations</title>
+      <link>/publication/journal-article/2018remyecss/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2018remyecss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seasonal dependence on seagrass detritus and trophic niche partitioning in four copepod eco-morphotypes</title>
+      <link>/publication/journal-article/2018mascartfood/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2018mascartfood/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

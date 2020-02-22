@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>U. Siebert | Loïc N. Michel</title>
+    <link>/authors/u.-siebert/</link>
+      <atom:link href="/authors/u.-siebert/index.xml" rel="self" type="application/rss+xml" />
+    <description>U. Siebert</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>U. Siebert</title>
+      <link>/authors/u.-siebert/</link>
+    </image>
+    
+    <item>
+      <title>Carbon, nitrogen and sulphur isotopic fractionation in captive juvenile hooded seal (Cystophora cristata): Application for diet analysis</title>
+      <link>/publication/journal-article/2017pinzonercms/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2017pinzonercms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

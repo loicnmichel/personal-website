@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ian D. McCarthy | Loïc N. Michel</title>
+    <link>/authors/ian-d.-mccarthy/</link>
+      <atom:link href="/authors/ian-d.-mccarthy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ian D. McCarthy</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ian D. McCarthy</title>
+      <link>/authors/ian-d.-mccarthy/</link>
+    </image>
+    
+    <item>
+      <title>Occurrence of legacy and emerging organic pollutants in whitemouth croakers from Southeastern Brazil</title>
+      <link>/publication/journal-article/2019pizzocherostoten/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2019pizzocherostoten/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of multielement stable isotope ratios to investigate ontogenetic movements of Micropogonias furnieri in a tropical Brazilian estuary</title>
+      <link>/publication/journal-article/2018pizzocherocjfas/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2018pizzocherocjfas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

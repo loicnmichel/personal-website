@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mediterranean Sea | Loïc N. Michel</title>
+    <link>/tags/mediterranean-sea/</link>
+      <atom:link href="/tags/mediterranean-sea/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mediterranean Sea</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mediterranean Sea</title>
+      <link>/tags/mediterranean-sea/</link>
+    </image>
+    
+    <item>
+      <title>Seagrass organic matter transfer in textitPosidonia oceanica macrophytodetritus accumulations</title>
+      <link>/publication/journal-article/remy2018ecss/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/remy2018ecss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epiphytic bryozoans on Neptune grass – a sample-based data set</title>
+      <link>/publication/journal-article/lepoint-epiphytic-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/lepoint-epiphytic-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biodiversity and seasonal variations of zooneuston in the northwestern Mediterranean Sea</title>
+      <link>/publication/journal-article/collard-biodiversity-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/collard-biodiversity-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

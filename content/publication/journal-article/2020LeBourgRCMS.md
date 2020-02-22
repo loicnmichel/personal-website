@@ -29,7 +29,7 @@ Conclusions: Overall, these results show that preservation may affect the stable
 summary: 
 
 tags:
-featured: true
+featured: false
 
 # links:
 #- name: ""

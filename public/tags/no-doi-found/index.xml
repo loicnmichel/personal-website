@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>⛔ No DOI found | Loïc N. Michel</title>
+    <link>/tags/no-doi-found/</link>
+      <atom:link href="/tags/no-doi-found/index.xml" rel="self" type="application/rss+xml" />
+    <description>⛔ No DOI found</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>⛔ No DOI found</title>
+      <link>/tags/no-doi-found/</link>
+    </image>
+    
+    <item>
+      <title>Trophic ecology of the seagrass-inhabiting footballer demoiselle textitChrysiptera annulata (Peters, 1855); comparison with three other reef-associated damselfishes</title>
+      <link>/publication/journal-article/lepoint-trophic-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/lepoint-trophic-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trophic interactions between two neustonic organisms: insights from Bayesian stable isotope data analysis tools</title>
+      <link>/publication/journal-article/lepoint-trophic-2016-1/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/lepoint-trophic-2016-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biodiversity and seasonal variations of zooneuston in the northwestern Mediterranean Sea</title>
+      <link>/publication/journal-article/collard-biodiversity-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/collard-biodiversity-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective top-down control of epiphytic biomass by amphipods from textitPosidonia oceanica meadows : implications for ecosystem functioning</title>
+      <link>/publication/journal-article/michel-selective-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/michel-selective-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

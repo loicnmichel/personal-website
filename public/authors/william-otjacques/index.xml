@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William Otjacques | Loïc N. Michel</title>
+    <link>/authors/william-otjacques/</link>
+      <atom:link href="/authors/william-otjacques/index.xml" rel="self" type="application/rss+xml" />
+    <description>William Otjacques</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>William Otjacques</title>
+      <link>/authors/william-otjacques/</link>
+    </image>
+    
+    <item>
+      <title>Isotopic half-life and enrichment factor in two species of European freshwater fish larvae: an experimental approach</title>
+      <link>/publication/journal-article/2017latlircms/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2017latlircms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

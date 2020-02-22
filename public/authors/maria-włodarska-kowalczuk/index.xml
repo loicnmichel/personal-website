@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria Włodarska-Kowalczuk | Loïc N. Michel</title>
+    <link>/authors/maria-w%C5%82odarska-kowalczuk/</link>
+      <atom:link href="/authors/maria-w%C5%82odarska-kowalczuk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maria Włodarska-Kowalczuk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Maria Włodarska-Kowalczuk</title>
+      <link>/authors/maria-w%C5%82odarska-kowalczuk/</link>
+    </image>
+    
+    <item>
+      <title>Stabilizing effects of seagrass meadows on coastal water benthic food webs</title>
+      <link>/publication/journal-article/2019jankowskajembe/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2019jankowskajembe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modification of benthic food web structure by recovering seagrass meadows, as revealed by trophic markers and mixing models</title>
+      <link>/publication/journal-article/2018jankowskaecolind/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2018jankowskaecolind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sediment carbon sink in low-density temperate eelgrass meadows (Baltic Sea)</title>
+      <link>/publication/journal-article/2016jankowskajgr/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2016jankowskajgr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

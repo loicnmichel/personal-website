@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loïc Michel | Loïc N. Michel</title>
+    <link>/authors/loic-michel/</link>
+      <atom:link href="/authors/loic-michel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Loïc Michel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Loïc Michel</title>
+      <link>/authors/loic-michel/</link>
+    </image>
+    
+    <item>
+      <title>Biodiversity and seasonal variations of zooneuston in the northwestern Mediterranean Sea</title>
+      <link>/publication/journal-article/2015collardbjz/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2015collardbjz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diet of harbor porpoises along the Dutch coast: A combined stable isotope and stomach contents approach</title>
+      <link>/publication/journal-article/2013jansenmarmammal/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2013jansenmarmammal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boundary lines in symbiosis forms</title>
+      <link>/publication/journal-article/2013parmentiersymb/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2013parmentiersymb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diet-and tissue-specific incorporation of isotopes in the shark textitScyliorhinus stellaris, a North Sea mesopredator</title>
+      <link>/publication/journal-article/2013cautmeps/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2013cautmeps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feeding ecology of harbour porpoises: stable isotope analysis of carbon and nitrogen in muscle and bone</title>
+      <link>/publication/journal-article/2012jansenmarbiolres/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2012jansenmarbiolres/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

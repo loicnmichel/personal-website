@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posidonia oceanica | Loïc N. Michel</title>
+    <link>/tags/posidonia-oceanica/</link>
+      <atom:link href="/tags/posidonia-oceanica/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posidonia oceanica</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Posidonia oceanica</title>
+      <link>/tags/posidonia-oceanica/</link>
+    </image>
+    
+    <item>
+      <title>Dominant amphipods of textitPosidonia oceanica seagrass meadows display considerable trophic diversity</title>
+      <link>/publication/journal-article/michel-dominant-2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/michel-dominant-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective top-down control of epiphytic biomass by amphipods from textitPosidonia oceanica meadows : implications for ecosystem functioning</title>
+      <link>/publication/journal-article/michel-selective-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/michel-selective-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a framework for assessment and management of cumulative human impacts on marine food webs</title>
+      <link>/publication/journal-article/giakoumi-towards-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/giakoumi-towards-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

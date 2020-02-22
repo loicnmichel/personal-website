@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter J. H. Reijnders | Loïc N. Michel</title>
+    <link>/authors/peter-j.-h.-reijnders/</link>
+      <atom:link href="/authors/peter-j.-h.-reijnders/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter J. H. Reijnders</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Peter J. H. Reijnders</title>
+      <link>/authors/peter-j.-h.-reijnders/</link>
+    </image>
+    
+    <item>
+      <title>Diet of harbor porpoises along the Dutch coast: A combined stable isotope and stomach contents approach</title>
+      <link>/publication/journal-article/2013jansenmarmammal/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2013jansenmarmammal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

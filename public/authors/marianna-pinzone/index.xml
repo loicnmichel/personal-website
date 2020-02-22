@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marianna Pinzone | Loïc N. Michel</title>
+    <link>/authors/marianna-pinzone/</link>
+      <atom:link href="/authors/marianna-pinzone/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marianna Pinzone</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Marianna Pinzone</title>
+      <link>/authors/marianna-pinzone/</link>
+    </image>
+    
+    <item>
+      <title>Stable isotope ratios of carbon, nitrogen and sulphur and mercury concentrations as descriptors of trophic ecology and contamination sources of Mediterranean whales</title>
+      <link>/publication/journal-article/2019pinzonechemo/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2019pinzonechemo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
