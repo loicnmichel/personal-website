@@ -1,4 +1,4 @@
-﻿---
+---
 # Display name
 name: Maria Włodarska-Kowalczuk
 
@@ -17,7 +17,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#bio: 
+bio: IOPAN (PL)  
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

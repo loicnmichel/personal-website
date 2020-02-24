@@ -1,4 +1,4 @@
-﻿---
+---
 # Display name
 name: Krishna Das
 
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#bio: 
+bio: ULiège (BE) 
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
