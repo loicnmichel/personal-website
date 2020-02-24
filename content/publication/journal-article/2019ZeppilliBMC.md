@@ -5,7 +5,7 @@ date: 2019-07-26
 
 publishDate: 2020-02-22T09:51:32.645064Z
 
-authors: ["Zeppilli D.", "Bellec L.", "Cambon-Bonavita M.-A.", "Decraemer W.", "Fontaneto D.", "Fuchs S.", "Gayet N.", "Mandon P.", "<strong>Michel L. N.</strong>", "Portail M.", "Smol N.", "Sørensen M. V.", "Vanreusel A.", "Sarrazin J."]
+authors: ["Zeppilli D.", "Bellec L.", "Cambon-Bonavita M.-A.", "Decraemer W.", "Fontaneto D.", "Fuchs S.", "Gayet N.", "Mandon P.", "<strong>Michel L. N.</strong>", "Portail M.", "Smol N.", "Sørensen M. V.", "Vanreusel A.", "Sarrazin J"]
 
 publication_types: ["2"]
 

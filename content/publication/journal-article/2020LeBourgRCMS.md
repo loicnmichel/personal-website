@@ -3,7 +3,7 @@ title: "Effects of preservation methodology on stable isotope compositions of se
 authors:
 - Le Bourg B.
 - Lepoint G.
-- <strong>Michel L. N.</strong>
+- <strong>Michel L. N</strong>
 date: "2020-01-30T00:00:00Z"
 doi: "10.1002/rcm.8589"
 

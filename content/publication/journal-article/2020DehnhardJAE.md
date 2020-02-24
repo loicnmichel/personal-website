@@ -8,7 +8,7 @@ authors:
 - Southwell C.
 - Sumner M. D.
 - Eens M.
-- Emmerson L.
+- Emmerson L
 date: "2020-01-17T00:00:00Z"
 doi: "10.1111/1365-2656.13078"
 
@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Rapid Communications in Mass Spectrometry*, 34 (2): e8589"
+publication: "*Journal of Animal Ecology*, 89 (1): 104-119"
 publication_short: ""
 
 abstract: "Ecological niche theory predicts sympatric species to show segregation in their spatio‐temporal habitat utilization or diet as a strategy to avoid competition. Similarly, within species individuals may specialize on specific dietary resources or foraging habitats. Such individual specialization seems to occur particularly in environments with predictable resource distribution and limited environmental variability. Still, little is known about how seasonal environmental variability affects segregation of resources within species and between closely related sympatric species.<br>
