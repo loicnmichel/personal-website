@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Peer-reviewed articles</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel. Photographs: Loïc Michel Phil Jane &amp; Arnaud Abadie</copyright><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/Sterechinus.jpg</url>
       <title>Peer-reviewed articles</title>
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>Organic Carbon Origin, Benthic Faunal Consumption, and Burial in Sediments of Northern Atlantic and Arctic Fjords (60–81°N)</title>
+      <title>Organic carbon origin, benthic faunal consumption, and burial in sediments of northern Atlantic and Arctic fjords (60–81°N)</title>
       <link>/publication/journal-article/2019wlodarskajgr/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/publication/journal-article/2019wlodarskajgr/</guid>
