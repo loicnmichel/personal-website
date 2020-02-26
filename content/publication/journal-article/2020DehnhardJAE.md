@@ -34,7 +34,7 @@ Our results may be explained by optimal foraging theory. In the highly productiv
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: "2020"
+tags:
 featured: true
 
 # links:

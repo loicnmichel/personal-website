@@ -28,7 +28,7 @@ Conclusions: Overall, these results show that preservation may affect the stable
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: "2020"
+tags:
 featured: false
 
 # links:
