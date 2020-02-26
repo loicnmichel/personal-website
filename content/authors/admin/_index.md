@@ -57,7 +57,7 @@ social:
   link: https://docs.google.com/document/d/1nSPq47XahkX0iHRBBMtOsTF7_6QIaPDXEDnX_0YYfnQ/export?format=pdf
 - icon: university
   icon_pack: fas
-  link: https://wwz.ifremer.fr/en
+  link: https://annuaire.ifremer.fr/cv/24391/en/
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-0988-7050

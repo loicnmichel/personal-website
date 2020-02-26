@@ -1,6 +1,6 @@
 ---
 title: "Organic carbon origin, benthic faunal consumption, and burial in sediments of northern Atlantic and Arctic fjords (60–81°N)"
-authors: ["Włodarska‐Kowalczuk M.", "Mazurkiewicz M.", "Górska B.", "<strong>Michel L. N.</strong>", "Jankowska E.", "Zaborska A."]
+authors: ["Włodarska‐Kowalczuk M.", "Mazurkiewicz M.", "Górska B.", "<strong>Michel L. N.</strong>", "Jankowska E.", "Zaborska A"]
 date: "2019-12-01"
 doi: "10.1029/2019JG005140"
 featured: false
