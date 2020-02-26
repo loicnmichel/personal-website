@@ -27,7 +27,7 @@ Each of the methods shows specific advantages and disadvantages, hence the most 
 # Summary. An optional shortened abstract.
 summary: 
 
-tags:
+tags: ["2010"]
 featured: false
 
 # links:
