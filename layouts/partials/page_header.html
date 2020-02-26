@@ -3,7 +3,7 @@
 {{ $anchor := $page.Params.image.focal_point | default "Smart" }}
 
 {{/* Set default titles for node pages */}}
-{{ $title := .Title }}
+{{ $title := .Title | markdownify }}
 {{ if and (not $title) .IsNode }}
   {{ if eq .Type "post" }}
     {{ $title = i18n "posts" }}
@@ -11,7 +11,7 @@
     {{ $title = i18n "talks" }}
   {{ else if eq .Type "publication" }}
     {{ $title = i18n "publications" }}
-  {{end}}
+{{end}}
 {{end}}
 
 {{/* Header image */}}

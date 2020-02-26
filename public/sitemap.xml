@@ -138,7 +138,7 @@
   </url>
   
   <url>
-    <loc>/authors/zaborska-a./</loc>
+    <loc>/authors/zaborska-a/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -223,12 +223,12 @@
   </url>
   
   <url>
-    <loc>/categories/papers/</loc>
+    <loc>/tags/papers/</loc>
     <lastmod>2019-07-31T10:52:42+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/papers/</loc>
+    <loc>/categories/papers/</loc>
     <lastmod>2019-07-31T10:52:42+01:00</lastmod>
   </url>
   
@@ -398,6 +398,11 @@
   </url>
   
   <url>
+    <loc>/authors/zaborska-a./</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/funded-project-unravelling-energy-pathways-in-hydrothermal-vents-through-isotopic-labelling/</loc>
     <lastmod>2019-04-04T12:42:15+00:00</lastmod>
   </url>
@@ -408,7 +413,7 @@
   </url>
   
   <url>
-    <loc>/authors/kestemont-p./</loc>
+    <loc>/authors/kestemont-p/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
