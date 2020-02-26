@@ -1,4 +1,4 @@
-+++
+﻿+++
 # A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Peer-reviewed articles"
-subtitle = ""
+#title = "Conferences"
+#subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -29,18 +29,18 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "Odontaster.jpg"  # Name of image in `static/img/`.
-  image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  #image = "Odontaster.jpg"  # Name of image in `static/img/`.
+  #image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  #image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  #image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  #image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
   text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["0", "0", "0", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -49,5 +49,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-{{% alert note %}}As of February 2020, I have published 36 papers (35 journal articles and one conference paper), including 7 as first and 5 as senior author. My work has been cited 348 times, my h-index is 9, and my i10-index is 9 [(Google Scholar profile)](https://scholar.google.com/citations?user=BxfeVdAAAAAJ). The full text of most of these publications is available through [University of Liège’s institutional repository (ORBI)](https://orbi.uliege.be/simple-search?query=u172073). If not, [contact me](https://loicnmichel.netlify.com/#contact) to get a copy.
-{{% /alert %}}

@@ -2,7 +2,7 @@
 # A Recent Publications section created with the Pages widget.
 # This section displays recent blog posts from `content/publication/`.
 
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "pagesperso"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 25 # Order that this section will appear.
@@ -58,7 +58,11 @@ weight = 25 # Order that this section will appear.
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
-  
+
+[design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["20px", "0", "20px", "0"]
+
 [advanced]
  # Custom CSS. 
  css_style = ""
