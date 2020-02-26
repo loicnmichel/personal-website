@@ -64,10 +64,6 @@
 {{ else }}
   {{ $i18n = "more_pages" }}
 {{ end }}
-  <div>
-    <h2>{{ with $st.Title }}{{ . | markdownify | emojify }}{{ end }}</h2S>
-    {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
-  </div>
 <div>
     {{ range $post := $query }}
       {{ if eq $st.Params.design.view 1 }}

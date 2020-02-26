@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>/authors/strongmichel-l.-n/strong/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
   </url>
@@ -28,6 +33,11 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
   </url>
@@ -35,6 +45,11 @@
   <url>
     <loc>/publication_types/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/strongmichel-l.-n./strong/</loc>
+    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -83,7 +98,7 @@
   </url>
   
   <url>
-    <loc>/authors/das-k./</loc>
+    <loc>/authors/das-k/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,12 +138,17 @@
   </url>
   
   <url>
-    <loc>/authors/zaborska-a./</loc>
+    <loc>/authors/zaborska-a/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/chenery-s.-r./</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/das-k./</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -139,6 +159,11 @@
   
   <url>
     <loc>/authors/dorneles-p.-r./</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lepoint-g/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -198,12 +223,12 @@
   </url>
   
   <url>
-    <loc>/tags/papers/</loc>
+    <loc>/categories/papers/</loc>
     <lastmod>2019-07-31T10:52:42+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/papers/</loc>
+    <loc>/tags/papers/</loc>
     <lastmod>2019-07-31T10:52:42+01:00</lastmod>
   </url>
   
@@ -373,6 +398,11 @@
   </url>
   
   <url>
+    <loc>/authors/zaborska-a./</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/funded-project-unravelling-energy-pathways-in-hydrothermal-vents-through-isotopic-labelling/</loc>
     <lastmod>2019-04-04T12:42:15+00:00</lastmod>
   </url>
@@ -504,11 +534,6 @@
   
   <url>
     <loc>/deepseabase/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1303,6 +1328,11 @@
   </url>
   
   <url>
+    <loc>/authors/strongmichel-l./strong/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/dauby-p./</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -1463,18 +1493,6 @@
   
   <url>
     <loc>/authors/zeppilli-daniela/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/strongmichel-l.-n./strong/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/strongmichel-l.-n/strong/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/strongmichel-l./strong/</loc>
   </url>
   
   <url>
