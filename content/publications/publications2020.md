@@ -28,7 +28,9 @@ title = "2020"
     tag = ""
     category = ""
     publication_type = ""
-    exclude_featured = false
+    exclude_featured = false	
+    exclude_past = true
+    date_start = "2020-01-01T00:00:00Z"
   
 [design]
   columns = "1"

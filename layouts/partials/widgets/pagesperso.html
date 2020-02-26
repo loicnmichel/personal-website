@@ -34,7 +34,7 @@
   {{ $query = where $query "Params.featured" "!=" true }}
 {{ end }}
 {{ if $st.Params.content.filters.exclude_past }}
-  {{ $query = where $query "Date" ">=" now }}
+  {{ $query = where $query "Date" ">=" Params.content.filters.date_start }}
 {{ end }}
 {{ if $st.Params.content.filters.exclude_future }}
   {{ $query = where $query "Date" "<" now }}
