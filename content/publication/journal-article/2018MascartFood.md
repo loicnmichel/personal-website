@@ -1,4 +1,4 @@
----
+﻿---
 title: "Seasonal dependence on seagrass detritus and trophic niche partitioning in four copepod eco-morphotypes"
 date: 2018-09-01
 publishDate: 2020-02-22T09:51:32.676146Z
@@ -9,5 +9,6 @@ featured: false
 publication: "*Food Webs*"
 url_pdf: "https://linkinghub.elsevier.com/retrieve/pii/S2352249617300575"
 doi: "10.1016/j.fooweb.2018.e00086"
+tags: ["2018"]
 ---
 

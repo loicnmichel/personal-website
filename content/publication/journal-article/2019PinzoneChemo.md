@@ -1,4 +1,4 @@
----
+﻿---
 title: "Stable isotope ratios of carbon, nitrogen and sulphur and mercury concentrations as descriptors of trophic ecology and contamination sources of Mediterranean whales"
 date: 2019-12-01
 publishDate: 2020-02-22T09:51:32.648071Z
@@ -10,5 +10,6 @@ publication: "*Chemosphere*, 237: 124448"
 url_pdf: "http://hdl.handle.net/2268/238646"
 doi: "10.1016/j.chemosphere.2019.124448"
 projects: [03-stable-isotopes-in-ecology, 04-anthropogenic-impacts]
+tags: ["2019"]
 ---
 

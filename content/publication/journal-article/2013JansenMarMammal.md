@@ -1,4 +1,4 @@
----
+﻿---
 title: "Diet of harbor porpoises along the Dutch coast: A combined stable isotope and stomach contents approach"
 date: 2013-07-01
 publishDate: 2020-02-22T09:51:32.674141Z
@@ -9,5 +9,7 @@ featured: false
 publication: "*Marine Mammal Science*"
 url_pdf: "http://doi.wiley.com/10.1111/j.1748-7692.2012.00621.x"
 doi: "10.1111/j.1748-7692.2012.00621.x"
+
+tags: ["2013"]
 ---
 

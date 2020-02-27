@@ -1,4 +1,4 @@
----
+﻿---
 title: "Organic carbon origin, benthic faunal consumption, and burial in sediments of northern Atlantic and Arctic fjords (60–81°N)"
 authors: ["Włodarska‐Kowalczuk M.", "Mazurkiewicz M.", "Górska B.", "<strong>Michel L. N.</strong>", "Jankowska E.", "Zaborska A"]
 date: "2019-12-01"
@@ -30,5 +30,6 @@ abstract: "Fjords have been recently recognized as hot spots of organic carbon (
   blue carbon storage and for building scenarios of future changes in the course of
   climate warming."
 url_pdf: "https://hdl.handle.net/2268/242209"
+tags: ["2019"]
 ---
 

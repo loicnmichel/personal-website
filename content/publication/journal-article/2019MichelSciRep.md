@@ -1,4 +1,4 @@
----
+﻿---
 title: "Increased sea ice cover alters food web structure in East Antarctica"
 authors:
 - <strong>Michel L. N.</strong>
@@ -30,7 +30,7 @@ abstract: "In recent years, sea ice cover along coasts of East Antarctica has te
 # Summary. An optional shortened abstract.
 summary: 
 
-tags:
+tags: ["2019"]
 featured: true
 
 # links:

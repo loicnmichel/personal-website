@@ -1,4 +1,4 @@
----
+﻿---
 title: "Stabilizing effects of seagrass meadows on coastal water benthic food webs"
 date: 2019-01-01
 publishDate: 2020-02-22T09:51:32.662109Z
@@ -10,5 +10,6 @@ publication: "*Journal of Experimental Marine Biology and Ecology*, 510: 54-63"
 url_pdf: "http://hdl.handle.net/2268/228901"
 doi: "10.1016/j.jembe.2018.10.004"
 projects: [03-stable-isotopes-in-ecology, 04-anthropogenic-impacts, 05-seagrass-ecology]
+tags: ["2019"]
 ---
 

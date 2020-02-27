@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Zoological Studies*"
-tags: []
+tags: ["2017"]
 doi: "10.6620/ZS.2017.56-10"
 ---
 

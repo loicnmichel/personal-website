@@ -1,4 +1,4 @@
----
+﻿---
 title: "Use of multielement stable isotope ratios to investigate ontogenetic movements of Micropogonias furnieri in a tropical Brazilian estuary"
 date: 2018-06-01
 publishDate: 2020-02-22T09:51:32.639521Z
@@ -9,5 +9,6 @@ featured: false
 publication: "*Canadian Journal of Fisheries and Aquatic Sciences*"
 url_pdf: "http://www.nrcresearchpress.com/doi/10.1139/cjfas-2017-0148"
 doi: "10.1139/cjfas-2017-0148"
+tags: ["2018"]
 ---
 

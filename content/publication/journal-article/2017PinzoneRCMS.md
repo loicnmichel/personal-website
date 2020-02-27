@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carbon, nitrogen and sulphur isotopic fractionation in captive juvenile hooded seal (Cystophora cristata): Application for diet analysis"
 date: 2017-01-01
 publishDate: 2020-02-22T09:51:32.632030Z
@@ -8,5 +8,6 @@ abstract: "Copyright © 2017 John Wiley  &  Sons, Ltd. Rationale: Intrinsic biog
 featured: false
 publication: "*Rapid Communications in Mass Spectrometry*"
 doi: "10.1002/rcm.7955"
+tags: ["2017"]
 ---
 

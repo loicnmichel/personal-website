@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2013 | Loïc N. Michel</title>
+    <link>/tags/2013/</link>
+      <atom:link href="/tags/2013/index.xml" rel="self" type="application/rss+xml" />
+    <description>2013</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>2013</title>
+      <link>/tags/2013/</link>
+    </image>
+    
+    <item>
+      <title>Diet of harbor porpoises along the Dutch coast: A combined stable isotope and stomach contents approach</title>
+      <link>/publication/journal-article/2013jansenmarmammal/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2013jansenmarmammal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boundary lines in symbiosis forms</title>
+      <link>/publication/journal-article/2013parmentiersymb/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2013parmentiersymb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diet-and tissue-specific incorporation of isotopes in the shark textitScyliorhinus stellaris, a North Sea mesopredator</title>
+      <link>/publication/journal-article/2013cautmeps/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2013cautmeps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

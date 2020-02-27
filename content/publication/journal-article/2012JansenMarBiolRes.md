@@ -1,4 +1,4 @@
----
+﻿---
 title: "Feeding ecology of harbour porpoises: stable isotope analysis of carbon and nitrogen in muscle and bone"
 date: 2012-11-01
 publishDate: 2020-02-22T09:51:32.671157Z
@@ -9,5 +9,7 @@ featured: false
 publication: "*Marine Biology Research*"
 url_pdf: "http://www.tandfonline.com/doi/abs/10.1080/17451000.2012.692164"
 doi: "10.1080/17451000.2012.692164"
+
+tags: ["2012"]
 ---
 

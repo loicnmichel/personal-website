@@ -1,4 +1,4 @@
----
+﻿---
 title: "Is the trophic diversity of marine benthic consumers decoupled from taxonomic and functional trait diversity? Isotopic niches of Arctic communities"
 authors:
 - Włodarska‐Kowalczuk M.
@@ -27,7 +27,7 @@ abstract: "It is predicted that a diverse array of functional traits in species�
 # Summary. An optional shortened abstract.
 summary: 
 
-tags:
+tags: ["2019"]
 featured: true
 
 # links:

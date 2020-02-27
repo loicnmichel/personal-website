@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2018 | Loïc N. Michel</title>
+    <link>/tags/2018/</link>
+      <atom:link href="/tags/2018/index.xml" rel="self" type="application/rss+xml" />
+    <description>2018</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>2018</title>
+      <link>/tags/2018/</link>
+    </image>
+    
+    <item>
+      <title>Seagrass organic matter transfer in textitPosidonia oceanica macrophytodetritus accumulations</title>
+      <link>/publication/journal-article/2018remyecss/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2018remyecss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seasonal dependence on seagrass detritus and trophic niche partitioning in four copepod eco-morphotypes</title>
+      <link>/publication/journal-article/2018mascartfood/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2018mascartfood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use of multielement stable isotope ratios to investigate ontogenetic movements of Micropogonias furnieri in a tropical Brazilian estuary</title>
+      <link>/publication/journal-article/2018pizzocherocjfas/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2018pizzocherocjfas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Similar levels of trophic and functional diversity within damselfish assemblages across Indo-Pacific coral reefs</title>
+      <link>/publication/journal-article/2018gajdzikfuneco/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2018gajdzikfuneco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modification of benthic food web structure by recovering seagrass meadows, as revealed by trophic markers and mixing models</title>
+      <link>/publication/journal-article/2018jankowskaecolind/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2018jankowskaecolind/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

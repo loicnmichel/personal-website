@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>/tags/2020/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/strongmichel-l.-n/strong/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
   </url>
@@ -28,6 +38,11 @@
   </url>
   
   <url>
+    <loc>/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
   </url>
@@ -35,6 +50,16 @@
   <url>
     <loc>/publication_types/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-01-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/strongmichel-l.-n./strong/</loc>
+    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -78,12 +103,17 @@
   </url>
   
   <url>
+    <loc>/tags/2019/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/damseaux-f./</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/das-k./</loc>
+    <loc>/authors/das-k/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,12 +153,17 @@
   </url>
   
   <url>
-    <loc>/authors/zaborska-a./</loc>
+    <loc>/authors/zaborska-a/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/chenery-s.-r./</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/das-k./</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -139,6 +174,11 @@
   
   <url>
     <loc>/authors/dorneles-p.-r./</loc>
+    <lastmod>2019-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lepoint-g/</loc>
     <lastmod>2019-09-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -204,11 +244,6 @@
   
   <url>
     <loc>/categories/papers/</loc>
-    <lastmod>2019-07-31T10:52:42+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-07-31T10:52:42+01:00</lastmod>
   </url>
   
@@ -373,6 +408,11 @@
   </url>
   
   <url>
+    <loc>/authors/zaborska-a./</loc>
+    <lastmod>2019-04-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/funded-project-unravelling-energy-pathways-in-hydrothermal-vents-through-isotopic-labelling/</loc>
     <lastmod>2019-04-04T12:42:15+00:00</lastmod>
   </url>
@@ -508,11 +548,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/outreach-media/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -560,6 +595,11 @@
   <url>
     <loc>/post/connect-3-roscoff-11-2018/</loc>
     <lastmod>2018-11-17T13:23:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/2018/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -778,6 +818,11 @@
   </url>
   
   <url>
+    <loc>/tags/2017/</loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/adrien-latli/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -928,6 +973,11 @@
   </url>
   
   <url>
+    <loc>/tags/2016/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/agata-zaborska/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -1010,6 +1060,11 @@
   <url>
     <loc>/publication/journal-article/2016michelpolbio/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/2015/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1193,6 +1248,11 @@
   </url>
   
   <url>
+    <loc>/tags/2013/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/abraham-s.-couperus/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
@@ -1223,27 +1283,7 @@
   </url>
   
   <url>
-    <loc>/tags/diet/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/journal-article/2013cautmeps/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/discrimination-factor/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/fractionation/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/large-spotted-dogfish/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1253,38 +1293,13 @@
   </url>
   
   <url>
-    <loc>/tags/mixing-models/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/nitrogen-enrichment/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/perso/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/siar/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/stable-isotopes/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/stephane-caut/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/turnover/</loc>
-    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+    <loc>/tags/2012/</loc>
+    <lastmod>2012-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1300,6 +1315,16 @@
   <url>
     <loc>/authors/peter-j.h.-reijnders/</loc>
     <lastmod>2012-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/2010/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/strongmichel-l./strong/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1463,18 +1488,6 @@
   
   <url>
     <loc>/authors/zeppilli-daniela/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/strongmichel-l.-n./strong/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/strongmichel-l.-n/strong/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/strongmichel-l./strong/</loc>
   </url>
   
   <url>

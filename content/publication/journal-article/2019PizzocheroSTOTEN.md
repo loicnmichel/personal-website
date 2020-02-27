@@ -1,4 +1,4 @@
----
+﻿---
 title: "Occurrence of legacy and emerging organic pollutants in whitemouth croakers from Southeastern Brazil"
 date: 2019-09-10
 publishDate: 2020-02-22T09:51:32.679154Z
@@ -10,5 +10,6 @@ publication: "*Science of The Total Environment*, 682: 719-728"
 url_pdf: "http://hdl.handle.net/2268/235723"
 doi: "10.1016/j.scitotenv.2019.05.213"
 projects: [03-stable-isotopes-in-ecology, 04-anthropogenic-impacts]
+tags: ["2019"]
 ---
 
