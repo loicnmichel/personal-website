@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jowers M. J. | Loïc N. Michel</title>
+    <link>/authors/jowers-m.-j./</link>
+      <atom:link href="/authors/jowers-m.-j./index.xml" rel="self" type="application/rss+xml" />
+    <description>Jowers M. J.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Thu, 31 Oct 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jowers M. J.</title>
+      <link>/authors/jowers-m.-j./</link>
+    </image>
+    
+    <item>
+      <title>Diet-and tissue-specific incorporation of isotopes in the shark *Scyliorhinus stellaris*, a North Sea mesopredator</title>
+      <link>/publication/journal-article/2013cautmeps/</link>
+      <pubDate>Thu, 31 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2013cautmeps/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

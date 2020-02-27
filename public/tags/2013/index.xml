@@ -5,12 +5,20 @@
     <link>/tags/2013/</link>
       <atom:link href="/tags/2013/index.xml" rel="self" type="application/rss+xml" />
     <description>2013</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Thu, 31 Oct 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>2013</title>
       <link>/tags/2013/</link>
     </image>
+    
+    <item>
+      <title>Diet-and tissue-specific incorporation of isotopes in the shark *Scyliorhinus stellaris*, a North Sea mesopredator</title>
+      <link>/publication/journal-article/2013cautmeps/</link>
+      <pubDate>Thu, 31 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2013cautmeps/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Diet of harbor porpoises along the Dutch coast: A combined stable isotope and stomach contents approach</title>
@@ -23,16 +31,8 @@
     <item>
       <title>Boundary lines in symbiosis forms</title>
       <link>/publication/journal-article/2013parmentiersymb/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Apr 2013 00:00:00 +0000</pubDate>
       <guid>/publication/journal-article/2013parmentiersymb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Diet-and tissue-specific incorporation of isotopes in the shark textitScyliorhinus stellaris, a North Sea mesopredator</title>
-      <link>/publication/journal-article/2013cautmeps/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/2013cautmeps/</guid>
       <description></description>
     </item>
     

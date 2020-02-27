@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jansen O. E. | Loïc N. Michel</title>
+    <link>/authors/jansen-o.-e./</link>
+      <atom:link href="/authors/jansen-o.-e./index.xml" rel="self" type="application/rss+xml" />
+    <description>Jansen O. E.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jansen O. E.</title>
+      <link>/authors/jansen-o.-e./</link>
+    </image>
+    
+    <item>
+      <title>Diet of harbor porpoises along the Dutch coast: A combined stable isotope and stomach contents approach</title>
+      <link>/publication/journal-article/2013jansenmarmammal/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2013jansenmarmammal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feeding ecology of harbour porpoises: stable isotope analysis of carbon and nitrogen in muscle and bone</title>
+      <link>/publication/journal-article/2012jansenmarbiolres/</link>
+      <pubDate>Wed, 15 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2012jansenmarbiolres/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
