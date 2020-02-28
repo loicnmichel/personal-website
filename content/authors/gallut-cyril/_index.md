@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: Sorbonne University (France)
+  url: "https://www.researchgate.net/profile/Cyril_Gallut"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Sorbonne U (FR) 
@@ -25,4 +25,4 @@ bio: Sorbonne U (FR)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics:  Southern ocean ecology.

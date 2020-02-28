@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: Wageningen University and Research (Netherlands)
+  url: "https://www.researchgate.net/profile/Okka_Jansen"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ex-WUR (NL) 
@@ -25,4 +25,4 @@ bio: ex-WUR (NL)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: marine mammal trophic ecology.

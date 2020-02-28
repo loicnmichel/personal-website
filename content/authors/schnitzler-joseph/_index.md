@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: Institute for Terrestrial and Aquatic Wildlife Research (Germany)
+  url: "https://www.researchgate.net/profile/Joseph_Schnitzler"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ITAW (DE) 
@@ -25,4 +25,4 @@ bio: ITAW (DE)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics:  biostatistics, marine vertebrate ecology and ecotoxicology.

@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: Seaviews (France)
+  url: "https://www.researchgate.net/profile/Arnaud_Abadie"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Seaviews (FR)
@@ -25,4 +25,4 @@ bio: Seaviews (FR)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: scientific diving, underwater photography, seagrass ecology. I was Arnaud’s master thesis advisor.

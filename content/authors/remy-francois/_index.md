@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: University of Liège (Belgium) 
+  url: "https://www.researchgate.net/profile/Francois_Remy"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ex-ULiège (BE) 
@@ -25,4 +25,4 @@ bio: ex-ULiège (BE)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics:  seagrass detritus ecology. I was part of François’ PhD jury.

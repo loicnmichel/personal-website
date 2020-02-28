@@ -5,7 +5,7 @@
     <link>/tags/2017/</link>
       <atom:link href="/tags/2017/index.xml" rel="self" type="application/rss+xml" />
     <description>2017</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Sat, 01 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>2017</title>
@@ -13,34 +13,34 @@
     </image>
     
     <item>
-      <title>Isotopic half-life and enrichment factor in two species of European freshwater fish larvae: an experimental approach</title>
-      <link>/publication/journal-article/2017latlircms/</link>
-      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/2017latlircms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Carbon, nitrogen and sulphur isotopic fractionation in captive juvenile hooded seal (Cystophora cristata): Application for diet analysis</title>
+      <title>Carbon, nitrogen and sulphur isotopic fractionation in captive juvenile hooded seal (*Cystophora cristata*): Application for diet analysis</title>
       <link>/publication/journal-article/2017pinzonercms/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
       <guid>/publication/journal-article/2017pinzonercms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comparative Feeding Ecology of Cardinalfishes (Apogonidae) at Toliara Reef, Madagascar</title>
-      <link>/publication/journal-article/2017frederichzoolstud/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/2017frederichzoolstud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Isotopic niches of fin whales from the Mediterranean sea and the Celtic sea (North Atlantic)</title>
       <link>/publication/journal-article/2017dasmarenvres/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       <guid>/publication/journal-article/2017dasmarenvres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative Feeding Ecology of Cardinalfishes (Apogonidae) at Toliara Reef, Madagascar</title>
+      <link>/publication/journal-article/2017frederichzoolstud/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2017frederichzoolstud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isotopic half-life and enrichment factor in two species of European freshwater fish larvae: an experimental approach</title>
+      <link>/publication/journal-article/2017latlircms/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2017latlircms/</guid>
       <description></description>
     </item>
     

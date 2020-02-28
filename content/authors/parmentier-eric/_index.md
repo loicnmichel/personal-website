@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: University of Liège (Belgium)
+  url: "http://www.morfonct.uliege.be/cms/c_3398250/en/parmentier-eric"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ULiège (BE) 
@@ -25,4 +25,4 @@ bio: ULiège (BE)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: fish ecology, symbiosis ecology.

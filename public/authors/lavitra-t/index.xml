@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lavitra T. | Loïc N. Michel</title>
+    <link>/authors/lavitra-t./</link>
+      <atom:link href="/authors/lavitra-t./index.xml" rel="self" type="application/rss+xml" />
+    <description>Lavitra T.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Lavitra T.</title>
+      <link>/authors/lavitra-t./</link>
+    </image>
+    
+    <item>
+      <title>Comparative Feeding Ecology of Cardinalfishes (Apogonidae) at Toliara Reef, Madagascar</title>
+      <link>/publication/journal-article/2017frederichzoolstud/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2017frederichzoolstud/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

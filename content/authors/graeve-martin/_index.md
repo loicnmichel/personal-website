@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: Alfred Wegener Institute (Germany) 
+  url: "https://www.awi.de/nc/en/about-us/organisation/staff/martin-graeve.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: AWI (DE) 
@@ -25,4 +25,4 @@ bio: AWI (DE)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: fatty acid trophic markers, polar ecology.

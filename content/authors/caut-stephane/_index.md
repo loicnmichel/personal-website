@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: Mantix (France) 
+  url: "https://www.stephanecaut.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Mantix (FR)
@@ -25,4 +25,4 @@ bio: Mantix (FR)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: shark ecophysiology and trophic ecology.

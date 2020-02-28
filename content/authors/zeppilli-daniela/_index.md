@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: Ifremer (France) 
+  url: "https://annuaire.ifremer.fr/cv/18119/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Ifremer (FR) 
@@ -25,4 +25,4 @@ bio: Ifremer (FR)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: meiofauna ecology and diversity, hydrothermal vent ecology.

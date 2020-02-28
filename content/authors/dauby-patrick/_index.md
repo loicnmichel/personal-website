@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: University of Liège (Belgium)
+  url: "http://annuaire.ulg.ac.be/search.html?id=U012494"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ULiège (BE) 
@@ -25,4 +25,4 @@ bio: ULiège (BE)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: stable isotope ecology, seagrass ecology. Patrick was my PhD advisor.

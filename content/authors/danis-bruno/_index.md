@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: Université Libre de Bruxelles (Belgium)
+  url: "http://biomar.ulb.ac.be/staff/academics/bruno-danis/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ULB (BE)
@@ -25,4 +25,4 @@ bio: ULB (BE)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: Southern ocean ecology, climate change, biodiversity informatics, starfish ecology.

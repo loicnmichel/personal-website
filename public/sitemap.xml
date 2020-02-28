@@ -238,12 +238,12 @@
   </url>
   
   <url>
-    <loc>/categories/papers/</loc>
+    <loc>/tags/papers/</loc>
     <lastmod>2019-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/papers/</loc>
+    <loc>/categories/papers/</loc>
     <lastmod>2019-07-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -733,6 +733,31 @@
   </url>
   
   <url>
+    <loc>/tags/2017/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/acquarone-m./</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/2017pinzonercms/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/huyghebaert-l./</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/siebert-u./</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/first-day-at-my-new-position/</loc>
     <lastmod>2017-09-04T19:54:32+00:00</lastmod>
   </url>
@@ -753,6 +778,36 @@
   </url>
   
   <url>
+    <loc>/authors/berrow-s./</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/gilles-a./</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/holleville-o./</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/2017dasmarenvres/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ody-d./</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/ryan-c./</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/west-antarctic-peninsula-workshop-in-cambridge/</loc>
     <lastmod>2017-05-17T14:57:40+00:00</lastmod>
   </url>
@@ -768,53 +823,48 @@
   </url>
   
   <url>
-    <loc>/post/new-paper-out-in-marine-environmental-research/</loc>
-    <lastmod>2017-04-19T14:32:22+00:00</lastmod>
+    <loc>/publication/journal-article/2017frederichzoolstud/</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/2017/</loc>
-    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+    <loc>/authors/frederich-b./</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/adrien-latli/</loc>
-    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+    <loc>/authors/lavitra-t./</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/gilles-lepoint/</loc>
-    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+    <loc>/authors/lingofo-bolya-r./</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/zaeytydt-e./</loc>
+    <lastmod>2017-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/desjardin-n./</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/journal-article/2017latlircms/</loc>
-    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/loic-n-michel/</loc>
-    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+    <loc>/authors/otjacques-w./</loc>
+    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/nelson-desjardin/</loc>
-    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nicolas-sturaro/</loc>
-    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/patrick-kestemont/</loc>
-    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/william-otjacques/</loc>
-    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+    <loc>/post/new-paper-out-in-marine-environmental-research/</loc>
+    <lastmod>2017-04-19T14:32:22+00:00</lastmod>
   </url>
   
   <url>
@@ -838,207 +888,82 @@
   </url>
   
   <url>
-    <loc>/authors/anita-gilles/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/bruno-frederich/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/2017pinzonercms/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/2017frederichzoolstud/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/conor-ryan/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/denis-ody/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/e.-parmentier/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/e.-zaeytydt/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/2017dasmarenvres/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/k.-das/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/krishna-das/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/l.-huyghebaert/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/l.n.-michel/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/loic-n.-michel/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/m.-acquarone/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/m.-pinzone/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/n.-sturaro/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ophelie-holleville/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/r.-lingofo-bolya/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/simon-berrow/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/03-stable-isotopes-in-ecology/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/t.-lavitra/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/u.-siebert/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/2016/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2016-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/agata-zaborska/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <loc>/authors/de-ridder-c/</loc>
+    <lastmod>2016-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/andre-heughebaert/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/04-anthropogenic-impacts/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/2016michelbiodiv/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/bruno-david/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/chantal-de-ridder/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/emilia-jankowska/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/2016lepointzookeys/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/eric-parmentier/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/laurent-bernard/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/loic-kever/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/maria-w%C5%82odarska-kowalczuk/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/2016kevermarecol/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/philippe-dubois/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/pierre-lejeune/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <loc>/publication/journal-article/2016michelpolbio/</loc>
+    <lastmod>2016-12-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/journal-article/2016jankowskajgr/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2016-12-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/sylvie-gobert/</loc>
+    <loc>/authors/kever-l./</loc>
+    <lastmod>2016-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lejeune-p/</loc>
+    <lastmod>2016-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/parmentier-e/</loc>
+    <lastmod>2016-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/2016kevermarecol/</loc>
+    <lastmod>2016-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/2016michelbiodiv/</loc>
+    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/heughebaert-a./</loc>
+    <lastmod>2016-09-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/2016lepointzookeys/</loc>
+    <lastmod>2016-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/bernard-l./</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/gobert-s./</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/2016lepointbjz/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/04-anthropogenic-impacts/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1048,82 +973,142 @@
   </url>
   
   <url>
-    <loc>/publication/journal-article/2016lepointbjz/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/2016michelpolbio/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/2015/</loc>
-    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dauby-p./</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/journal-article/2015michelmarecol/</loc>
-    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/f-nyssen/</loc>
-    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <loc>/authors/graeve-m./</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/gi-lepoint/</loc>
-    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <loc>/authors/nyssen-f./</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/l-n-michel/</loc>
-    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <loc>/authors/thelen-n./</loc>
+    <lastmod>2015-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/m-graeve/</loc>
-    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <loc>/authors/abadie-a./</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/n-thelen/</loc>
-    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <loc>/authors/boudouresque-c.-f./</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/p-dauby/</loc>
-    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <loc>/authors/coll-m./</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/s-gobert/</loc>
-    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <loc>/authors/gambi-m.-c./</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/a-dupont/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>/authors/giakoumi-s./</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/amandine-collignon/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>/authors/guidetti-p./</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/anne-goffart/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>/authors/halpern-b.-s./</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/arnaud-abadie/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+    <loc>/authors/katsanevakis-s./</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/benjamin-s.-halpern/</loc>
+    <loc>/authors/lejeune-p./</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/micheli-f./</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/montefalcone-m./</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pergent-g./</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/pergent-martini-c./</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/possingham-h.-p/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sanchez-jerez-p./</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sini-m./</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/2015giakoumiconsbiol/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/velimirov-b./</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/vizzini-s./</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/dupont-a./</loc>
+    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/2015michelbjz/</loc>
+    <lastmod>2015-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/strongmichel-l./strong/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1133,87 +1118,22 @@
   </url>
   
   <url>
-    <loc>/authors/branko-velimirov/</loc>
+    <loc>/authors/collard-f./</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/charles-francois-boudouresque/</loc>
+    <loc>/authors/collignon-a./</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/christine-pergent-martini/</loc>
+    <loc>/authors/goffart-a/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/fiorenza-micheli/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/france-collard/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/g-lepoint/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/gerard-pergent/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/hugh-p.-possingham/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/jean-henri-hecq/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/loic-michel/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/maria-sini/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/maria-cristina-gambi/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/marta-coll/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/monica-montefalcone/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/pablo-sanchez-jerez/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/paolo-guidetti/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/salvatrice-vizzini/</loc>
+    <loc>/authors/hecq-j.-h./</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1223,32 +1143,7 @@
   </url>
   
   <url>
-    <loc>/publication/journal-article/2015michelbjz/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/stelios-katsanevakis/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sylvaine-giakoumi/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/2015giakoumiconsbiol/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/2013/</loc>
-    <lastmod>2013-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/strongmichel-l./strong/</loc>
     <lastmod>2013-10-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -1319,11 +1214,6 @@
   
   <url>
     <loc>/tags/2010/</loc>
-    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/dauby-p./</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   

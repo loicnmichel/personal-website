@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: University of Mons (Belgium)
+  url: "https://www.researchgate.net/profile/Nicolas_Sturaro"
 
 # Short bio (displayed in user profile at end of posts)
 bio: UMons (BE) 
@@ -25,4 +25,4 @@ bio: UMons (BE)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: stable isotope ecology, amphipod crustacean ecology and biodiversity

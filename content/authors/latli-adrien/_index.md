@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: University of Namur (Belgium)
+  url: "http://www.unamur.be/en/sci/sbio/urbe/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ex-UNamur (BE)
@@ -25,4 +25,4 @@ bio: ex-UNamur (BE)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: emperate freshwater ecology, anthropogenic influences on ecosystem functioning

@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: University of Burgundy Franche-Comté (France)
+  url: "https://thomassaucede.wordpress.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: UBFC (FR) 
@@ -25,4 +25,4 @@ bio: UBFC (FR)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: Southern ocean ecology, sea urchin ecology, climate change, biodiversity informatics

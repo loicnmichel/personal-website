@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: University of Liège (Belgium)
+  url: "https://www.researchgate.net/profile/Marianna_Pinzone"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ULiège (BE) 
@@ -25,4 +25,4 @@ bio: ULiège (BE)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics:  marine mammal trophic ecology and ecotoxicology, Arctic ecology.

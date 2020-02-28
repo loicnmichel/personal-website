@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: National Museum of Natural History (France)
+  url: "https://borea.mnhn.fr/en/users/marc-eleaume"
 
 # Short bio (displayed in user profile at end of posts)
 bio: MNHN (FR) 
@@ -25,4 +25,4 @@ bio: MNHN (FR)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: Southern ocean ecology.

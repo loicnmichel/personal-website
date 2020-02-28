@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nyssen F. | Loïc N. Michel</title>
+    <link>/authors/nyssen-f./</link>
+      <atom:link href="/authors/nyssen-f./index.xml" rel="self" type="application/rss+xml" />
+    <description>Nyssen F.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Nyssen F.</title>
+      <link>/authors/nyssen-f./</link>
+    </image>
+    
+    <item>
+      <title>Dominant amphipods of *Posidonia oceanica* seagrass meadows display considerable trophic diversity</title>
+      <link>/publication/journal-article/2015michelmarecol/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2015michelmarecol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

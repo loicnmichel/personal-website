@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: Norwegian Polar Institute (Norway)
+  url: "https://www.researchgate.net/profile/France_Collard2"
 
 # Short bio (displayed in user profile at end of posts)
 bio: NPI (NO)
@@ -25,4 +25,4 @@ bio: NPI (NO)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: ecology of Mediterranean neuston & plankton

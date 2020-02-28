@@ -13,8 +13,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: Institute of Oceanography, Polish Academy of Sciences (Poland)
+  url: "http://www.iopan.gda.pl/ekologia/mwk/mwk.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: IOPAN (PL)  
@@ -24,4 +24,4 @@ bio: IOPAN (PL)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: Baltic seagrass meadows & Arctic fjords ecology

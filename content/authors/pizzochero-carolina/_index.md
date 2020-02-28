@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: Federal University of Rio de Janeiro (Brazil)
+  url: "https://www.researchgate.net/profile/Ana_Pizzochero"
 
 # Short bio (displayed in user profile at end of posts)
 bio: UFRJ (BR) 
@@ -25,4 +25,4 @@ bio: UFRJ (BR)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: fish ecology and ecotoxicology, tropical coastal marine ecosystems.

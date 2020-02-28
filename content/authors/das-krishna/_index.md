@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: University of Liège (Belgium)
+  url: "http://labos.ulg.ac.be/oceanologie/membres/krishna-das/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ULiège (BE) 
@@ -25,4 +25,5 @@ bio: ULiège (BE)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics:  marine vertebrate trophic ecology and ecotoxicology.
+

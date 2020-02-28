@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: Institute of Oceanography, Polish Academy of Sciences (Poland)
+  url: "https://www.researchgate.net/profile/Emilia_Jankowska"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ex-IOPAN (PL) 
@@ -25,4 +25,4 @@ bio: ex-IOPAN (PL)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: Baltic seagrass ecology & coastal biogeochemistry

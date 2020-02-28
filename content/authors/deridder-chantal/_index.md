@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: Université Libre de Bruxelles (Belgium)
+  url: "https://www.researchgate.net/profile/Chantal_Ridder"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ex-ULB (BE) 
@@ -25,4 +25,4 @@ bio: ex-ULB (BE)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics:  Southern ocean ecology, sea urchin ecology and physiology. Chantal is now happily retired.

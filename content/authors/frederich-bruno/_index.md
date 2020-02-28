@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: University of Liège (Belgium)
+  url: "http://www.morfonct.uliege.be/cms/c_3610037/en/frederich-bruno"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ULiège (BE) 
@@ -25,4 +25,4 @@ bio: ULiège (BE)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: fish ecology & evolution, coral reef ecology, Antarctic icefish ecology, stable isotopes in ecology.

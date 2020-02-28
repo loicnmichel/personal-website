@@ -14,7 +14,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: University of Liège 
+- name: University of Liège (Belgium)
   url: "http://labos.ulg.ac.be/oceanologie/gilles-lepoint/"
 
 # Short bio (displayed in user profile at end of posts)

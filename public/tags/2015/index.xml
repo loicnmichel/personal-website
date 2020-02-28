@@ -5,7 +5,7 @@
     <link>/tags/2015/</link>
       <atom:link href="/tags/2015/index.xml" rel="self" type="application/rss+xml" />
     <description>2015</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>2015</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
-      <title>Dominant amphipods of textitPosidonia oceanica seagrass meadows display considerable trophic diversity</title>
+      <title>Dominant amphipods of *Posidonia oceanica* seagrass meadows display considerable trophic diversity</title>
       <link>/publication/journal-article/2015michelmarecol/</link>
-      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
       <guid>/publication/journal-article/2015michelmarecol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards a framework for assessment and management of cumulative human impacts on marine food webs</title>
+      <link>/publication/journal-article/2015giakoumiconsbiol/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2015giakoumiconsbiol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selective top-down control of epiphytic biomass by amphipods from *Posidonia oceanica* meadows : implications for ecosystem functioning</title>
+      <link>/publication/journal-article/2015michelbjz/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2015michelbjz/</guid>
       <description></description>
     </item>
     
@@ -25,22 +41,6 @@
       <link>/publication/journal-article/2015collardbjz/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/publication/journal-article/2015collardbjz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Selective top-down control of epiphytic biomass by amphipods from textitPosidonia oceanica meadows : implications for ecosystem functioning</title>
-      <link>/publication/journal-article/2015michelbjz/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/2015michelbjz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Towards a framework for assessment and management of cumulative human impacts on marine food webs</title>
-      <link>/publication/journal-article/2015giakoumiconsbiol/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/journal-article/2015giakoumiconsbiol/</guid>
       <description></description>
     </item>
     

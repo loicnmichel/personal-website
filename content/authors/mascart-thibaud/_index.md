@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: DEME (Belgium)
+  url: "https://www.researchgate.net/profile/Thibaud_Mascart"
 
 # Short bio (displayed in user profile at end of posts)
 bio: DEME (BE) 
@@ -25,4 +25,4 @@ bio: DEME (BE)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: seagrass detritus ecology. I was part of Thibaut’s PhD jury.

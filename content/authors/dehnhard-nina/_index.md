@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: Norwegian Institute for Nature Research (Norway)
+  url: "https://ninadehnhard.wordpress.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: NINA (NO)
@@ -25,4 +25,4 @@ bio: NINA (NO)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: Southern ocean ecology, seabird ecology

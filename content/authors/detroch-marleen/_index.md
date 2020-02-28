@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: Ghent University (Belgium)
+  url: "http://www.marinebiology.ugent.be/node/28261"
 
 # Short bio (displayed in user profile at end of posts)
 bio: UGent (BE)
@@ -25,4 +25,4 @@ bio: UGent (BE)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: fatty acid trophic markers, seagrass & seagrass detritus ecology.

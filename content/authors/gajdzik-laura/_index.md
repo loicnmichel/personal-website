@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: King Abdullah University of Science and Technology (Saudi Arabia)
+  url: "https://www.researchgate.net/profile/Laura_Gajdzik"
 
 # Short bio (displayed in user profile at end of posts)
 bio: KAUST (SA)
@@ -25,4 +25,4 @@ bio: KAUST (SA)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: fish ecology & evolution, coral reef ecology

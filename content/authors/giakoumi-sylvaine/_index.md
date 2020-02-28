@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Institution 
-  url: ""
+- name: Côte d'Azur University (France)
+  url: "https://www.researchgate.net/profile/Sylvaine_Giakoumi"
 
 # Short bio (displayed in user profile at end of posts)
 bio: UCA (FR) 
@@ -25,4 +25,4 @@ bio: UCA (FR)
 user_groups:
 - Collaborators
 ---
-Collaboration topics:
+Collaboration topics: anthropogenic influence on ecosystem functioning, seagrass ecology.
