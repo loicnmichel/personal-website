@@ -49,4 +49,32 @@ weight = 25  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
-This page is under construction.
+The use of stable isotopes as ecological tracers in deep-sea ecosystems has a long history, dating back to the late 1970's. Stable isotopes have been instrumental to many key-findings about ecosystem functioning, particularly in active habitats (hydrothermal vents, cold seeps). However, constraining sampling logistics commonly limit the scope, extent, and therefore insights drawn from isotope-based deep-sea studies. Overall, much is left to discover about factors globally influencing food web structure in deep-sea ecosystems. In this context, deep-sea ecologists have to ensure that no sample is left unexploited, and that all generated data  are easily discoverable and reusable.
+
+To help achieving this goal, we are setting up a large-scale compilation of stable isotope ratios of C, N and S in organisms from deep-sea ecosystems. The data acquisition strategy is based on 1) analysis of available literature and 2) new valorization of material already sampled during past cruises.
+
+The compiled database will soon be freely available through the [IsoBank repository](http://www.isobank.org/). In doing so, we aim to provide the deep-sea community with an open data analysis tool that can be used in the context of future ecological research, and to help deep-sea researchers to use stable isotope markers at their full efficiency.
+<br>
+{{< figure src="/img/bush.jpg" title="Example of targeted taxa: tubeworms *Escarpia southwardae* and mussels *Bathymodiolus* aff. *boomerang* from cold seeps. Picture: Ifremer, WACS cruise, 2011 (depth: 3160 m)." width="60%" >}}
+<br>
+
+## More info
+
+For more info, you can [download this poster](/img/michell_isoecolchile.pdf) or [get in touch here](/#contact/).<br><br>
+
+## How can you contribute?
+
+To maximise the scope of the project, we are looking for
+
+*   Raw data underlying published articles
+*   Unpublished / grey literature data
+*   Suitable samples for analysis
+
+If you are willing to share any of the above, please [get in touch](/#contact/)!
+<br><br>
+
+## Involved people & funding
+
+The working group currently includes **Loïc N. Michel** (Ifremer, FR), **Stanislas F. Dubois** (Ifremer, FR), **Brian Hayden** (University of New Brunswick, CA), **Gilles Lepoint** (University of Liège, BE), **Karine Olu** (Ifremer, FR), **Gauthier Schaal** (University of Western Brittany, FR) and **Jozée Sarrazin** (Ifremer, FR).
+
+This work is supported by the "Laboratoire d’excellence" [LabexMER](https://www.labexmer.eu/en) (ANR-10-LABX-19) and co-funded by a grant from the French government under the program "Investissements d’avenir".

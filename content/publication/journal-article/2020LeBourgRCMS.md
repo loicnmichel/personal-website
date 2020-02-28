@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Effects of preservation methodology on stable isotope compositions of sea stars"
 authors:
 - Le Bourg B.
@@ -29,7 +29,7 @@ Conclusions: Overall, these results show that preservation may affect the stable
 summary: 
 
 tags: ["2020"]
-featured: false
+featured: true
 
 # links:
 #- name: ""

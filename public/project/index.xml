@@ -17,27 +17,9 @@
       <link>/project/01-polar-global-change/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/project/01-polar-global-change/</guid>
-      <description>&lt;p&gt;In the framework of the &lt;a href=&#34;http://rectoversoprojects.be/&#34;&gt;vERSO and RECTO inter-institutional projects&lt;/a&gt;, I took part in a collaborative effort to understand how stressors linked with global climate change (temperature, pH, sea ice cover) can influence benthic communities in the Southern Ocean. I notably studied the impact of increased sea ice cover on benthic food web structure in Adélie Land (East Antarctica), as well as ecological plasticity in key Antarctic and Sub-antarctic consumers (Sea stars, sea urchins, amphipods , seabirds and Notothenioid fishes). Most of this work is still ongoing, and was initiated during my time (2014-2017) as a Belgian Federal Science Policy Office (BELSPO) postdoctoral fellow at the &lt;a href=&#34;http://labos.ulg.ac.be/oceanologie/&#34;&gt;Laboratory of Oceanology&lt;/a&gt; (University of Liège, Belgium) under &lt;a href=&#34;http://labos.ulg.ac.be/oceanologie/gilles-lepoint/&#34;&gt;Gilles Lepoint.&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Trophic interactions in deep-sea ecosystems</title>
-      <link>/project/02-trophic-deep-sea/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/project/02-trophic-deep-sea/</guid>
-      <description>&lt;p&gt;Since September 2017, I&#39;m a research scientist at the &lt;a href=&#34;http://wwz.ifremer.fr/deep/&#34;&gt;Deep Environment Laboratory&lt;/a&gt; of &lt;a href=&#34;http://wwz.ifremer.fr/en&#34;&gt;Ifremer Brittany&lt;/a&gt;, Brest, France.&lt;br&gt;
-Ongoing projects include ecological plasticity of foundation species in cold seeps ecosystems, food web structure in hydrothermal vents from the Mid-Atlantic Ridge and Pacific back-arc basins, as well as trophic interactions in cold water coral reefs. I&#39;m also building an open database for stable isotope ratios of deep-sea fauna.&lt;br&gt;&lt;br&gt; 
-More info on this research coming soon!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stable isotopes as ecological tracers</title>
-      <link>/project/03-stable-isotopes-in-ecology/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/project/03-stable-isotopes-in-ecology/</guid>
-      <description>&lt;p&gt;
+      <description>&lt;p&gt;From 2014 to 2017, I was a Belgian Federal Science Policy Office (BELSPO) postdoctoral fellow at the &lt;a href=&#34;https://labos.ulg.ac.be/oceanologie/&#34;&gt;Laboratory of Oceanology&lt;/a&gt; (University of Liège, Belgium) under &lt;a href=&#34;https://labos.ulg.ac.be/oceanologie/gilles-lepoint/&#34;&gt;Gilles Lepoint.&lt;/a&gt;. In the framework of the &lt;a href=&#34;https://www.belspo.be/belspo/brain-be/projects/vERSO_en.pdf&#34;&gt;vERSO (2013-2018)&lt;/a&gt; and &lt;a href=&#34;https://www.belspo.be/belspo/brain-be/projects/RECTO_en.pdf&#34;&gt;RECTO (2015-2020)&lt;/a&gt; inter-institutional projects, I took part in a collaborative effort to understand how stressors linked with global climate change (temperature, pH, sea ice cover) can influence benthic communities in the Southern Ocean.&lt;/p&gt;
+&lt;p&gt;Since then, polar biology has become a strong component of my research. I&#39;m notably interested on how changes in sea ice cover can drive food web structure and energy flows in benthic communities. I also study trophic plasticity in key Antarctic and Sub-antarctic consumers (sea stars, sea urchins, amphipods , seabirds and Notothenioid fishes) and how it can help animals to cope with environmental changes. More recently, I also had the opportunity to get involved on projects focusing on the Arctic ecosystem changes.&lt;/p&gt;
+
 
 
 
@@ -55,18 +37,111 @@ More info on this research coming soon!&lt;/p&gt;
 &lt;figure&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/isotopes.jpg&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/AmmotheaSeastarsFull.jpg&#34; data-caption=&#34;Some of the Antarctic invertebrates we study: the pycnogonid Ammothea carolinensis and the sea star Odontaster validus.&#34;&gt;
+
+
+  &lt;img src=&#34;/img/AmmotheaSeastarsFull.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Some of the Antarctic invertebrates we study: the pycnogonid &lt;em&gt;Ammothea carolinensis&lt;/em&gt; and the sea star &lt;em&gt;Odontaster validus&lt;/em&gt;.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Trophic interactions in deep-sea ecosystems</title>
+      <link>/project/02-trophic-deep-sea/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/project/02-trophic-deep-sea/</guid>
+      <description>&lt;p&gt;Since September 2017, I&#39;m a research scientist at the &lt;a href=&#34;http://wwz.ifremer.fr/deep/&#34;&gt;Deep Environment Laboratory&lt;/a&gt; of &lt;a href=&#34;http://wwz.ifremer.fr/en&#34;&gt;Ifremer Brittany&lt;/a&gt;, Brest, France.&lt;/p&gt;
+&lt;p&gt;Ongoing projects include ecological plasticity of foundation species in cold seeps ecosystems, food web structure in hydrothermal vents from the Mid-Atlantic Ridge and Pacific back-arc basins, as well as trophic interactions in cold water coral reefs. I&#39;m also building an &lt;a href=&#34;/deepseabase/&#34;&gt;open database for stable isotope ratios of deep-sea fauna&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More info on this research coming soon!&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/crabes-lucky-strike.jpg&#34; data-caption=&#34;Bathymodiolus azoricus mussel bed and associated fauna, Mid-Atlantic Ridge&#34;&gt;
+
+
+  &lt;img src=&#34;/img/crabes-lucky-strike.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;Bathymodiolus azoricus&lt;/em&gt; mussel bed and associated fauna, Mid-Atlantic Ridge
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Stable isotopes as ecological tracers</title>
+      <link>/project/03-stable-isotopes-in-ecology/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/project/03-stable-isotopes-in-ecology/</guid>
+      <description>&lt;p&gt;I started to use stable isotope ratios of light biogenic elements (C, N and S) as ecological tracers at the beginning of my PhD thesis, and quickly grew interested in their wide range of applications in environmental sciences. Over the years, and in the context of a number of fruitful academic collaborations, I developed extensive theoretical, practical and analytical knowledge of stable isotopes. From 2014 to 2017, alongside Gilles Lepoint, I co-managed University of Liège’s &lt;a href=&#34;http://labos.ulg.ac.be/oceanologie/recherches/isotopes-stables/&#34;&gt;stable isotope facility&lt;/a&gt;. I’m also a guest lecturer at University of Liège, where Gilles and I co-teach a course about stable isotope and their use in marine ecosystems.&lt;/p&gt;
+&lt;p&gt;I successfully used stable isotopes to solve questions in fields ranging from ecophysiology to organic matter fluxes and biogeochemistry. I worked with many model species groups (seagrasses, invertebrates, fishes, marine mammals and seabirds) originating from marine or freshwater ecosystems of tropical, temperate and polar regions. I also grew familiar with most common stable isotope data analysis tools, including mixing models, ecological niches metrics, isotopic diversity indices and trophic position estimation models. When possible, I try to combine stable isotopes with other techniques such as gut content analysis, or with other trophic markers such as fatty acids.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/isotopes.jpg&#34; data-caption=&#34;Happy isotope users showing off their setup.&#34;&gt;
 
 
   &lt;img src=&#34;/img/isotopes.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;
 &lt;/a&gt;
 
 
+  
+  
+  &lt;figcaption&gt;
+    Happy isotope users showing off their setup.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
-I started to use stable isotope ratios of light biogenic elements (C, N and S) as ecological tracers at the beginning of my PhD thesis, and quickly grew interested in their wide range of applications in environmental sciences. Over the years, and in the context of a number of fruitful academic collaborations, I developed extensive theoretical, practical and analytical knowledge of stable isotopes. From 2014 to 2017, alongside Gilles Lepoint, I co-managed University of Liège’s &lt;a href=&#34;http://labos.ulg.ac.be/oceanologie/recherches/isotopes-stables/&#34;&gt;stable isotope facility&lt;/a&gt;. I’m also a guest lecturer at University of Liège, where Gilles and I co-teach a course about stable isotope and their use in marine ecosystems.&lt;/p&gt;
-&lt;p&gt;I successfully used stable isotopes to solve questions in fields ranging from ecophysiology to organic matter fluxes and biogeochemistry. I worked with many model species groups (seagrasses, invertebrates, fishes, marine mammals and seabirds) originating from marine or freshwater ecosystems of tropical, temperate and polar regions. I also grew familiar with most common stable isotope data analysis tools, including mixing models, ecological niches metrics, isotopic diversity indices and trophic position estimation models. When possible, I try to combine stable isotopes with other techniques such as gut content analysis, or with other trophic markers such as fatty acids.&lt;/p&gt;
 </description>
     </item>
     
@@ -75,9 +150,43 @@ I started to use stable isotope ratios of light biogenic elements (C, N and S) a
       <link>/project/04-anthropogenic-impacts/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>/project/04-anthropogenic-impacts/</guid>
-      <description>&lt;p&gt;Besides climate change and its impacts in Antarctica, part of my research focused on direct impacts of human activities on marine ecosystems&amp;rsquo; structure and function. &lt;br&gt;&lt;br&gt;
-From 2012 to 2014, I was a postdoctoral researcher at the STARESO research station (Calvi, Corsica, France), where I was in charge the scientific management of a locally funded mutli-institutional research programme focusing on multiscale anthropogenic impacts on Mediterranean coastal zones. &lt;br&gt;&lt;br&gt;
-More recently, I had the opportunity to work with colleagues focusing on marine ecotoxicology, and to help them explore how animal feeding ecology influences their contamination by persistent organic pollutants.&lt;/p&gt;
+      <description>&lt;p&gt;Food webs form a complex network linking all organisms living in an ecosystem together. They can therefore acts as vectors, through which human-induced changes can propagate from one ecosystem compartment to another. In this context, part of my research focuses on impacts of human activities on marine ecosystems&amp;rsquo; structure and function.&lt;/p&gt;
+&lt;p&gt;From 2012 to 2014, I was a postdoctoral researcher at the STARESO research station (Calvi, Corsica, France), where I was in charge the scientific management of a locally funded mutli-institutional research programme focusing on multiscale anthropogenic impacts on Mediterranean coastal zones.&lt;/p&gt;
+&lt;p&gt;Since then, I’ve worked on links between direct (e.g. pollution by organic or inorganic contaminants, eutrophication or habitat modification) or indirect (global change) anthropogenic perturbations and ecological interactions and/or food web structure in multiple polar, temperate or tropical marine and/or freshwater ecosystems.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/algalsurvey.jpg&#34; data-caption=&#34;Monitoring density of invasive algae, Corsica, 06/2012&#34;&gt;
+
+
+  &lt;img src=&#34;/img/algalsurvey.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Monitoring density of invasive algae, Corsica, 06/2012
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 </description>
     </item>
     
@@ -86,7 +195,42 @@ More recently, I had the opportunity to work with colleagues focusing on marine 
       <link>/project/05-seagrass-ecology/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>/project/05-seagrass-ecology/</guid>
-      <description>&lt;p&gt;I started my scientific career with seagrass ecology. My PhD thesis&amp;rsquo; (2006-2011) main foci were the community structure, trophic diversity and functional role of amphipod mesograzers in Mediterranean &lt;em&gt;Posidonia oceanica&lt;/em&gt; meadows. More recently, I participated in initiatives looking to understand how this seagrass&amp;rsquo; massive phytodetritus accumulations are used as habitat and/or food by meio- and macrofauna. I also took part in research focusing on polyspecific seagrass meadows from the Western Indian Ocean (Madagascar). Finally, through a collaboration with Polish colleagues, I also helped develop trophic markers-based approaches to advance knowledge of &lt;em&gt;Zostera marina&lt;/em&gt; meadows from the Baltic Sea.&lt;/p&gt;
+      <description>&lt;p&gt;I started my scientific career with seagrass ecology. From 2006 to 2011, I was a F.R.S-FNRS research fellow at the Laboratory of Systematics and Animal Diversity, University of Liège. My PhD thesis, supervised by &lt;a href=&#34;https://www.researchgate.net/profile/Patrick_Dauby&#34;&gt;Patrick Dauby&lt;/a&gt; and &lt;a href=&#34;https://labos.ulg.ac.be/oceanologie/gilles-lepoint/&#34;&gt;Gilles Lepoint&lt;/a&gt;, focused the community structure, trophic diversity and functional role of amphipod mesograzers in Mediterranean &lt;em&gt;Posidonia oceanica&lt;/em&gt; meadows.&lt;/p&gt;
+&lt;p&gt;More recently, I participated in initiatives looking to understand how this seagrass&amp;rsquo; massive phytodetritus accumulations are used as habitat and/or food by meio- and macrofauna. I also took part in research focusing on polyspecific seagrass meadows from the Western Indian Ocean (Madagascar). Finally, through a collaboration with Polish colleagues, I also helped develop trophic markers-based approaches to advance knowledge of &lt;em&gt;Zostera marina&lt;/em&gt; meadows from the Baltic Sea.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/PinnaFull.jpg&#34; data-caption=&#34;Posidonia oceanica and associated fauna&#34;&gt;
+
+
+  &lt;img src=&#34;/img/PinnaFull.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    &lt;em&gt;Posidonia oceanica&lt;/em&gt; and associated fauna
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
 </description>
     </item>
     

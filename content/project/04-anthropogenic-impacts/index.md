@@ -30,6 +30,10 @@ image:
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-Besides climate change and its impacts in Antarctica, part of my research focused on direct impacts of human activities on marine ecosystems' structure and function. <br><br>
-From 2012 to 2014, I was a postdoctoral researcher at the STARESO research station (Calvi, Corsica, France), where I was in charge the scientific management of a locally funded mutli-institutional research programme focusing on multiscale anthropogenic impacts on Mediterranean coastal zones. <br><br>
-More recently, I had the opportunity to work with colleagues focusing on marine ecotoxicology, and to help them explore how animal feeding ecology influences their contamination by persistent organic pollutants.
+Food webs form a complex network linking all organisms living in an ecosystem together. They can therefore acts as vectors, through which human-induced changes can propagate from one ecosystem compartment to another. In this context, part of my research focuses on impacts of human activities on marine ecosystems' structure and function.
+
+From 2012 to 2014, I was a postdoctoral researcher at the STARESO research station (Calvi, Corsica, France), where I was in charge the scientific management of a locally funded mutli-institutional research programme focusing on multiscale anthropogenic impacts on Mediterranean coastal zones.
+
+Since then, I’ve worked on links between direct (e.g. pollution by organic or inorganic contaminants, eutrophication or habitat modification) or indirect (global change) anthropogenic perturbations and ecological interactions and/or food web structure in multiple polar, temperate or tropical marine and/or freshwater ecosystems.
+
+{{< figure src="/img/algalsurvey.jpg" width="60%" title="Monitoring density of invasive algae, Corsica, 06/2012">}}

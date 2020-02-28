@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mascart T. | Loïc N. Michel</title>
+    <link>/authors/mascart-t./</link>
+      <atom:link href="/authors/mascart-t./index.xml" rel="self" type="application/rss+xml" />
+    <description>Mascart T.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Thu, 15 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mascart T.</title>
+      <link>/authors/mascart-t./</link>
+    </image>
+    
+    <item>
+      <title>Seagrass organic matter transfer in *Posidonia oceanica* macrophytodetritus accumulations</title>
+      <link>/publication/journal-article/2018remyecss/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2018remyecss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seasonal dependence on seagrass detritus and trophic niche partitioning in four copepod eco-morphotypes</title>
+      <link>/publication/journal-article/2018mascartfood/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2018mascartfood/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -30,4 +30,8 @@ image:
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-I started my scientific career with seagrass ecology. My PhD thesis' (2006-2011) main foci were the community structure, trophic diversity and functional role of amphipod mesograzers in Mediterranean *Posidonia oceanica* meadows. More recently, I participated in initiatives looking to understand how this seagrass' massive phytodetritus accumulations are used as habitat and/or food by meio- and macrofauna. I also took part in research focusing on polyspecific seagrass meadows from the Western Indian Ocean (Madagascar). Finally, through a collaboration with Polish colleagues, I also helped develop trophic markers-based approaches to advance knowledge of *Zostera marina* meadows from the Baltic Sea.
+I started my scientific career with seagrass ecology. From 2006 to 2011, I was a F.R.S-FNRS research fellow at the Laboratory of Systematics and Animal Diversity, University of Liège. My PhD thesis, supervised by [Patrick Dauby](https://www.researchgate.net/profile/Patrick_Dauby) and [Gilles Lepoint](https://labos.ulg.ac.be/oceanologie/gilles-lepoint/), focused the community structure, trophic diversity and functional role of amphipod mesograzers in Mediterranean *Posidonia oceanica* meadows. 
+
+More recently, I participated in initiatives looking to understand how this seagrass' massive phytodetritus accumulations are used as habitat and/or food by meio- and macrofauna. I also took part in research focusing on polyspecific seagrass meadows from the Western Indian Ocean (Madagascar). Finally, through a collaboration with Polish colleagues, I also helped develop trophic markers-based approaches to advance knowledge of *Zostera marina* meadows from the Baltic Sea.
+
+{{< figure src="/img/PinnaFull.jpg" width="60%" title="*Posidonia oceanica* and associated fauna">}}

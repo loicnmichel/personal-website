@@ -224,27 +224,27 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-07-31T10:52:42+01:00</lastmod>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/new-paper-in-journal-of-animal-ecology/</loc>
-    <lastmod>2019-07-31T10:52:42+01:00</lastmod>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-07-31T10:52:42+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/papers/</loc>
-    <lastmod>2019-07-31T10:52:42+01:00</lastmod>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/papers/</loc>
-    <lastmod>2019-07-31T10:52:42+01:00</lastmod>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/papers/</loc>
+    <lastmod>2019-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -599,37 +599,27 @@
   
   <url>
     <loc>/tags/2018/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/francois-remy/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <loc>/authors/de-troch-m./</loc>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/gilles-lepoint/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <loc>/authors/mascart-t./</loc>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/loic-n.-michel/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/marleen-de-troch/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <loc>/authors/remy-f./</loc>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/journal-article/2018remyecss/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/thibaud-mascart/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -643,6 +633,21 @@
   </url>
   
   <url>
+    <loc>/authors/dorneles-p.-r/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/2018pizzocherocjfas/</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/vianna-m./</loc>
+    <lastmod>2018-08-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/back-from-isoecol-2018-in-vina-del-mar-chile/</loc>
     <lastmod>2018-08-09T13:23:02+00:00</lastmod>
   </url>
@@ -653,6 +658,11 @@
   </url>
   
   <url>
+    <loc>/publication/journal-article/2018jankowskaecolind/</loc>
+    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
@@ -660,46 +670,6 @@
   <url>
     <loc>/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ana-carolina-pizzochero/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/ian-d.-mccarthy/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/krishna-das/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/marcelo-vianna/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/olaf-malm/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/paulo-r.-dorneles/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/simon-r.-chenery/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/2018pizzocherocjfas/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -718,53 +688,38 @@
   </url>
   
   <url>
-    <loc>/authors/bruno-frederich/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/eric-parmentier/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/keryea-soong/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/laura-gajdzik/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/nicolas-sturaro/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/2018gajdzikfuneco/</loc>
-    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/new-paper-in-functional-ecology/</loc>
     <lastmod>2018-02-19T13:17:45+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/emilia-jankowska/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>/authors/frederich-b/</loc>
+    <lastmod>2018-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/maria-w%C5%82odarska-kowalczuk/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>/authors/gajdzik-l./</loc>
+    <lastmod>2018-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/journal-article/2018jankowskaecolind/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>/authors/parmentier-e./</loc>
+    <lastmod>2018-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/journal-article/2018gajdzikfuneco/</loc>
+    <lastmod>2018-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/soong-k./</loc>
+    <lastmod>2018-02-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/sturaro-n./</loc>
+    <lastmod>2018-02-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -828,6 +783,11 @@
   </url>
   
   <url>
+    <loc>/authors/gilles-lepoint/</loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/journal-article/2017latlircms/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -839,6 +799,11 @@
   
   <url>
     <loc>/authors/nelson-desjardin/</loc>
+    <lastmod>2017-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/nicolas-sturaro/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -874,6 +839,11 @@
   
   <url>
     <loc>/authors/anita-gilles/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/bruno-frederich/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -918,12 +888,22 @@
   </url>
   
   <url>
+    <loc>/authors/krishna-das/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/l.-huyghebaert/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/l.n.-michel/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/loic-n.-michel/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1008,7 +988,17 @@
   </url>
   
   <url>
+    <loc>/authors/emilia-jankowska/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/journal-article/2016lepointzookeys/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/eric-parmentier/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1019,6 +1009,11 @@
   
   <url>
     <loc>/authors/loic-kever/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/maria-w%C5%82odarska-kowalczuk/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1304,11 +1299,6 @@
   
   <url>
     <loc>/publication/journal-article/2013parmentiersymb/</loc>
-    <lastmod>2013-04-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/parmentier-e./</loc>
     <lastmod>2013-04-05T00:00:00+00:00</lastmod>
   </url>
   
