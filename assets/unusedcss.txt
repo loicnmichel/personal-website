@@ -1,18 +1,23 @@
-body {
-text-align: justify;
-}
 .container {
-    max-width: 90%;
+    width: 90%;
+    max-width: none;
 }
 .article {
-    max-width: 90%;
+        width: 90%;
+    max-width: none;
 }
 .article-container {
-    max-width: 90%;
+        width: 90%;
+    max-width: none;
 }
 .div {
-    max-width: 90%;
+        width: 90%;
+    max-width: none;
 }
 .universal-wrapper {
-    max-width: 90%;
+        width: 90%;
+    max-width: none;
+}
+body {
+text-align: justify;
 }
