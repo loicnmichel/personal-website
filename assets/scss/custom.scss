@@ -1,12 +1,24 @@
 .container {
     max-width: 90%;
 }
-body {
-text-align: justify;
-}
 .article-container {
     max-width: 90%;
 }
 .universal-wrapper {
     max-width: 90%;
+}
+.project-card {
+	align-items: center;
+	justify-items: center;
+	text-align: center;
+	margin: auto;
+}
+.project-container {
+	align-items: center;
+	justify-items: center;
+	text-align: center;
+	margin: auto;
+}
+body {
+text-align: justify;
 }
