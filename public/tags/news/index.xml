@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News | Loïc N. Michel</title>
+    <link>/tags/news/</link>
+      <atom:link href="/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <description>News</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>News</title>
+      <link>/tags/news/</link>
+    </image>
+    
+    <item>
+      <title>New website</title>
+      <link>/post/new-website/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/post/new-website/</guid>
+      <description>&lt;p&gt;I thought that it was past time to dust off my old wordpress website. I&#39;ve decided to transition to a &lt;a href=&#34;https://github.com/&#34;&gt;github&lt;/a&gt;-hosted &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt; site, and built this one using the &lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic theme&lt;/a&gt; by &lt;a href=&#34;https://georgecushen.com/&#34;&gt;George Cushen&lt;/a&gt;, which I cannot recommend warmly enough. It took me a while to adapt, but luckily there are many high-quality learning resources out there, making the process rather painless.&lt;/p&gt;
+&lt;p&gt;This new website is still under construction, and it might therefore look a bit rough around some edges, or contain a few dead links. I&#39;m sorry about the inconvenience. Feel free to &lt;a href=&#34;/#contact/&#34;&gt;drop me a line&lt;/a&gt; if you notice anything weird.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/academic.png&#34; &gt;
+
+
+  &lt;img src=&#34;/img/academic.png&#34; alt=&#34;&#34; width=&#34;200px&#34; &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

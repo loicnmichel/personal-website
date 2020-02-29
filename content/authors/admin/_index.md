@@ -1,4 +1,4 @@
----
+﻿---
 # Display name
 name: Loïc N. Michel
 
@@ -87,6 +87,4 @@ user_groups:
 - Researchers
 ---
 
-I’m a marine ecologist broadly interested in how food web structure and trophic interactions influence ecosystem functioning and biodiversity. I’m also interested in how natural or anthropogenic environmental variations impact animal feeding, and how ecological plasticity mediates marine consumers' response to change. I mostly tackle those issues by using polar and deep-sea benthic invertebrates as ecological models, and by developing approaches based on trophic markers (particularly stable isotopes).
-
-This website is under construction. Sorry about the missing info and broken links...
+I’m a marine ecologist broadly interested in how food web structure and trophic interactions influence ecosystem functioning and biodiversity. I’m also interested in how natural or anthropogenic environmental variations impact animal feeding, and how ecological plasticity mediates marine consumers' response to change. I mostly tackle those issues by using polar and deep-sea benthic invertebrates as ecological models, and by developing approaches based on trophic markers, notably stable isotopes.

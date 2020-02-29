@@ -5,12 +5,177 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Wed, 31 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>News</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>New website</title>
+      <link>/post/new-website/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/post/new-website/</guid>
+      <description>&lt;p&gt;I thought that it was past time to dust off my old wordpress website. I&#39;ve decided to transition to a &lt;a href=&#34;https://github.com/&#34;&gt;github&lt;/a&gt;-hosted &lt;a href=&#34;https://gohugo.io/&#34;&gt;hugo&lt;/a&gt; site, and built this one using the &lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic theme&lt;/a&gt; by &lt;a href=&#34;https://georgecushen.com/&#34;&gt;George Cushen&lt;/a&gt;, which I cannot recommend warmly enough. It took me a while to adapt, but luckily there are many high-quality learning resources out there, making the process rather painless.&lt;/p&gt;
+&lt;p&gt;This new website is still under construction, and it might therefore look a bit rough around some edges, or contain a few dead links. I&#39;m sorry about the inconvenience. Feel free to &lt;a href=&#34;/#contact/&#34;&gt;drop me a line&lt;/a&gt; if you notice anything weird.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/academic.png&#34; &gt;
+
+
+  &lt;img src=&#34;/img/academic.png&#34; alt=&#34;&#34; width=&#34;200px&#34; &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>New paper: impact of fluid preservation on sea stars stable isotope ratios</title>
+      <link>/post/new-paper-preservation-seastars/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/post/new-paper-preservation-seastars/</guid>
+      <description>&lt;p&gt;New article out in Rapid Communications in Mass Spectrometry! This paper is the first output of &lt;a href=&#34;https://www.researchgate.net/profile/Baptiste_Le_Bourg&#34;&gt;Baptiste Le Bourg&lt;/a&gt;&amp;lsquo;s PhD thesis at ULiège. Baptiste&#39;s PhD focuses on Southern Ocean sea stars. For part of his work, we were keen to use sea stars sampled during past campaigns and archived in lab or museum collections. However, these samples are typically stored in fluid preservatives (formaldehyde and/ or ethanol), which can influence their stable isotope composition. Here, we performed a 2-year experiment on the temperate sea star &lt;em&gt;Marthasterias glacialis&lt;/em&gt;, and monitored how different modes of preservation would alter its stable isotope ratios of C, N, and S. Our results showed that the preservation method indeed affected stable isotope ratios, but that correction factors could be used to mitigate those biases. Therefore, under some conditions, fluid-preserved sea stars can be used for trophic ecology studies.&lt;/p&gt;
+&lt;p&gt;Read the article at &lt;a href=&#34;https://doi.org/10.1002/rcm.8589&#34;&gt;https://doi.org/10.1002/rcm.8589&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/marthasterias.jpg&#34; data-caption=&#34;The sea star Marthasterias glacialis. Image: Tato Grasso/Wikimedia Commons, CC-BY-SA 3.0&#34;&gt;
+
+
+  &lt;img src=&#34;/img/marthasterias.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The sea star &lt;em&gt;Marthasterias glacialis&lt;/em&gt;. Image: &lt;a href=&#34;https://commons.wikimedia.org/wiki/File:Marthasterias_glacialis_Linosa_067.jpg&#34;&gt;Tato Grasso/Wikimedia Commons, CC-BY-SA 3.0&lt;/a&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>New paper about carbon fluxes in Arctic fjords</title>
+      <link>/post/new-paper-arctic-fjords/</link>
+      <pubDate>Mon, 23 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/post/new-paper-arctic-fjords/</guid>
+      <description>&lt;p&gt;New article out in Journal of Geophysical Research: Biogeosciences! For this paper, lead by &lt;a href=&#34;http://www.iopan.gda.pl/ekologia/mwk/mwk.html&#34;&gt;Maria Włodarska-Kowalczuk
+&lt;/a&gt;, we compared regional and local drivers of organic carbon fluxes in six fjords ranging from the North Atlantic (60°N) to the Arctic (81°N). Our results suggest that organic carbon content, origin and burial rates varied greatly according to latitude and presence of glacier inflow. This variability is important to take into account when trying to produce global estimates of fjord role in blue carbon storage, and for building scenarios of future climate change.&lt;/p&gt;
+&lt;p&gt;Read the article at &lt;a href=&#34;https://doi.org/10.1029/2019JG005140&#34;&gt;https://doi.org/10.1029/2019JG005140&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/fjord.jpg&#34; data-caption=&#34;Image: IOPAN, DWARF project&#34;&gt;
+
+
+  &lt;img src=&#34;/img/fjord.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Image: &lt;a href=&#34;http://www.iopan.gda.pl/projects/Dwarf/&#34;&gt;IOPAN, DWARF project&lt;/a&gt;
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Article about our research in FNRS.news</title>
+      <link>/post/article-fnrs-news/</link>
+      <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/post/article-fnrs-news/</guid>
+      <description>&lt;p&gt;Our research about the influence of sea ice cover changes on benthic food webs in East Antarctica (&lt;a href=&#34;https://doi.org/10.1038/s41598-019-44605-5&#34;&gt;this paper, specifically&lt;/a&gt;) has been featured in the last issue of FNRS.news, the Belgian Funds for Scientific Research (&lt;a href=&#34;https://www.frs-fnrs.be/en/&#34;&gt;F.R.S-FNRS&lt;/a&gt;)&amp;lsquo;s quarterly magazine.&lt;/p&gt;
+&lt;p&gt;You can read the article below, or look at the whole issue at &lt;a href=&#34;https://www.frs-fnrs.be/docs/Lettre/lettre117.pdf&#34;&gt;https://www.frs-fnrs.be/docs/Lettre/lettre117.pdf&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/FNRSnews117.jpg&#34; &gt;
+
+
+  &lt;img src=&#34;/img/FNRSnews117.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>New paper in Journal of Animal Ecology</title>
