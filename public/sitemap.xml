@@ -18,12 +18,12 @@
   </url>
   
   <url>
-    <loc>/categories/news/</loc>
+    <loc>/tags/news/</loc>
     <lastmod>2020-02-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/news/</loc>
+    <loc>/categories/news/</loc>
     <lastmod>2020-02-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,12 +78,12 @@
   </url>
   
   <url>
-    <loc>/categories/papers/</loc>
+    <loc>/tags/papers/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/papers/</loc>
+    <loc>/categories/papers/</loc>
     <lastmod>2020-01-30T00:00:00+00:00</lastmod>
   </url>
   
