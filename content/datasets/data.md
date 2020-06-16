@@ -50,6 +50,8 @@ weight = 25  # Order that this section will appear.
  css_class = ""
 +++
 <h2>Stable isotope data</h2>
+<p>Methou P., <strong>Michel L. N.</strong>, Segonzac M., Cambon Bonavita M.-A. & Pradillon F (2020). Stable isotope ratios of hydrothermal vent alvinocaridid shrimps collected during the BICOSE 2 cruise (2018). <br>
+<a href="https://doi.org/10.17882/74512" target="_blank" rel="noopener">https://doi.org/10.17882/74512</a></p>
 
 <p>Le Bourg B., Lepoint G. & <strong>Michel L.N</strong> (2019). Stable isotope and C/N ratios in the sea star <em>Marthasterias glacialis</em> preserved frozen, dried, in formaldehyde or in ethanol.<br>
 <a href="https://doi.org/10.1594/PANGAEA.906520" target="_blank" rel="noopener">https://doi.org/10.1594/PANGAEA.906520</a></p>
