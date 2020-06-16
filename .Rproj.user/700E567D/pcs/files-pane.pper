@@ -1,9 +1,9 @@
 {
-    "path" : "C:/Research/12 Personal website/personal-website",
-    "sortOrder" : [
+    "path": "C:/Research/12 Personal website/personal-website/content/datasets",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }

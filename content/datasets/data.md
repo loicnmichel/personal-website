@@ -64,7 +64,7 @@ weight = 25  # Order that this section will appear.
 <a href="https://doi.org/10.15468/wgfw0h" target="_blank" rel="noopener">https://doi.org/10.15468/wgfw0h</a></p>
 
 <p><strong>Michel L. N.</strong>, David B., Dubois P., Lepoint G. & De Ridder C (2016). Stable isotope ratios of Antarctic echinoids from the PS81 - ANTXXIX/3 Polarstern expedition.<br>
-<a class="citation-link" href="https://doi.org/10.6084/m9.figshare.1591834.v6">https://doi.org/10.6084/m9.figshare.1591834.v6</a></p>
+<a class="citation-link" href="https://doi.org/10.6084/m9.figshare.1591834">https://doi.org/10.6084/m9.figshare.1591834</a></p>
 
 <br>
 
