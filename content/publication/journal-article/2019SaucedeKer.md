@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Modeling species response to climate change in Sub-Antarctic islands: Echinoids as a case study for the Kerguelen Plateau"
 authors:
 - Saucède T. 
@@ -20,7 +20,7 @@ authors:
 - Poulin E.
 - Féral J.-P
 date: "2019-02-24T00:00:00Z"
-#doi: "10.1002/lno.11174"
+doi: "10.5281/zenodo.3251680"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
