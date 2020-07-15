@@ -5,12 +5,268 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
       <link>/authors/</link>
     </image>
+    
+    <item>
+      <title>&lt;strong&gt;Michel L. N.&lt;/strong&gt;</title>
+      <link>/authors/strongmichel-l.-n./strong/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/strongmichel-l.-n./strong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Amaro T.</title>
+      <link>/authors/amaro-t./</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/amaro-t./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Budge S. M.</title>
+      <link>/authors/budge-s.-m./</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/budge-s.-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Couturier L. I. E.</title>
+      <link>/authors/couturier-l.-i.-e./</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/couturier-l.-i.-e./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>da Costa E.</title>
+      <link>/authors/da-costa-e./</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/da-costa-e./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De Troch M.</title>
+      <link>/authors/de-troch-m./</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/de-troch-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Di Dato V.</title>
+      <link>/authors/di-dato-v./</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/di-dato-v./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fink P.</title>
+      <link>/authors/fink-p./</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/fink-p./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giraldo C.</title>
+      <link>/authors/giraldo-c./</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/giraldo-c./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le Grand F.</title>
+      <link>/authors/le-grand-f./</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/le-grand-f./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Loaiza I.</title>
+      <link>/authors/loaiza-i./</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/loaiza-i./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathieu-Resuge M.</title>
+      <link>/authors/mathieu-resuge-m./</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/mathieu-resuge-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nichols P. D.</title>
+      <link>/authors/nichols-p.-d./</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/nichols-p.-d./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parrish C. C.</title>
+      <link>/authors/parrish-c.-c./</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/parrish-c.-c./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pernet F.</title>
+      <link>/authors/pernet-f./</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/pernet-f./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sardenne F.</title>
+      <link>/authors/sardenne-f./</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/sardenne-f./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soudant P</title>
+      <link>/authors/soudant-p/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/soudant-p/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vagner M.</title>
+      <link>/authors/vagner-m./</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/vagner-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alfaro Lucas J. M.</title>
+      <link>/authors/alfaro-lucas-j.-m./</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/alfaro-lucas-j.-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foviaux M.</title>
+      <link>/authors/foviaux-m./</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/foviaux-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martinez Arbizu P.</title>
+      <link>/authors/martinez-arbizu-p./</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/martinez-arbizu-p./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pradillon F.</title>
+      <link>/authors/pradillon-f./</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/pradillon-f./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarrazin J</title>
+      <link>/authors/sarrazin-j/</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/sarrazin-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tanaka H.</title>
+      <link>/authors/tanaka-h./</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/tanaka-h./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zeppilli D.</title>
+      <link>/authors/zeppilli-d./</link>
+      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/zeppilli-d./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dauby P.</title>
+      <link>/authors/dauby-p./</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/dauby-p./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nyssen F. L.</title>
+      <link>/authors/nyssen-f.-l./</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/nyssen-f.-l./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verheye M</title>
+      <link>/authors/verheye-m/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/verheye-m/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cambon-Bonavita M.-A.</title>
+      <link>/authors/cambon-bonavita-m.-a./</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/cambon-bonavita-m.-a./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methou P.</title>
+      <link>/authors/methou-p./</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/methou-p./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pradillon F</title>
+      <link>/authors/pradillon-f/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/pradillon-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Segonzac M.</title>
+      <link>/authors/segonzac-m./</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/segonzac-m./</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>&lt;strong&gt;Michel L. N&lt;/strong&gt;</title>
@@ -33,14 +289,6 @@
       <link>/authors/lepoint-g./</link>
       <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/lepoint-g./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>&lt;strong&gt;Michel L. N.&lt;/strong&gt;</title>
-      <link>/authors/strongmichel-l.-n./strong/</link>
-      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/strongmichel-l.-n./strong/</guid>
       <description></description>
     </item>
     
@@ -269,14 +517,6 @@
     </item>
     
     <item>
-      <title>Cambon-Bonavita M.-A.</title>
-      <link>/authors/cambon-bonavita-m.-a./</link>
-      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/cambon-bonavita-m.-a./</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Decraemer W.</title>
       <link>/authors/decraemer-w./</link>
       <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
@@ -325,14 +565,6 @@
     </item>
     
     <item>
-      <title>Sarrazin J</title>
-      <link>/authors/sarrazin-j/</link>
-      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/sarrazin-j/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Smol N.</title>
       <link>/authors/smol-n./</link>
       <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
@@ -353,14 +585,6 @@
       <link>/authors/vanreusel-a./</link>
       <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
       <guid>/authors/vanreusel-a./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zeppilli D.</title>
-      <link>/authors/zeppilli-d./</link>
-      <pubDate>Fri, 26 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/zeppilli-d./</guid>
       <description></description>
     </item>
     
@@ -569,14 +793,6 @@
       <link>/authors/w%C5%82odarska-kowalczuk-m/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/authors/w%C5%82odarska-kowalczuk-m/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>De Troch M.</title>
-      <link>/authors/de-troch-m./</link>
-      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/authors/de-troch-m./</guid>
       <description></description>
     </item>
     
@@ -817,14 +1033,6 @@
       <link>/authors/gobert-s./</link>
       <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
       <guid>/authors/gobert-s./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dauby P.</title>
-      <link>/authors/dauby-p./</link>
-      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>/authors/dauby-p./</guid>
       <description></description>
     </item>
     
@@ -1136,6 +1344,15 @@
     
     <item>
       <title></title>
+      <link>/authors/alfaro-joan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/alfaro-joan/</guid>
+      <description>&lt;p&gt;Collaboration topics:  hydrothermal vent ecology, community ecology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/caut-stephane/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/caut-stephane/</guid>
@@ -1149,6 +1366,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/collard-france/</guid>
       <description>&lt;p&gt;Collaboration topics: ecology of Mediterranean neuston &amp;amp; plankton&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/couturier-lydie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/couturier-lydie/</guid>
+      <description>&lt;p&gt;Collaboration topics:  fatty acid trophic markers.&lt;/p&gt;
 </description>
     </item>
     
@@ -1361,10 +1587,28 @@
     
     <item>
       <title></title>
+      <link>/authors/methou-pierre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/methou-pierre/</guid>
+      <description>&lt;p&gt;Collaboration topics:  hydrothermal vent ecology, shrimp ecology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/parmentier-eric/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/parmentier-eric/</guid>
       <description>&lt;p&gt;Collaboration topics: fish ecology, symbiosis ecology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/pernet-fabrice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/pernet-fabrice/</guid>
+      <description>&lt;p&gt;Collaboration topics:  fatty acid trophic markers.&lt;/p&gt;
 </description>
     </item>
     
@@ -1410,6 +1654,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/schnitzler-joseph/</guid>
       <description>&lt;p&gt;Collaboration topics:  biostatistics, marine vertebrate ecology and ecotoxicology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/soudant-philippe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/soudant-philippe/</guid>
+      <description>&lt;p&gt;Collaboration topics:  fatty acid trophic markers.&lt;/p&gt;
 </description>
     </item>
     

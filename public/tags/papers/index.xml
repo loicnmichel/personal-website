@@ -5,12 +5,100 @@
     <link>/tags/papers/</link>
       <atom:link href="/tags/papers/index.xml" rel="self" type="application/rss+xml" />
     <description>Papers</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Thu, 30 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Papers</title>
       <link>/tags/papers/</link>
     </image>
+    
+    <item>
+      <title>New paper on Antarctic amphipods</title>
+      <link>/post/new-paper-antarctic-amphipods/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/new-paper-antarctic-amphipods/</guid>
+      <description>&lt;p&gt;New paper out in Antarctic Science! For this one, we looked at mouthpart morphology in several species of Southern Ocean amphipods. Specifically, we aimed to assess whether the tremendous ecological diversity found in Antarctic amphipods, that occupy many different ecological niches and hold an important place in food webs, was reflected in their mandible morphology, and if mouthpart specialization could be used to describe amphipod feeding habits. It turns out that while mandible morphology adequately depicted some aspects of amphipod trophic ecology (e.g. degree of dietary specialization, trophic position), links between mandible morphology and amphipod diet were seldom unambiguous or straightforward. Overall, mandible morphology on its own was generally not sufficient to precisely predict amphipod feeding strategies. However, when combined with other methods (e.g. gut contents, trophic markers), it constitutes a valuable source of information for integrative studies of amphipod ecological diversity in the Southern Ocean.&lt;/p&gt;
+&lt;p&gt;Read more at &lt;a href=&#34;https://doi.org/10.1017/S0954102020000395&#34;&gt;https://doi.org/10.1017/S0954102020000395&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/mandible.jpg&#34; data-caption=&#34;The mandible of one of the studied species, Oradarea sp.&#34;&gt;
+
+
+  &lt;img src=&#34;/img/mandible.jpg&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The mandible of one of the studied species, &lt;em&gt;Oradarea&lt;/em&gt; sp.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>New paper about hydrothermal vent shrimps</title>
+      <link>/post/new-paper-hydrothermal-shrimps/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/new-paper-hydrothermal-shrimps/</guid>
+      <description>&lt;p&gt;After a few quiet months of cancelled conferences, postponed cruises, and home working, I&#39;m very happy to share some news about a new publication. This paper, just published in Royal Society Open Science, is the output of &lt;a href=&#34;https://www.researchgate.net/profile/Pierre_Methou&#34;&gt;Pierre Methou&lt;/a&gt;&amp;lsquo;s thesis at Ifremer, that focused on emblematic, symbiont-bearing, hydrothermal vent shrimps &lt;em&gt;Rimicaris&lt;/em&gt; spp. Here, we combined integrative taxonomy (morphological analyses, DNA sequencing) and ecological markers (stable isotopes of C, N and S) to re-examine ontogenic niche shifts and interspecific differences in resource use among &lt;em&gt;R. exoculata&lt;/em&gt; and &lt;em&gt;R. chacei&lt;/em&gt;. It turns out that while both species transition from photosynthesis-based nutrition towards a chemosynthetic diet after settlement, there is consistent niche segregation between the two species throughout their life cycle. Those results provide a good illustration of the identification issues persisting in deep-sea ecosystems and the importance of integrative taxonomy in providing an accurate view of fundamental aspects of the biology and ecology of species inhabiting these environments.&lt;/p&gt;
+&lt;p&gt;Read more (for free) at &lt;a href=&#34;https://dx.doi.org/10.1098/rsos.200837&#34;&gt;https://dx.doi.org/10.1098/rsos.200837&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/rimicaris.jpg&#34; data-caption=&#34;A juvenile of the hydrothermal vent shrimp Rimicaris chacei. Image: Pierre Methou, Ifremer.&#34;&gt;
+
+
+  &lt;img src=&#34;/img/rimicaris.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    A juvenile of the hydrothermal vent shrimp &lt;em&gt;Rimicaris chacei&lt;/em&gt;. Image: Pierre Methou, Ifremer.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>New paper: impact of fluid preservation on sea stars stable isotope ratios</title>

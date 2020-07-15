@@ -23,7 +23,8 @@ showed the trophic relationship between *V. velella* and *J. globosa*, many ques
 these two organisms, demonstrating the need for more fundamental studies about neustonic ecosystems."
 featured: false
 publication: "*Belgian Journal of Zoology*, 146 (2): 123-133"
-url_source: 'http://rbzs.myspecies.info/sites/rbzs.myspecies.info/files/BJZ_146_2_Lepoint_colour.pdf'
+url_source: 'https://www.belgianjournalofzoology.eu/BJZ/article/download/47/69'
+doi: "10.26496/bjz.2016.47"
 projects: [03-stable-isotopes-in-ecology]
 url_pdf: 'https://hdl.handle.net/2268/201675'
 tags: ["2016"]

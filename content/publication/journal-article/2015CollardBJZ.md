@@ -18,8 +18,9 @@ found in summer whereas the Pontellidae *Anomalocera patersoni* appeared in wint
 a first step towards a better knowledge of neuston community structure in the Mediterranean Sea."
 featured: false
 publication: "*Belgian Journal of Zoology*, 145 (1): 40-48"
+doi: "10.26496/bjz.2015.56"
 url_pdf: 'https://hdl.handle.net/2268/180942'
-url_source: 'http://rbzs.myspecies.info/sites/rbzs.myspecies.info/files/BJZ_145_1_Collard.pdf'
+url_source: 'https://www.belgianjournalofzoology.eu/BJZ/article/download/56/78'
 
 tags: ["2015"]
 ---

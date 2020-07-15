@@ -23,7 +23,8 @@ featured: false
 publication: "*Belgian Journal of Zoology*, 145 (2): 83-93"
 tags: ["2015"]
 projects: [05-seagrass-ecology]
+doi: "10.26496/bjz.2015.49"
 url_pdf: 'https://hdl.handle.net/2268/183216'
-url_source: 'http://rbzs.myspecies.info/sites/rbzs.myspecies.info/files/BJZ_145_2_Michel.pdf'
+url_source: 'https://www.belgianjournalofzoology.eu/BJZ/article/download/49/71'
 ---
 

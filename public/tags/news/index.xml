@@ -5,12 +5,57 @@
     <link>/tags/news/</link>
       <atom:link href="/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>News</title>
       <link>/tags/news/</link>
     </image>
+    
+    <item>
+      <title>Introducing Dr. Le Bourg</title>
+      <link>/post/baptiste-phd/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/baptiste-phd/</guid>
+      <description>&lt;p&gt;Today, &lt;a href=&#34;https://www.researchgate.net/profile/Baptiste_Le_Bourg&#34;&gt;Baptiste Le Bourg&lt;/a&gt; successfully defended his PhD thesis, entitled &amp;ldquo;Trophic ecology of Southern Ocean sea stars: Influence of environmental drivers on trophic diversity&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Due to the current COVID-19 pandemic, the viva was held online. Despite the seemingly unavoidable technical issues, Baptiste did a great job, and both the new Dr. Le Bourg and his supervisors (&lt;a href=&#34;http://labos.ulg.ac.be/oceanologie/gilles-lepoint/&#34;&gt;Gilles Lepoint&lt;/a&gt; and I) are very happy about the outcome.&lt;/p&gt;
+&lt;p&gt;Baptiste&#39;s thesis is freely available at &lt;a href=&#34;http://hdl.handle.net/2268/248221&#34;&gt;http://hdl.handle.net/2268/248221&lt;/a&gt;, so feel free to have a look.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/lebourg.png&#34; data-caption=&#34;Some of the (virtual) viva attendees&#34;&gt;
+
+
+  &lt;img src=&#34;/img/lebourg.png&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Some of the (virtual) viva attendees
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>New website</title>

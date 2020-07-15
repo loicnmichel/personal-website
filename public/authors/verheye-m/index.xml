@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Verheye M | Loïc N. Michel</title>
+    <link>/authors/verheye-m/</link>
+      <atom:link href="/authors/verheye-m/index.xml" rel="self" type="application/rss+xml" />
+    <description>Verheye M</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Verheye M</title>
+      <link>/authors/verheye-m/</link>
+    </image>
+    
+    <item>
+      <title>Can mandible morphology help predict feeding habits in Antarctic amphipods?</title>
+      <link>/publication/journal-article/2020michelantsci/</link>
+      <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2020michelantsci/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

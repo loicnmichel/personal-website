@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Methou P. | Loïc N. Michel</title>
+    <link>/authors/methou-p./</link>
+      <atom:link href="/authors/methou-p./index.xml" rel="self" type="application/rss+xml" />
+    <description>Methou P.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Methou P.</title>
+      <link>/authors/methou-p./</link>
+    </image>
+    
+    <item>
+      <title>Integrative taxonomy revisits the ontogeny and trophic niches of *Rimicaris* vent shrimps</title>
+      <link>/publication/journal-article/2020methoursos/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2020methoursos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
