@@ -1,6 +1,6 @@
 ﻿---
 # Display name
-name: Patrick Dauby
+name: Marie Verheye
 
 # Username (this should match the folder name)
 authors:
@@ -15,7 +15,7 @@ role:
 # Organizations/Affiliations
 organizations:
 - name: University of Liège (Belgium)
-  url: "http://annuaire.ulg.ac.be/search.html?id=U012494"
+  url: "https://www.researchgate.net/profile/Marie_Verheye"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ULiège (BE) 
@@ -25,4 +25,4 @@ bio: ULiège (BE)
 user_groups:
 - Collaborators
 ---
-Collaboration topics: stable isotope ecology, seagrass ecology, Southern Ocean ecology, amphipod ecology & diversity. Patrick was my PhD advisor.
+Collaboration topics: Southern Ocean ecology, amphipod ecology, morphology & diversity.
