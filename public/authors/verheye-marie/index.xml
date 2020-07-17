@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loïc N. Michel</title>
+    <link>/authors/verheye-marie/</link>
+      <atom:link href="/authors/verheye-marie/index.xml" rel="self" type="application/rss+xml" />
+    <description>Loïc N. Michel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Loïc N. Michel</title>
+      <link>/authors/verheye-marie/</link>
+    </image>
+    
+  </channel>
+</rss>

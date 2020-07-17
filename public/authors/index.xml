@@ -37,7 +37,7 @@
     </item>
     
     <item>
-      <title>Couturier L. I. E.</title>
+      <title>Couturier L. I. E.*</title>
       <link>/authors/couturier-l.-i.-e./</link>
       <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/authors/couturier-l.-i.-e./</guid>
@@ -221,7 +221,7 @@
     </item>
     
     <item>
-      <title>Nyssen F. L.</title>
+      <title>Nyssen F. L.*</title>
       <link>/authors/nyssen-f.-l./</link>
       <pubDate>Tue, 14 Jul 2020 00:00:00 +0000</pubDate>
       <guid>/authors/nyssen-f.-l./</guid>
@@ -349,7 +349,7 @@
     </item>
     
     <item>
-      <title>Damseaux F.</title>
+      <title>Damseaux F.*</title>
       <link>/authors/damseaux-f./</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/authors/damseaux-f./</guid>
@@ -861,7 +861,7 @@
     </item>
     
     <item>
-      <title>Sturaro N.</title>
+      <title>Sturaro N.*</title>
       <link>/authors/sturaro-n./</link>
       <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
       <guid>/authors/sturaro-n./</guid>
@@ -933,7 +933,7 @@
     </item>
     
     <item>
-      <title>Frédérich B.</title>
+      <title>Frédérich B.*</title>
       <link>/authors/frederich-b./</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       <guid>/authors/frederich-b./</guid>
@@ -949,10 +949,10 @@
     </item>
     
     <item>
-      <title>Lingofo Bolya R.</title>
-      <link>/authors/lingofo-bolya-r./</link>
+      <title>Lingofo Bolaya R.</title>
+      <link>/authors/lingofo-bolaya-r./</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      <guid>/authors/lingofo-bolya-r./</guid>
+      <guid>/authors/lingofo-bolaya-r./</guid>
       <description></description>
     </item>
     
@@ -1410,7 +1410,7 @@
       <link>/authors/dauby-patrick/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/dauby-patrick/</guid>
-      <description>&lt;p&gt;Collaboration topics: stable isotope ecology, seagrass ecology. Patrick was my PhD advisor.&lt;/p&gt;
+      <description>&lt;p&gt;Collaboration topics: stable isotope ecology, seagrass ecology, Southern Ocean ecology, amphipod ecology &amp;amp; diversity. Patrick was my PhD advisor.&lt;/p&gt;
 </description>
     </item>
     
@@ -1596,6 +1596,15 @@
     
     <item>
       <title></title>
+      <link>/authors/nyssen-fabienne/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/nyssen-fabienne/</guid>
+      <description>&lt;p&gt;Collaboration topics: Southern Ocean ecology, amphipod ecology, fatty acid trophic markers. Fabienne now left Academia and coordinates the local action group &amp;ldquo;jesuishesbignon&amp;rdquo;: &lt;a href=&#34;https://jesuishesbignon.be/&#34;&gt;https://jesuishesbignon.be/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>/authors/parmentier-eric/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/parmentier-eric/</guid>
@@ -1681,6 +1690,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/thelen-nicolas/</guid>
       <description>&lt;p&gt;Collaboration topics: optical and electronic microscopy, biological imaging.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/authors/verheye-marie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/verheye-marie/</guid>
+      <description>&lt;p&gt;Collaboration topics: Southern Ocean ecology, amphipod ecology, morphology &amp;amp; diversity.&lt;/p&gt;
 </description>
     </item>
     

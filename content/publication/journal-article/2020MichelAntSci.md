@@ -1,8 +1,8 @@
 ---
 title: "Can mandible morphology help predict feeding habits in Antarctic amphipods?"
 authors:
-- <strong>Michel L. N.</strong>
-- Nyssen F. L.
+- <strong>Michel L. N.*</strong>
+- Nyssen F. L.*
 - Dauby P.
 - Verheye M
 date: "2020-07-14T00:00:00Z"
@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Antarctic Science*, In Press"
+publication: "*Antarctic Science*, In Press. *Shared first authorship"
 publication_short: ""
 
 abstract: "In Antarctica, amphipods form a highly diverse group, occupy many different ecological niches and hold an important place in food webs. Here, we aimed to test whether differences in Antarctic amphipod feeding habits were reflected in their mandible morphology, and if mouthpart specialization could be used to describe amphipod trophic ecology. To do so, we compared mandible morphology in nine species spanning seven families and five functional groups (grazers, suspension feeders, generalist predators, specialist predators and scavengers). Mandible morphology adequately depicted some aspects of amphipod trophic ecology, such as the trophic level at which animals feed or their degree of dietary specialization. On the other hand, links between mandible morphology and amphipod diet were seldom unambiguous or straightforward. Similar adaptations were found in distinct functional groups. Conversely, mandible morphology could vary within a single functional group, and phylogenetic effects sometimes complicated the interpretation of form-function relationships. Overall, mandible morphology on its own was generally not sufficient to precisely predict amphipod feeding strategies. However, when combined with other methods (e.g. gut contents, trophic markers), it constitutes a valuable source of information for integrative studies of amphipod ecological diversity in the Southern Ocean."

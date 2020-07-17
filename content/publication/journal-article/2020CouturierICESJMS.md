@@ -1,8 +1,8 @@
 ---
 title: "State of the art and best practices for fatty acid analyses in aquatic sciences"
 authors:
-- Couturier L. I. E. 
-- <strong>Michel L. N.</strong>
+- Couturier L. I. E.*
+- <strong>Michel L. N.*</strong>
 - Amaro T.
 - Budge S. M. 
 - da Costa E.
@@ -33,7 +33,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ICES Journal of Marine Science*, In Press"
+publication: "*ICES Journal of Marine Science*, In Press. Paper selected as **Editor’s Choice**. *Shared first authorship"
 publication_short: ""
 
 abstract: ""
