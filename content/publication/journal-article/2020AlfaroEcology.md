@@ -10,7 +10,7 @@ authors:
 - Foviaux M.
 - Sarrazin J
 date: "2020-12-30T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1002/ecy.3144"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -38,7 +38,7 @@ featured: false
 #  url: ""
 url_pdf:	''
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://doi.org/10.5061/dryad.r4xgxd292'
 url_poster: ''
 url_project: ''
 url_slides: ''
