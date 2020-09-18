@@ -20,8 +20,8 @@ authors:
 - Pernet F.
 - Soudant P
 
-date: "2020-12-31T00:00:00Z"
-doi: ""
+date: "2020-08-23T00:00:00Z"
+doi: "10.1093/icesjms/fsaa121"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -36,18 +36,18 @@ publication_types: ["2"]
 publication: "*ICES Journal of Marine Science*, In Press. Paper selected as **Editor’s Choice**. *Shared first authorship"
 publication_short: ""
 
-abstract: ""
+abstract: "Determining the lipid content and fatty acid (FA) composition of aquatic organisms has been of major interest in trophic ecology, aquaculture, and nutrition for over half a century. Although protocols for lipid analysis are well-described, their application to aquatic sciences often requires modifications to adapt to field conditions and to sample type. Here, we present the current state of knowledge of methods dedicated to both marine and freshwater lipid analyses, from sampling to data treatment. We review: (i) sample preservation, storage and transport protocols, and their effects on lipids, (ii) lipid extraction, separation of polar and neutral lipids, derivatization, and detection methods, and (iii) available tools for the statistical analysis of FA data. We provide recommendations for best practices in field situations and advocate for protocol standardization and interlaboratory calibration."
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags: ["2020"]
-featured: false
+featured: true
 
 # links:
 #- name: ""
 #  url: ""
-url_pdf:	''
+url_pdf:	'https://hdl.handle.net/2268/250978'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -68,7 +68,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [03-stable-isotopes-in-ecology]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
