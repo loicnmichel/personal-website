@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Wed, 30 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
@@ -15,64 +15,8 @@
     <item>
       <title>&lt;strong&gt;Michel L. N.&lt;/strong&gt;</title>
       <link>/authors/strongmichel-l.-n./strong/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/authors/strongmichel-l.-n./strong/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Alfaro Lucas J. M.</title>
-      <link>/authors/alfaro-lucas-j.-m./</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/alfaro-lucas-j.-m./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Foviaux M.</title>
-      <link>/authors/foviaux-m./</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/foviaux-m./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Martinez Arbizu P.</title>
-      <link>/authors/martinez-arbizu-p./</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/martinez-arbizu-p./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pradillon F.</title>
-      <link>/authors/pradillon-f./</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/pradillon-f./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sarrazin J</title>
-      <link>/authors/sarrazin-j/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/sarrazin-j/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tanaka H.</title>
-      <link>/authors/tanaka-h./</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/tanaka-h./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zeppilli D.</title>
-      <link>/authors/zeppilli-d./</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/zeppilli-d./</guid>
       <description></description>
     </item>
     
@@ -209,6 +153,62 @@
       <link>/authors/vagner-m./</link>
       <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/authors/vagner-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alfaro Lucas J. M.</title>
+      <link>/authors/alfaro-lucas-j.-m./</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/alfaro-lucas-j.-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foviaux M.</title>
+      <link>/authors/foviaux-m./</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/foviaux-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martinez Arbizu P.</title>
+      <link>/authors/martinez-arbizu-p./</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/martinez-arbizu-p./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pradillon F.</title>
+      <link>/authors/pradillon-f./</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/pradillon-f./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sarrazin J</title>
+      <link>/authors/sarrazin-j/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/sarrazin-j/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tanaka H.</title>
+      <link>/authors/tanaka-h./</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/tanaka-h./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zeppilli D.</title>
+      <link>/authors/zeppilli-d./</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/zeppilli-d./</guid>
       <description></description>
     </item>
     

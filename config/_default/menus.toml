@@ -70,7 +70,7 @@
 
 [[main]]
   name = "Deep-sea database"
-  url = "/deepseabase"
+  url = "/deepiso"
   parent="Data"
   weight = 52
 
