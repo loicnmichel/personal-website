@@ -49,6 +49,15 @@ weight = 25  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
+<h2>2020</h2>
+<p>[103] Methou P., <strong>Michel L. N.</strong>, Segonzac M., Cambon-Bonavita M.-A. & Pradillon F (2020). Integrative taxonomy revisits the ontogeny and trophic niches of <i>Rimicaris</i> vent shrimps. Oral communication presented at the "Deep Sea Biology Society Online Conference - eDSBS", 20-21/08/2020, online event.</p>
+
+<p>[102] Laming S., Hourdez S., <strong>Michel L.</strong>, Cambon-Bonavita M.-A. & Pradillon F (2020). Classical and 3D anatomy and tissue-specific microbial associations in chemosymbiotic <i>Alviniconcha</i> gastropods from the Southwest Pacific. Oral communication presented at the "Deep Sea Biology Society Online Conference - eDSBS", 20-21/08/2020, online event.</p>
+
+<p>[101] Alfaro-Lucas J. M., Pradillon F., Zeppilli D., <strong>Michel L. N.</strong>, Martinez Arbizu P., Tanaka H., Foviaux M. & Sarrazin J (2020). High environmental stress and productivity increase functional diversity along a deep-sea hydrothermal vent gradient. Oral communication presented at the "Deep Sea Biology Society Online Conference - eDSBS", 20-21/08/2020, online event.</p>
+
+<br>
+
 <h2>2019</h2>
 
 <p>[100] Schön I., Christiansen H., Danis B., De Ridder C., Dubois P., Dettai A., Dulière V., Frédérich B., Heindler F. M., Jossart Q., Kochzius M., Leliaert F., Lepoint G., <strong>Michel L.</strong>, Pasotti F., Robert H., Van de Putte A., Vanreusel A. & Volckaert F (2019). Refugia and ecosystem tolerance in the Southern Ocean - the RECTO project. <span style="font-weight: 400;">Oral communication presented at the </span>"51<sup>st</sup> International Liege Colloquium on Ocean Dynamics: Polar Ocean facing changes", 06-10/05/2019, Liège, Belgium.</p>

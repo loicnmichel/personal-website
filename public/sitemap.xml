@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/deepisov1/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/projects/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/projects/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2020-08-23T00:00:00+00:00</lastmod>
   </url>
@@ -73,17 +108,22 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/mathieu-resuge-m./</loc>
     <lastmod>2020-08-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/nichols-p.-d./</loc>
+    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/papers/</loc>
+    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/papers/</loc>
     <lastmod>2020-08-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,6 +148,11 @@
   </url>
   
   <url>
+    <loc>/post/review-lipids/</loc>
+    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/sardenne-f./</loc>
     <lastmod>2020-08-23T00:00:00+00:00</lastmod>
   </url>
@@ -123,17 +168,17 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/vagner-m./</loc>
     <lastmod>2020-08-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/alfaro-lucas-j.-m./</loc>
+    <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/new-paper-hydrothermal-vents/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -178,11 +223,6 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/dauby-p./</loc>
     <lastmod>2020-07-14T00:00:00+00:00</lastmod>
   </url>
@@ -193,22 +233,7 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/nyssen-f.-l./</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/papers/</loc>
-    <lastmod>2020-07-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/papers/</loc>
     <lastmod>2020-07-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -398,12 +423,12 @@
   </url>
   
   <url>
-    <loc>/tags/media/</loc>
+    <loc>/categories/media/</loc>
     <lastmod>2019-10-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/media/</loc>
+    <loc>/tags/media/</loc>
     <lastmod>2019-10-12T00:00:00+00:00</lastmod>
   </url>
   

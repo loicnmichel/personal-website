@@ -66,13 +66,13 @@
   name = "Datasets"
   url = "/datasets"
   parent="Data"
-  weight = 51
+  weight = 52
 
 [[main]]
-  name = "Deep-sea database"
+  name = "DeepIso - Deep-sea isotope database"
   url = "/deepiso"
   parent="Data"
-  weight = 52
+  weight = 51
 
 [[main]]
   name = "CV"

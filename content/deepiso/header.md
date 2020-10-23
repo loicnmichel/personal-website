@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Open database of stable isotope ratios in deep-sea organisms"
-subtitle = ""
+title = "DeepIso"
+subtitle = "A global open database of stable isotope ratios and elemental contents for deep-sea ecosystems"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -49,3 +49,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+{{% alert note %}}Access the database freely on the SEANOE repository: <a href="https://doi.org/10.17882/76595" target="_blank" rel="noopener">https://doi.org/10.17882/76595</a>
+{{% /alert %}}

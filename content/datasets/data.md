@@ -50,6 +50,13 @@ weight = 25  # Order that this section will appear.
  css_class = ""
 +++
 <h2>Stable isotope data</h2>
+
+<p><strong>Michel L. N.</strong>, Bell J. B., Dubois S. F., Le Pans M., Lepoint G., Olu K., Reid W. D. K., Sarrazin J., Schaal G. & Hayden B (2020). DeepIso - a global open database of stable isotope ratios and elemental contents for deep-sea ecosystems (v1). <br>
+<a href="https://doi.org/10.17882/76595" target="_blank" rel="noopener">https://doi.org/10.17882/76595</a></p>
+
+<p>Carlier A., Ritt B., Rodrigues C. F., Sarrazin J., Olu K., Grall J., Clavier J. & <strong>Michel L. N </strong>(2020). Stable isotope ratios of eastern Mediterranean deep cold seep fauna (MEDECO cruise, Napoli & Amsterdam mud volcanoes, 2007). <br>
+<a href="https://doi.org/10.17882/76429" target="_blank" rel="noopener">https://doi.org/10.17882/76429</a></p>
+
 <p>Methou P., <strong>Michel L. N.</strong>, Segonzac M., Cambon Bonavita M.-A. & Pradillon F (2020). Stable isotope ratios of hydrothermal vent alvinocaridid shrimps collected during the BICOSE 2 cruise (2018). <br>
 <a href="https://doi.org/10.17882/74512" target="_blank" rel="noopener">https://doi.org/10.17882/74512</a></p>
 

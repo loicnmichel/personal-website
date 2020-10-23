@@ -5,12 +5,104 @@
     <link>/categories/papers/</link>
       <atom:link href="/categories/papers/index.xml" rel="self" type="application/rss+xml" />
     <description>Papers</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Tue, 14 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Sun, 23 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Papers</title>
       <link>/categories/papers/</link>
     </image>
+    
+    <item>
+      <title>Review paper: State of art and best practices for fatty acid analysis in aquatic sciences</title>
+      <link>/post/review-lipids/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/review-lipids/</guid>
+      <description>&lt;p&gt;In November 2018, we hosted the &amp;ldquo;&lt;a href=&#34;https://marinelipids.sciencesconf.org/&#34;&gt;Lipids in the ocean: Structure, function, ecological role and applications&amp;rdquo;&lt;/a&gt; conference in Brest. As part of a pre-conference workshop, we undertook the writing of collaborative review presenting the current state of knowledge of methods dedicated to both marine and freshwater lipid analyses, from sampling to data treatment. We aimed to provide lipid users with practical recommendations for best practices in field situations and advocate for protocol standardization and interlaboratory calibration.&lt;/p&gt;
+&lt;p&gt;Almost two years and countless hours of work after, the review, co-lead by &lt;a href=&#34;https://www.researchgate.net/profile/Lydie_Couturier&#34;&gt;Lydie Couturier&lt;/a&gt;, &lt;a href=&#34;https://www-iuem.univ-brest.fr/lemar/equipe/soudant-philippe/?lang=en&#34;&gt;Philippe Soudant&lt;/a&gt;, &lt;a href=&#34;https://annuaire.ifremer.fr/cv/17057/en/&#34;&gt;Fabrice Pernet&lt;/a&gt; and myself, just came out in ICES Journal of Marine Science. We are thrilled to see this one out, and we are honored to have been selected as &amp;ldquo;Editor&#39;s choice&amp;rdquo;!&lt;/p&gt;
+&lt;p&gt;Read the open access paper at &lt;a href=&#34;https://doi.org/10.1093/icesjms/fsaa121&#34;&gt;https://doi.org/10.1093/icesjms/fsaa121&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/lipid.png&#34; data-caption=&#34;Workflow for fatty acid analysis in aquatic samples&#34;&gt;
+
+
+  &lt;img src=&#34;/img/lipid.png&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Workflow for fatty acid analysis in aquatic samples
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Environmental stress, productivity and functional diversity - new paper in Ecology</title>
+      <link>/post/new-paper-hydrothermal-vents/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/post/new-paper-hydrothermal-vents/</guid>
+      <description>&lt;p&gt;Very happy to share this new paper just out in Ecology! It was lead by &lt;a href=&#34;https://alfarolucas.wixsite.com/deepecology&#34;&gt;Joan Alfaro-Lucas&lt;/a&gt;, as part of his PhD research at Ifremer. Here&#39;s how he pitches it:&lt;/p&gt;
+&lt;p&gt;Here, we used hydrothermal vents as natural labs, because they are hotspots of primary productivity and biomass where productivity correlates partially with environmental stress, radically contrasting with the surrounding stable and energy-limited deep sea. At vents, altered seawater is emitted as vent fluid, which is hot, acidic, depleted of oxygen and has toxic compounds. Microorganisms however use some toxic and other compounds of fluids to produce energy in a process known as chemosynthesis. Despite the associated stress, chemosynthesis fuels dense communities of well-adapted invertebrates found nowhere but in vents. In the literature, vents are often referred as oases or islands in the deep.&lt;/p&gt;
+&lt;p&gt;We show that despite stress, faunal assemblages under high hydrothermal influence were functionally more diverse than those in more stable surrounding areas without direct influence of vent emissions. The opposite trend has been observed in shallow-water vents! Contrary to their shallower counterparts, deep vents are hotspots of evolutionary novelties. We suggest that concomitant productivity increases with stress can lead to the presence of well-adapted &amp;amp; functionally diverse assemblages in the deep-sea energetic-limited context.&lt;/p&gt;
+&lt;p&gt;Also, we hypothesized that high functional diversity, that is, more distinct ecological functions among taxa, could lower interspecific competition, and facilitate species coexistence in high densities, in the spatially restricted vent areas. We raise awareness on the poorly known vent peripheral areas that showed low functional diversity and trait clustering. These assemblages, with also unique species and functional entities may be specially affected by anthropogenic activities such as deep-sea mining.&lt;/p&gt;
+&lt;p&gt;Read the full story at &lt;a href=&#34;https://doi.org/10.1002/ecy.3144&#34;&gt;https://doi.org/10.1002/ecy.3144&lt;/a&gt;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/alfaro.jpg&#34; data-caption=&#34;Some action shots of our experimental setup&#34;&gt;
+
+
+  &lt;img src=&#34;/img/alfaro.jpg&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Some action shots of our experimental setup
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>New paper on Antarctic amphipods</title>
