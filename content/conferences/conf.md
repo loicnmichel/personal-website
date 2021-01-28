@@ -49,6 +49,12 @@ weight = 25  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
+<h2>2021</h2>
+
+<p>[104] Verheye M. L., Herrel A., Frédérich B., Castrec C., <strong>Michel L.</strong> & Lepoint G (2021). How mandible morphology relates to trophic ecology in Antarctic amphipods: the case of Iphimediidae revealed by 3D-Geometric Morphometrics and Stable Isotopes. Poster presented at the "Society for Integrative and Comparative Biology 2021 Virtual Annual Meeting"", 03/01-28/02/2021, Online event.</p>
+
+<br>
+
 <h2>2020</h2>
 <p>[103] Methou P., <strong>Michel L. N.</strong>, Segonzac M., Cambon-Bonavita M.-A. & Pradillon F (2020). Integrative taxonomy revisits the ontogeny and trophic niches of <i>Rimicaris</i> vent shrimps. Oral communication presented at the "Deep Sea Biology Society Online Conference - eDSBS", 20-21/08/2020, online event.</p>
 

@@ -33,7 +33,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ICES Journal of Marine Science*, In Press. Paper selected as **Editor’s Choice**. *Shared first authorship"
+publication: "*ICES Journal of Marine Science*, 77 (7-8): 2375-2395. Paper selected as **Editor’s Choice**. *Shared first authorship"
 publication_short: ""
 
 abstract: "Determining the lipid content and fatty acid (FA) composition of aquatic organisms has been of major interest in trophic ecology, aquaculture, and nutrition for over half a century. Although protocols for lipid analysis are well-described, their application to aquatic sciences often requires modifications to adapt to field conditions and to sample type. Here, we present the current state of knowledge of methods dedicated to both marine and freshwater lipid analyses, from sampling to data treatment. We review: (i) sample preservation, storage and transport protocols, and their effects on lipids, (ii) lipid extraction, separation of polar and neutral lipids, derivatization, and detection methods, and (iii) available tools for the statistical analysis of FA data. We provide recommendations for best practices in field situations and advocate for protocol standardization and interlaboratory calibration."
