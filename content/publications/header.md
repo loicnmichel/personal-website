@@ -49,5 +49,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-{{% alert note %}}As of January 2021, I have published 41 papers (40 journal articles and one conference paper), including 9 as (co-)first and 5 as senior author. My work has been cited 516 times, my h-index is 12, and my i10-index is 15 [(Google Scholar profile)](https://scholar.google.com/citations?user=BxfeVdAAAAAJ). The full text of most of these publications is available through [University of Liège’s institutional repository (ORBI)](https://orbi.uliege.be/simple-search?query=u172073). If not, [contact me](/#contact) to get a copy.
+{{% alert note %}}As of January 2021, I have published 41 papers (40 journal articles and one conference paper), including 9 as (co-)first and 5 as senior author. My work has been cited 518 times, my h-index is 12, and my i10-index is 15 [(Google Scholar profile)](https://scholar.google.com/citations?user=BxfeVdAAAAAJ). The full text of most of these publications is available through [University of Liège’s institutional repository (ORBI)](https://orbi.uliege.be/simple-search?query=u172073). If not, [contact me](/#contact) to get a copy.
 {{% /alert %}}

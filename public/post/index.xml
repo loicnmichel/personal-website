@@ -5,12 +5,24 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Sat, 19 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>News</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>New paper - Importance of sea ice for Arctic food webs</title>
+      <link>/post/paper-baffin-bay/</link>
+      <pubDate>Sat, 19 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/paper-baffin-bay/</guid>
+      <description>&lt;p&gt;Right on time for the holiday break, our newest paper is out in Elementa: Science of the Anthropocene. It was lead by &lt;a href=&#34;https://www.researchgate.net/profile/Gustavo_Yunda-Guarin&#34;&gt;Gustavo Yunda-Guarin&lt;/a&gt;, as part of his PhD research at Laval University (Québec, Canada). It is part of the &lt;a href=&#34;http://www.greenedgeproject.info/&#34;&gt;Green Edge project&lt;/a&gt; special issue.&lt;/p&gt;
+&lt;p&gt;For this paper, we combined stable isotopes and lipid trophic markers to show that sea ice-derived production is an important energy source for deep-sea benthos in the Canadian Arctic. This suggests that changes in spring sea ice phenology could alter benthic food-web structure. Read the full story at &lt;a href=&#34;https://doi.org/10.1525/elementa.2020.047&#34;&gt;https://doi.org/10.1525/elementa.2020.047&lt;/a&gt;&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/218507293&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;div align=&#34;center&#34;&gt;Ice landscapes seen during the 2016 cruise of RV Amundsen - Green Edge Project.&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>DeepIso v1 is live!</title>
