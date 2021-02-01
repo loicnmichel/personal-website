@@ -23,12 +23,12 @@
   </url>
   
   <url>
-    <loc>/categories/papers/</loc>
+    <loc>/tags/papers/</loc>
     <lastmod>2020-12-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/papers/</loc>
+    <loc>/categories/papers/</loc>
     <lastmod>2020-12-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,13 +108,43 @@
   </url>
   
   <url>
+    <loc>/tags/projects/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/projects/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/projects/</loc>
-    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+    <loc>/post/20mo/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/outreach/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/outreach/</loc>
+    <lastmod>2020-10-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/ardeco/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/funding/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/funding/</loc>
+    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -463,12 +493,12 @@
   </url>
   
   <url>
-    <loc>/tags/media/</loc>
+    <loc>/categories/media/</loc>
     <lastmod>2019-10-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/media/</loc>
+    <loc>/tags/media/</loc>
     <lastmod>2019-10-12T00:00:00+00:00</lastmod>
   </url>
   

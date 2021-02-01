@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Funding | Loïc N. Michel</title>
+    <link>/categories/funding/</link>
+      <atom:link href="/categories/funding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Funding</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Site content: Loïc Michel &amp;middot; Photographs: Loïc Michel, Phil Jane &amp; [Arnaud Abadie](https://seaescape.fr/)</copyright><lastBuildDate>Tue, 15 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Funding</title>
+      <link>/categories/funding/</link>
+    </image>
+    
+    <item>
+      <title>ARDECO successfully funded</title>
+      <link>/post/ardeco/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/post/ardeco/</guid>
+      <description>&lt;p&gt;We just received the amazing news that our project ARDECO (Assessing Resilience of DEep COrals) was selected for funding by the &lt;a href=&#34;https://anr.fr/en/&#34;&gt;French National Research Agency (ANR)&lt;/a&gt;. For this 4-year (2021-2025) project, alongside colleagues from Sorbonne Université (FR), Océanopolis (FR), University of Aveiro (PO), and Memorial University of Newfoundland (CA), we&#39;ll be combining in situ sampling and observations with ex situ experiments in pressurized aquaria to understand how global change might impact multiple aspects of deep-sea coral biology. We will focus on the Bay of Biscay, where several coral species (&lt;em&gt;Desmophyllum pertusum&lt;/em&gt;, &lt;em&gt;Madrepora oculata&lt;/em&gt;, and &lt;em&gt;Solenosmilia variabilis&lt;/em&gt;) form reefs at depths between 650 and 2000 m. I&#39;ll be in charge of a work package about coral feeding and energy acquisition. Stay tuned for more info once the project starts&amp;hellip;&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/corals.jpg&#34; data-caption=&#34;Deep-sea corals in the Bay of Biscay (pink, left: Desmophyllum pertusum, right: Madrepora oculata) and associated fauna (zoanthids, bryozoans and comatulids). Picture: Ifremer.&#34;&gt;
+
+
+  &lt;img src=&#34;/img/corals.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Deep-sea corals in the Bay of Biscay (pink, left: &lt;em&gt;Desmophyllum pertusum&lt;/em&gt;, right: &lt;em&gt;Madrepora oculata&lt;/em&gt;) and associated fauna (zoanthids, bryozoans and comatulids). Picture: Ifremer.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
