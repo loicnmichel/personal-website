@@ -1,15 +1,22 @@
 ---
-title: "Reliance of deep-sea benthic macrofauna on ice-derived organic matter highlighted by multiple trophic markers during spring in Baffin Bay, Canadian Arctic"
+title: "Factors that influence trace element levels in blood and feathers of *Pygoscelis* penguins from South Shetland Islands, Antarctica"
 authors:
-- Yunda-Guarin G.
-- Brown T. A.
+- Padilha J. A.
+- Carvalho G. O.
+- Espejo W.
+- Souza J. S.
+- Pizzochero A. C.
+- Cunha L. S. T.
+- Costa E. S.
+- Pessôa A. R. L.
+- Almeida A. P.
+- Torres J. P. M.
+- Lepoint G.
 - <strong>Michel L. N.</strong>
-- Saint-Béat B.
-- Amiraux R.
-- Nozais C.
-- Archambault P
-date: "2020-12-11T00:00:00Z"
-doi: "10.1525/elementa.2020.047"
+- Das K.
+- Dorneles P. R
+date: "2021-04-23T00:00:00Z"
+doi: "10.1016/j.envpol.2021.117209"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,21 +28,21 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Elementa: Science of the Anthropocene*, 8 (1): 047"
+publication: "*Environmental Pollution*, 284: 117209"
 publication_short: ""
 
-abstract: "Benthic organisms depend primarily on seasonal pulses of organic matter from primary producers. In the Arctic, declines in sea ice due to warming climate could lead to changes in this food supply with as yet unknown effects on benthic trophic dynamics. Benthic consumer diets and food web structure were studied in a seasonally ice-covered region of Baffin Bay during spring 2016 at stations ranging in depth from 199 to 2,111 m. We used a novel combination of highly branched isoprenoid (HBI) lipid biomarkers and stable isotope ratios (δ<sup>13</sup>C, δ<sup>15</sup>N) to better understand the relationship between the availability of carbon sources in spring on the seafloor and their assimilation and transfer within the benthic food web. Organic carbon from sea ice (sympagic carbon [SC]) was an important food source for benthic consumers. The lipid biomarker analyses revealed a high relative contribution of SC in sediments (mean SC% ± standard deviation [SD] = 86% ± 16.0, n = 17) and in benthic consumer tissues (mean SC% ± SD = 78% ± 19.7, n = 159). We also detected an effect of sea-ice concentration on the relative contribution of SC in sediment and in benthic consumers. Cluster analysis separated the study region into three different zones according to the relative proportions of SC assimilated by benthic macrofauna. We observed variation of the benthic food web between zones, with increases in the width of the ecological niche in zones with less sea-ice concentration, indicating greater diversity of carbon sources assimilated by consumers. In zones with greater sea-ice concentration, the higher availability of SC increased the ecological role that primary consumers play in driving a stronger transfer of nutrients to higher trophic levels. Based on our results, SC is an important energy source for Arctic deep-sea benthos in Baffin Bay, such that changes in spring sea-ice phenology could alter benthic food-web structure."
+abstract: "Contaminant levels are lower in Antarctica than elsewhere in the world because of its low anthropogenic activities. However, the northern region of the Antarctic Peninsula, is close to South America and experiences the greatest anthropogenic pressure in Antarctica. Here, we investigated, in two Antarctic Peninsula islands, intra and interspecific factors that influence the concentrations of 17 trace elements (TEs) in blood and feathers of three penguin species breeding sympatrically in relation to their trophic ecology assessed via a stable isotopic approach (C, N and S). Geographical location, foraging zone (δ13C and δ34S) and diet influences the interspecific difference, and sex and maturity stage diet influence the intraspecific difference of Pygoscelis penguins. Penguins from Livingston showed higher values (mean, ng. g−1, dry weight - dw) of Zn (103), Mn (0.3), and Fe (95) than those from King George Island (Zn: 80, Mn: 1.9, and Fe: 11). Gender-related differences were observed, as males showed significantly higher values (mean, ng. g−1, dw) of Rb (3.4) and δ15N in blood of gentoo, and Ca (1344) in Adélie feathers. Chicks of gentoo and Adélie presented higher Zn, Mg, Ca, and Sr and lower 13C values in blood than adults. The highest concentrations (mean, ng. g−1, dw) of Cd (0.2) and Cu (26), and the lowest δ15N values were found in chinstrap. Geographical, intraspecific (i.e., ontogenetic and gender-related) and interspecific differences in feeding seemed to have influenced TE and stable isotope values in these animals. The TE bioaccumulation by penguins may have also been influenced by natural enrichment in environmental levels of these elements, which seems to be the case for Fe, Zn, and Mn. However, the high level of some of the TEs (Mn, Cd, and Cr) may reflect the increase of local and global human activities."
 
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: ["2020"]
+tags: ["2021"]
 featured: false
 
 # links:
 #- name: ""
 #  url: ""
-url_pdf:	'https://hdl.handle.net/2268/255060'
+url_pdf:	''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -56,7 +63,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [03-stable-isotopes-in-ecology, 01-polar-global-change, 02-trophic-deep-sea, 04-anthropogenic-impacts]
+projects: [03-stable-isotopes-in-ecology, 01-polar-global-change, 04-anthropogenic-impacts]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

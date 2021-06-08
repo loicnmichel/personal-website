@@ -1,15 +1,13 @@
 ---
-title: "Reliance of deep-sea benthic macrofauna on ice-derived organic matter highlighted by multiple trophic markers during spring in Baffin Bay, Canadian Arctic"
+title: "Trophic ecology of macrofauna inhabiting seagrass litter accumulations is related to the pulses of dead leaves"
 authors:
-- Yunda-Guarin G.
-- Brown T. A.
-- <strong>Michel L. N.</strong>
-- Saint-Béat B.
-- Amiraux R.
-- Nozais C.
-- Archambault P
-date: "2020-12-11T00:00:00Z"
-doi: "10.1525/elementa.2020.047"
+- Remy F.*
+- <strong>Michel L. N.*</strong>
+- Mascart T.
+- De Troch M.
+- Lepoint G
+date: "2021-03-01T00:00:00Z"
+doi: "10.1016/j.ecss.2021.107300"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -21,23 +19,23 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Elementa: Science of the Anthropocene*, 8 (1): 047"
+publication: "*Estuarine, Coastal and Shelf Science*, 8 (1): 047. *Shared first authorship"
 publication_short: ""
 
-abstract: "Benthic organisms depend primarily on seasonal pulses of organic matter from primary producers. In the Arctic, declines in sea ice due to warming climate could lead to changes in this food supply with as yet unknown effects on benthic trophic dynamics. Benthic consumer diets and food web structure were studied in a seasonally ice-covered region of Baffin Bay during spring 2016 at stations ranging in depth from 199 to 2,111 m. We used a novel combination of highly branched isoprenoid (HBI) lipid biomarkers and stable isotope ratios (δ<sup>13</sup>C, δ<sup>15</sup>N) to better understand the relationship between the availability of carbon sources in spring on the seafloor and their assimilation and transfer within the benthic food web. Organic carbon from sea ice (sympagic carbon [SC]) was an important food source for benthic consumers. The lipid biomarker analyses revealed a high relative contribution of SC in sediments (mean SC% ± standard deviation [SD] = 86% ± 16.0, n = 17) and in benthic consumer tissues (mean SC% ± SD = 78% ± 19.7, n = 159). We also detected an effect of sea-ice concentration on the relative contribution of SC in sediment and in benthic consumers. Cluster analysis separated the study region into three different zones according to the relative proportions of SC assimilated by benthic macrofauna. We observed variation of the benthic food web between zones, with increases in the width of the ecological niche in zones with less sea-ice concentration, indicating greater diversity of carbon sources assimilated by consumers. In zones with greater sea-ice concentration, the higher availability of SC increased the ecological role that primary consumers play in driving a stronger transfer of nutrients to higher trophic levels. Based on our results, SC is an important energy source for Arctic deep-sea benthos in Baffin Bay, such that changes in spring sea-ice phenology could alter benthic food-web structure."
+abstract: "Accumulation of exported macrophytodetritus (AEM) represent unique habitats formed by the dead material originating from macrophyte ecosystems (e.g., seagrass, kelp, other seaweeds). AEM can be found everywhere, from the littoral zone to the deepest canyons, and from high to low latitudes. Seagrass AEMs are among the most common detrital accumulations found in marine environments, and sometimes include macroalgae wrack that has been ripped from the substrate. In the Mediterranean Sea, Posidonia oceanica (L.) Delile litter accumulations undergo pulses of new necromass all year, particularly in autumn, when dead leaves are shed. Here, macrofauna inhabiting AEM of Calvi Bay (Corsica, France) was sampled troughout an annual cycle (four seasons). By combining gut content examination and stable isotope analysis, we aimed to assess the effect of seasonal litter pulses on the trophic ecology of the dominant macrofauna species. Litter composition showed drastic variations throughout the sampling period, with the highest leaf litter quantity and contribution to AEMs in November. Dominant detritivores, herbivores, and omnivores responded positively to this increase by ingesting more seagrass material. A Bayesian stable isotope mixing model showed that the assimilation of carbon originating from seagrasses also increased. Additionally, isotopic niche modelling showed that consumer niches shifted towards seagrass isotopic composition in November. Predators did not shift their diet, but their isotopic composition was affected by the isotopic shift of their prey, demonstrating the transfer of seagrass carbon to higher trophic levels and the shift towards dead leaf material in the entire community. This response was, therefore, a rapid (days to weeks) parallel to that of the slow (months to years) decomposition of detrital material via physical alteration and microbial decomposition. This seemingly underestimated transfer route should be better characterised to understand the role of these seagrass beds in carbon sequestration in the marine environment."
 
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: ["2020"]
+tags: ["2021"]
 featured: false
 
 # links:
 #- name: ""
 #  url: ""
-url_pdf:	'https://hdl.handle.net/2268/255060'
+url_pdf:	'https://hdl.handle.net/2268/258727'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://doi.org/10.14284/454'
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -56,7 +54,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [03-stable-isotopes-in-ecology, 01-polar-global-change, 02-trophic-deep-sea, 04-anthropogenic-impacts]
+projects: [03-stable-isotopes-in-ecology, 05-seagrass-ecology]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
