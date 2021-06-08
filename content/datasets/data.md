@@ -51,6 +51,15 @@ weight = 25  # Order that this section will appear.
 +++
 <h2>Stable isotope data</h2>
 
+<p>Frotté L., <strong>Michel L. N.</strong>, Lepoint G., Cordonnier S., Bezault E. & Monti D. (2021). Stable isotope ratios of C and N in diadromous fauna from Guadeloupe, French West Indies in 2017.<br>
+<a href="https://doi.org/10.14284/476" target="_blank" rel="noopener">https://doi.org/10.14284/476</a></p>
+
+<p>Le Bourg B., Moreau C., Lepoint G., Danis B. & <strong>Michel L. N</strong> (2021). Stable isotope ratios of C, N and S in Southern Ocean sea stars (1985-2017).<br>
+<a href="https://ipt.biodiversity.aq/resource?r=antarctic_subantarctic_asteroidea_isotopes&v=1.4" target="_blank" rel="noopener">https://ipt.biodiversity.aq/resource?r=antarctic_subantarctic_asteroidea_isotopes&v=1.4</a></p>
+
+<p><strong>Michel L. N.</strong>, Remy F., Mascart T., De Troch M. & Lepoint, G (2021). Stable isotope ratios of C and N in benthic macrofauna from Mediterranean seagrass litter accumulations from Calvi Bay in 2011-2012.<br>
+<a href="https://doi.org/10.14284/454" target="_blank" rel="noopener">https://doi.org/10.14284/454</a></p>
+
 <p><strong>Michel L. N.</strong>, Bell J. B., Dubois S. F., Le Pans M., Lepoint G., Olu K., Reid W. D. K., Sarrazin J., Schaal G. & Hayden B (2020). DeepIso - a global open database of stable isotope ratios and elemental contents for deep-sea ecosystems (v1). <br>
 <a href="https://doi.org/10.17882/76595" target="_blank" rel="noopener">https://doi.org/10.17882/76595</a></p>
 
