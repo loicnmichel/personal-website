@@ -5,7 +5,7 @@
 widget = "pagesperso"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 250 # Order that this section will appear.
+weight = 245 # Order that this section will appear.
 
 title = "2021"
 #subtitle = ""
