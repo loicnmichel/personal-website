@@ -12,24 +12,24 @@
   name = "Research"
   url = ""
   identifier="Research"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Research interests"
   url = "/interests"
   parent="Research"
-  weight = 21
+  weight = 31
 
 [[main]]
   name = "Collaborations network"
   url = "/collaborators"
   parent="Research"
-  weight = 22
+  weight = 32
 
 [[main]]
   name = "News"
   url = "/post"
-  weight = 30
+  weight = 20
 
 
 [[main]]
@@ -57,44 +57,56 @@
   weight = 43
 
 [[main]]
+  name = "Teaching"
+  url = ""
+  identifier="Teaching"
+  weight = 50
+
+[[main]]
   name = "Data"
   url = ""
   identifier="Data"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Datasets"
   url = "/datasets"
   parent="Data"
-  weight = 52
+  weight = 62
 
 [[main]]
   name = "DeepIso - Deep-sea isotope database"
   url = "/deepiso"
   parent="Data"
-  weight = 51
+  weight = 61
+
+[[main]]
+  name = "Code"
+  url = ""
+  identifier="Code"
+  weight = 80
 
 [[main]]
   name = "CV"
   url = ""
   identifier="CV"
-  weight = 60
+  weight = 80
 
 [[main]]
   name = "Experience"
   url = "/experience"
   parent="CV"
-  weight = 61
+  weight = 81
 
 [[main]]
   name = "Download my CV"
   url = "https://docs.google.com/document/d/1nSPq47XahkX0iHRBBMtOsTF7_6QIaPDXEDnX_0YYfnQ/export?format=pdf"
   parent="CV"
-  weight = 62
+  weight = 82
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 70
+  weight = 90
 
 
