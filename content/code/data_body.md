@@ -52,8 +52,8 @@ weight = 25  # Order that this section will appear.
 All code listed below is hosted on <a href = "https://github.com/loicnmichel" target="_blank" rel="noopener">github</a>.<br>
 
 <h3>Papers</h3>
-<p>R scripts and data files used for <a href = "https://doi.org/10.3354/meps13965" target="_blank" rel="noopener">Yunda-Guarin et al. (2022)</a>. Isotopic biplot, 2D isotopic niches, trophic position estimation, and visualization of results. <a href="https://doi.org/10.5281/zenodo.3903281" target="_blank" rel="noopener">[zip]</a></p>
-<p>R scripts and data files used for <a href = "https://doi.org/10.1016/j.ecss.2021.107300" target="_blank" rel="noopener">Remy et al. (2021)</a>. 2D isotopic niches, single-tracer stable isotope mixing model, and visualization of results. <a href="https://doi.org/10.5281/zenodo.5584830" target="_blank" rel="noopener">[zip]</a></p>
+<p>R scripts and data files used for <a href = "https://doi.org/10.3354/meps13965" target="_blank" rel="noopener">Yunda-Guarin et al. (2022)</a>. Isotopic biplot, 2D isotopic niches, trophic position estimation, and visualization of results. <a href="https://doi.org/10.5281/zenodo.5584830" target="_blank" rel="noopener">[zip]</a></p>
+<p>R scripts and data files used for <a href = "https://doi.org/10.1016/j.ecss.2021.107300" target="_blank" rel="noopener">Remy et al. (2021)</a>. 2D isotopic niches, single-tracer stable isotope mixing model, and visualization of results. <a href="https://doi.org/10.5281/zenodo.3903281" target="_blank" rel="noopener">[zip]</a></p>
 
 <h3>Courses</h3>
 <p>R scripts and data files used for the "Study of stable isotopes and applications to marine environments" course (ULiège). 2-tracer stable isotope mixing models, 2D isotopic niches metrics (ellipses and convex hulls), and trophic position estimations. <a href="https://doi.org/10.5281/zenodo.3903263" target="_blank" rel="noopener">[zip]</a></p>
