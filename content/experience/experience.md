@@ -33,7 +33,16 @@ date_format = "Jan 2006"
   location = "Liège, Belgium"
   date_start = "2017-09-01"
   date_end = ""
-  description = """I co-teach the "Study of stable isotopes and applications to marine environments" course."""  
+  description = """I co-teach the "Study of stable isotopes and applications to marine environments" course (master and PhD level)."""  
+  
+[[experience]]
+  title = "Visiting lecturer"
+  company = "University of Liège"
+  company_url = ""
+  location = "Liège, Belgium"
+  date_start = "2018-09-01"
+  date_end = ""
+  description = """I co-teach the "Study of stable isotopes and applications to marine environments" course (master and PhD level)."""  
 
 [[experience]]
   title = "BELSPO postdoctoral researcher"
