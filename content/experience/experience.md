@@ -37,12 +37,12 @@ date_format = "Jan 2006"
   
 [[experience]]
   title = "Visiting lecturer"
-  company = "University of Liège"
+  company = "European Institute for Marine Studies (IUEM), University of Western Brittany (UBO)"
   company_url = ""
-  location = "Liège, Belgium"
-  date_start = "2018-09-01"
+  location = "Brest, France"
+  date_start = "2018-10-02"
   date_end = ""
-  description = """I co-teach the "Study of stable isotopes and applications to marine environments" course (master and PhD level)."""  
+  description = """I take part in the "Deep-Sea Environments" and "Marine lipids: biological roles and applications" courses (master level)."""  
 
 [[experience]]
   title = "BELSPO postdoctoral researcher"
