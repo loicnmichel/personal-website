@@ -50,5 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 {{% alert note %}}
-Since most my research took place in French-speaking countries, most of the material listed here is only available in French. My apologies to non-French speakers... 
+Relevant material (presentation or poster) associated to most of these conference contributions is available through  [University of Liège's institutional repository (ORBI)](https://orbi.ulg.ac.be/simple-search?query=u172073). If not, [contact me](/#contact) to get a copy.
 {{% /alert %}}
