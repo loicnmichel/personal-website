@@ -58,7 +58,7 @@ Stable isotope mixing models: <a href="https://doi.org/10.5281/zenodo.5765509" t
 Using stable isotopes to estimate trophic position: <a href="https://doi.org/10.5281/zenodo.5765523" target="_blank" rel="noopener">[slides]</a><br>
 Stable isotopes as descriptors of ecological niches: <a href="https://doi.org/10.5281/zenodo.5765529" target="_blank" rel="noopener">[slides]</a><br>
 Isotopes and spatial ecology: <a href="https://doi.org/10.5281/zenodo.5774025" target="_blank" rel="noopener">[slides]</a><br>
-Food web structure in deep sea cold seeps - a case study from Western Africa; <a href="https://doi.org/10.5281/zenodo.5765540" target="_blank" rel="noopener">[slides]</a><br>
+Food web structure in deep sea cold seeps - a case study from Western Africa: <a href="https://doi.org/10.5281/zenodo.5765540" target="_blank" rel="noopener">[slides]</a><br>
 Food web structure in Antarctica in a context of global climate change - a stable isotope perspective: <a href="https://doi.org/10.5281/zenodo.5765549" target="_blank" rel="noopener">[slides]</a><br>
 
 

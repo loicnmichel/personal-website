@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Datasets"
+title = "Code"
 subtitle = ""
 
 [design]
@@ -29,7 +29,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "TrappedIcebergs.jpg"  # Name of image in `static/img/`.
+  image = "Pinna.jpg"  # Name of image in `static/img/`.
   image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -49,5 +49,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-{{% alert note %}}I am firmly convinced that scientific output should be freely and easily available to everyone. Besides the datasets listed below, I contribute to larger scale open data efforts such as the <a href="https://data.aad.gov.au/trophic/" target="_blank" rel="noopener">Southern Ocean Dietary Database</a> or <a href="https://www.isobank.org/" target="_blank" rel="noopener">IsoBank</a>, and I'm currently leading the development of <a href="/deepiso/" target="_blank" rel="noopener">DeepIso, a global open database of stable isotope ratios and elemental contents for deep-sea ecosystems</a>. I also used to be a contact person for the <a href="https://www.gbif.org/" target="_blank" rel="noopener">Global Biodiversity Information Facility (GBIF)</a> at University of Liège.
+{{% alert note %}}Feel free to download, use, adapt, redistribute (and, more importantly, improve!) the code below.
 {{% /alert %}}
