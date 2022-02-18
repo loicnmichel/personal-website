@@ -51,6 +51,14 @@ subtitle = ""
 +++
 <h2>2021</h2>
 
+<p>[112] Zbinden M., Compère P., Lepoint G., Shillito B. & <strong>Michel L. N</strong> (2021). How does *Alvinella pompejana* acquire carbon from chemoautotrophic bacteria? Poster presented at the "16th Deep-Sea Biology Symposium", 12-17/09/2021, online/Brest, France.</p>
+
+<p>[111] <strong>Michel L. N.</strong>, Bell J. B., Dubois S. F., Lepoint G., Olu K., Reid W. D. K., Sarrazin J., Schaal G. & Hayden B (2021). Building up DeepIso - A global open database of stable isotope ratios and elemental contents for deep-sea ecosystems. Poster presented at the "16th Deep-Sea Biology Symposium", 12-17/09/2021, online/Brest, France.</p>
+
+<p>[110] Menot L., Bourdon A., <strong>Michel L. N.</strong> & Pastor L (2021). Macrofaunal assemblages in iSMS-associated metalliferous sediments of the mid-Atlantic Ridge: community structure and trophic ecology. Oral communication presented at the "16th Deep-Sea Biology Symposium", 12-17/09/2021, online/Brest, France.</p>
+
+<p>[109] Marticorena J., Sarrazin J., <strong>Michel L. N.</strong>, Schaal G. & Matabos M (2021). Hydrothermal food web recovery after a small-scale disturbance on the Lucky Strike vent field (MAR). Oral communication presented at the "16th Deep-Sea Biology Symposium", 12-17/09/2021, online/Brest, France.</p>
+
 <p>[108] Steiner N. S., Bowman J., Campbell K., Chierici M., Eronen-Rasimus E., Falardeau M., Flores H., Fransson A., Herr H., Insley S. J., Kauko H. M., Lannuzel D., Loseto L., Lynnes A., Majewski A., Meiners K. M., Miller L. A., <strong>Michel L. N.</strong>, Moreau S., Nacke M., Nomura D.,  Wongpan P., Tedesco L., van Franeker J. A. & van Leeuwe M. A (2021). Climate change impacts on sea-ice ecosystems and associated ecosystem services. Oral communication presented at the "55th Canadian Meteorological and Oceanographic Society (CMOS) Congress", 31/05-11/06/2021, online/Vancouver, Canada.</p>
 
 <p>[107] Voisin A., Lepoint G., Danis B., Guillaumot C., Kristiansen A., Pasotti F., Saucède T. & <strong>Michel L. N</strong> (2021). Food web structure in a rapidly changing coastal environment: the West Antarctic Peninsula. Oral communication presented at the "International Conference on the Applications of Stable Isotope Techniques to Ecological Studies virtual interlude (IsoEcol 11.5)", 19-21/05/2021, online/Gaming, Austria.</p>
