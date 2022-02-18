@@ -33,7 +33,7 @@ abstract: "Sea stars (Echinodermata: Asteroidea) are a key component of Southern
 summary: 
 
 tags: ["2022"]
-featured: false
+featured: true
 
 # links:
 #- name: ""

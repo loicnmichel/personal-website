@@ -28,7 +28,7 @@ abstract: "Antarctic sea stars can occupy different trophic niches and display d
 summary: 
 
 tags: ["2021"]
-featured: false
+featured: true
 
 # links:
 #- name: ""
