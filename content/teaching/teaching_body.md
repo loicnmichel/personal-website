@@ -49,11 +49,12 @@ weight = 25  # Order that this section will appear.
  # CSS class.
  css_class = ""
 +++
-<h2>Study of stable isotopes and applications to marine environments (ULiège)</h2>
+<h1>Study of stable isotopes and applications to marine environments (ULiège)</h1>
 
-Co-taught with Gilles Lepoint.
+Co-taught with <a href="https://www.uliege.be/cms/c_9054334/en/directory?uid=u016031" target="_blank" rel="noopener">Gilles Lepoint</a>.
 
 <h3>Lectures</h3>
+Stable isotope mixing models: <a href="https://doi.org/10.5281/zenodo.5765509" target="_blank" rel="noopener">[slides]</a>
 
 
 <h3>Scripts & files for practical work</h3>
