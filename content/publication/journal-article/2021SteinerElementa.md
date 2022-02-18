@@ -48,7 +48,7 @@ abstract: "A rigorous synthesis of the sea-ice ecosystem and linked ecosystem se
 summary: 
 
 tags: ["2021"]
-featured: true
+featured: false
 
 # links:
 #- name: ""
