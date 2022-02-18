@@ -6,6 +6,29 @@ type: "widget_page"  # Page type is a Widget Page
 ---
 <div><!-- wp:paragraph --><p>Relevant material (presentation or poster) associated to most of these conference contributions is available through <a href="https://orbi.ulg.ac.be/simple-search?query=u172073" target="_blank" rel="noopener">University of Liège's institutional repository (ORBI)</a>. If not, <a href="/#contact" target="_blank" rel="noopener">contact me</a> to get a copy.</p><!-- /wp:paragraph --><br>
 
+<h2>2021</h2>
+
+<p>[108] Steiner N. S., Bowman J., Campbell K., Chierici M., Eronen-Rasimus E., Falardeau M., Flores H., Fransson A., Herr H., Insley S. J., Kauko H. M., Lannuzel D., Loseto L., Lynnes A., Majewski A., Meiners K. M., Miller L. A., <strong>Michel L. N.</strong>, Moreau S., Nacke M., Nomura D.,  Wongpan P., Tedesco L., van Franeker J. A. & van Leeuwe M. A (2021). Climate change impacts on sea-ice ecosystems and associated ecosystem services. Oral communication presented at the "55th Canadian Meteorological and Oceanographic Society (CMOS) Congress", 31/05-11/06/2021, online/Vancouver, Canada.</p>
+
+<p>[107] Voisin A., Lepoint G., Danis B., Guillaumot C., Kristiansen A., Pasotti F., Saucède T. & <strong>Michel L. N</strong> (2021). Food web structure in a rapidly changing coastal environment: the West Antarctic Peninsula. Oral communication presented at the "International Conference on the Applications of Stable Isotope Techniques to Ecological Studies virtual interlude (IsoEcol 11.5)", 19-21/05/2021, online/Gaming, Austria.</p>
+
+<p>[106] <strong>Michel L. N.</strong>, Bell J. B., Dubois S. F., Lepoint G., Olu K., Reid W. D. K., Sarrazin J., Schaal G. & Hayden B (2021). DeepIso - A global open database of stable isotope ratios and elemental contents for deep-sea ecosystems. Poster presented at the "International Conference on the Applications of Stable Isotope Techniques to Ecological Studies virtual interlude (IsoEcol 11.5)", 19-21/05/2021, online/Gaming, Austria.</p>
+
+<p>[105] Steiner N. S., Bowman J., Campbell K., Chierici M., Eronen-Rasimus E., Falardeau M., Flores H., Fransson A., Herr H., Insley S. J., Kauko H. M., Lannuzel D., Loseto L., Lynnes A., Majewski A., Meiners K. M., Miller L. A., <strong>Michel L. N.</strong>, Moreau S., Nacke M., Nomura D.,  Wongpan P., Tedesco L., van Franeker J. A. & van Leeuwe M. A (2021). Climate change impacts on sea-ice ecosystems and associated ecosystem services. Oral communication presented at the "International Arctic Science Committee (IASC) Arctic Science Summit Week”, 19-26/03/2021, online event/Lisbon, Portugal.</p>
+
+<p>[104] Verheye M. L., Herrel A., Frédérich B., Castrec C., <strong>Michel L.</strong> & Lepoint G (2021). How mandible morphology relates to trophic ecology in Antarctic amphipods: the case of Iphimediidae revealed by 3D-Geometric Morphometrics and Stable Isotopes. Poster presented at the "Society for Integrative and Comparative Biology 2021 Virtual Annual Meeting"", 03/01-28/02/2021, Online event.</p>
+
+<br>
+
+<h2>2020</h2>
+<p>[103] Methou P., <strong>Michel L. N.</strong>, Segonzac M., Cambon-Bonavita M.-A. & Pradillon F (2020). Integrative taxonomy revisits the ontogeny and trophic niches of <i>Rimicaris</i> vent shrimps. Oral communication presented at the "Deep Sea Biology Society Online Conference - eDSBS", 20-21/08/2020, online event.</p>
+
+<p>[102] Laming S., Hourdez S., <strong>Michel L.</strong>, Cambon-Bonavita M.-A. & Pradillon F (2020). Classical and 3D anatomy and tissue-specific microbial associations in chemosymbiotic <i>Alviniconcha</i> gastropods from the Southwest Pacific. Oral communication presented at the "Deep Sea Biology Society Online Conference - eDSBS", 20-21/08/2020, online event.</p>
+
+<p>[101] Alfaro-Lucas J. M., Pradillon F., Zeppilli D., <strong>Michel L. N.</strong>, Martinez Arbizu P., Tanaka H., Foviaux M. & Sarrazin J (2020). High environmental stress and productivity increase functional diversity along a deep-sea hydrothermal vent gradient. Oral communication presented at the "Deep Sea Biology Society Online Conference - eDSBS", 20-21/08/2020, online event.</p>
+
+<br>
+
 <!-- wp:heading --><h2>2019</h2><!-- /wp:heading -->
 
 <!-- wp:paragraph --><p>[100] Schön I., Christiansen H., Danis B., De Ridder C., Dubois P., Dettai A., Dulière V., Frédérich B., Heindler F. M., Jossart Q., Kochzius M., Leliaert F., Lepoint G., <strong>Michel L.</strong>, Pasotti F., Robert H., Van de Putte A., Vanreusel A. & Volckaert F (2019). Refugia and ecosystem tolerance in the Southern Ocean - the RECTO project. <span style="font-weight: 400;">Oral communication presented at the </span>"51<sup>st</sup> International Liege Colloquium on Ocean Dynamics: Polar Ocean facing changes", 06-10/05/2019, Liège, Belgium.</p><!-- /wp:paragraph -->
