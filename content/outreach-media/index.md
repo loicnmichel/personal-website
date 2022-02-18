@@ -4,8 +4,6 @@ summary: "Hello!"  # Add a page description.
 date: "2019-01-01T00:00:00Z"  # Add today's date.
 type: "widget_page"  # Page type is a Widget Page
 ---
-<p>Since most my research took place in French-speaking countries, most of the material listed here is only available in French. My apologies to non-French speakers... </p>
-<br>
 <p><strong>08/2019:</strong> "Sea ice cover increase is changing the invertebrates’ feeding habits", ULiège news release about <a href="https://doi.org/10.1038/s41598-019-44605-5" target="_blank" rel="noopener">this publication</a>. Links to the release in <a href="https://www.sciences.uliege.be/cms/c_5170884/en/sea-ice-cover-increase-is-changing-the-invertebrates-feeding-habits" target="_blank" rel="noopener">English</a> or <a href="https://www.sciences.uliege.be/cms/c_5170884/fr/l-augmentation-de-la-glace-de-mer-modifie-les-habitudes-alimentaires-des-invertebres" target="_blank" rel="noopener">French</a>.</p>
 <br>
 <p><strong>12/2018:</strong> Elementar put together a news article presenting the initiatives that their <a href="https://loicnmichel.wordpress.com/2018/12/21/ardb-competition-winner/" target="_blank" rel="noopener">ArDB competition's winners</a> plan to develop, including our <a href="https://loicnmichel.wordpress.com/deepseabase/" target="_blank" rel="noopener">deep-sea stable isotope database</a>. <a href="https://www.analyticalresultsdb.com/news/win-elementar-ardb-cloud-licence-and-smartwatch-winners-announced" target="_blank" rel="noopener">Link to the article</a></p>
