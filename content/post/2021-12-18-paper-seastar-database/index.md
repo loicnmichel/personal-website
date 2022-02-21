@@ -17,3 +17,5 @@ After a long time in the making, the paper describing our open database of troph
 Gathering so many samples from so many cruises in remote places was only made possible through collaborations with multiple colleagues from international institutions. Moreover, we complemented new field sampling with use of previously sampled specimens stored in museum collections. This allowed us to increase too greatly increase the scope of the database both spatially and temporally. It illustrate the tremendous value of museum collections to fill gaps in our knowledge of the ecology of species coming from data-poor regions or ecosystems. Moreover, they allow us to study past trophic ecology of organisms, as they were collected during periods when environmental conditions were different and usually more pristine than today.
 
 Read the full story at https://doi.org/10.1002/ecy.3611, and access the database at https://doi.org/10.5281/zenodo.5535585.
+
+{{< figure src="/img/mapdatapaper.jpg" width="60%" title="Map of sampling locations">}}
