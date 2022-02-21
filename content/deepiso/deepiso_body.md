@@ -53,9 +53,9 @@ The use of stable isotopes as ecological tracers in deep-sea ecosystems has a lo
 
 [DeepIso](https://doi.org/10.17882/76595) is a collaborative effort to produce a global compilation of stable isotope ratios and elemental contents in organisms from deep-sea ecosystems. In doing so, it aims to provide the deep-sea community with an open data analysis tool that can be used in the context of future ecological research, and to help deep-sea researchers to use stable isotope markers at their full efficiency. You can access the database at [https://doi.org/10.17882/76595](https://doi.org/10.17882/76595).
 
-As of v2 (2021/08/12), [DeepIso](https://doi.org/10.17882/76595) contains 18 distinct datasets, for a total of 38335 fully documented measurements. Archived parameters currently include δ<sup>13</sup>C (n = 7690), δ<sup>15</sup>N (n = 7491), δ<sup>34</sup>S (n = 3266), %C (n = 5753), %N (n = 5614), %S (n = 3342) and C/N ratio (n = 5719). Those measurements pertain to 7248 distinct samples belonging to 881 taxa, plus sediments, suspended particulate organic matter, plankton and detritus. Samples were taken between 1985 and 2018 in multiple environments (hydrothermal vents, cold seeps, cold water coral reefs, and other benthic or pelagic environments) and at depths ranging up to 5338 meters. For more info, feel free to check out [this poster](https://loicnmichel.com/static/img/16DSBS_poster_Session2_MICHEL_Loic.pdf) or watch the (slightly outdated) video below.
+As of v2 (2021/08/12), [DeepIso](https://doi.org/10.17882/76595) contains 18 distinct datasets, for a total of 38335 fully documented measurements. Archived parameters currently include δ<sup>13</sup>C (n = 7690), δ<sup>15</sup>N (n = 7491), δ<sup>34</sup>S (n = 3266), %C (n = 5753), %N (n = 5614), %S (n = 3342) and C/N ratio (n = 5719). Those measurements pertain to 7248 distinct samples belonging to 881 taxa, plus sediments, suspended particulate organic matter, plankton and detritus. Samples were taken between 1985 and 2018 in multiple environments (hydrothermal vents, cold seeps, cold water coral reefs, and other benthic or pelagic environments) and at depths ranging up to 5338 meters. For more info, feel free to check out [this poster](/img/16DSBS_poster_Session2_MICHEL_Loic.pdf) or watch the (slightly outdated) video below.
 <br>
-{{< youtube t2Z4ONt6c6g>}}
+{{< youtube t2Z4ONt6c6g width="60%">}}
 <br>
 
 
@@ -74,4 +74,3 @@ We are thankful to many people that contributed data and/or helped formatting th
 This work is supported by the "Laboratoire d’excellence" [LabexMER](https://www.labexmer.eu/en) (ANR-10-LABX-19) and co-funded by a grant from the French government under the program "Investissements d’avenir".
 <br>
 {{< figure src="/img/bush.jpg" title="Example of targeted taxa: tubeworms *Escarpia southwardae* and mussels *Bathymodiolus* aff. *boomerang* from cold seeps. Picture: Ifremer, WACS cruise, 2011 (depth: 3160 m)." width="60%" >}}
-<br>
