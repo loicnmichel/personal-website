@@ -1,8 +1,8 @@
 ---
 title: 'DeepIso v1 is live!'
 draft: false
-tags: ['Projects']
-categories: ['Projects']
+tags: ['Projects',"Open Science"]
+categories: ['Projects',"Open Science"]
 date: '2020-10-22'
 slug: deepiso=v1
 featured: no

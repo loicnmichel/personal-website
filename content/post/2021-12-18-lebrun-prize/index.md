@@ -1,10 +1,10 @@
 ---
 title: 'Jean Lebrun award'
 draft: false
-tags: ['Papers']
-categories: ['Papers']
+tags: ['News','Awards']
+categories: ['News','Awards']
 date: '2021-12-18'
-slug: paper-baffin-bay
+slug: jean-lebrun-award
 featured: yes
 image:
   caption: ''
@@ -12,9 +12,9 @@ image:
   preview_only: yes
 projects: []
 ---
-Right on time for the holiday break, our newest paper is out in Elementa: Science of the Anthropocene. It was lead by [Gustavo Yunda-Guarin](https://www.researchgate.net/profile/Gustavo_Yunda-Guarin), as part of his PhD research at Laval University (Québec, Canada). It is part of the [Green Edge project](http://www.greenedgeproject.info/) special issue.
+Christmas came early this year, and apparently I was on the right list, as the [Royal Academy of Science, Letters and Fine Arts of Belgium](https://www.academieroyale.be/) awarded me the 2021 [Jean Lebrun](https://archives.africamuseum.be/agents/people/186) prize for my work on impacts of anthropogenic impacts on ecosystem functioning, and my contribution to the study of marine food webs.
 
-For this paper, we combined stable isotopes and lipid trophic markers to show that sea ice-derived production is an important energy source for deep-sea benthos in the Canadian Arctic. This suggests that changes in spring sea ice phenology could alter benthic food-web structure. Read the full story at https://doi.org/10.1525/elementa.2020.047
+This triennial prize, awarded for the 12th time since its creation in 1986, rewards research work performed in the field of ecology and/or biogeography. Although I was slightly bummed out that the official ceremony was held online for sanitary reasons, I am thrilled to see my work recognized. As a cherry on top of the cake, two old friends were also rewarded by the Academy: [Alice Mouton](https://www.researchgate.net/profile/Mouton-Alice) and [Nicolas Sturaro](https://www.researchgate.net/profile/Nicolas-Sturaro).
+
+Read more about this prize and others on the [ULiège news website](https://www.news.uliege.be/cms/c_15362221/en/eight-uliege-researchers-win-prizes-from-the-royal-academy-of-belgium-science-class-2021).
 <br>
-<p align="center"><iframe src="https://player.vimeo.com/video/218507293" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></p>
-<div align="center">Ice landscapes seen during the 2016 cruise of RV Amundsen - Green Edge Project.</div>
