@@ -1,8 +1,8 @@
 ---
 title: 'New paper - Open Southern Ocean sea star database'
 draft: false
-tags: ['Papers']["Open Science"]
-categories: ['Papers']["Open Science"]
+tags: ['Papers', "Open Science"]
+categories: ['Papers', "Open Science"]
 date: '2021-12-17'
 slug: paper-seastar-database
 featured: yes

@@ -1,11 +1,11 @@
 ---
-title: 'New paper - Importance of sea ice for Arctic food webs'
+title: 'Jean Lebrun award'
 draft: false
 tags: ['Papers']
 categories: ['Papers']
-date: '2020-12-19'
+date: '2021-12-18'
 slug: paper-baffin-bay
-featured: no
+featured: yes
 image:
   caption: ''
   focal_point: ''
