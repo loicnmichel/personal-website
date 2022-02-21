@@ -49,5 +49,5 @@ subtitle = "A global open database of stable isotope ratios and elemental conten
  # CSS class.
  css_class = ""
 +++
-{{% alert note %}}Access the database freely on the SEANOE repository: <a href="https://doi.org/10.17882/76595" target="_blank" rel="noopener">https://doi.org/10.17882/76595</a>
+{{% alert note %}}Access the lastest version of the database freely on the SEANOE repository: <a href="https://doi.org/10.17882/76595" target="_blank" rel="noopener">https://doi.org/10.17882/76595</a>
 {{% /alert %}}
