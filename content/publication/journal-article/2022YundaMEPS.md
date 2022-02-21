@@ -32,7 +32,7 @@ featured: false
 # links:
 #- name: ""
 #  url: ""
-url_pdf:	''
+url_pdf:	'https://hdl.handle.net/2268/288260'
 url_code: 'https://doi.org/10.5281/zenodo.5584830'
 url_dataset: 'https://www.int-res.com/articles/suppl/m683p081_supp.pdf'
 url_poster: ''

@@ -45,7 +45,7 @@ featured: false
 # links:
 #- name: ""
 #  url: ""
-url_pdf:	''
+url_pdf:	'https://hdl.handle.net/2268/288258'
 url_code: ''
 url_dataset: ''
 url_poster: ''
