@@ -14,11 +14,11 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: University of Namur (Belgium)
-  url: "http://www.unamur.be/en/sci/sbio/urbe/"
+- name: Public Service of Wallonia (Belgium)
+  url: "https://be.linkedin.com/in/adrien-latli-475a63142"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ex-UNamur (BE)
+bio: SPW (BE)
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

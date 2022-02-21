@@ -1,4 +1,4 @@
-﻿---
+---
 # Display name
 name: Joan Alfaro Lucas
 
@@ -14,11 +14,11 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Ifremer (France) 
+- name: University of Victoria (Canada) 
   url: "https://alfarolucas.wixsite.com/deepecology"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ifremer (FR) 
+bio: UVic (CA) 
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

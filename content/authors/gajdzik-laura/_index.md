@@ -14,11 +14,11 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: King Abdullah University of Science and Technology (Saudi Arabia)
+- name: State of Hawai'i Division of Aquatic Resources (USA)
   url: "https://www.researchgate.net/profile/Laura_Gajdzik"
 
 # Short bio (displayed in user profile at end of posts)
-bio: KAUST (SA)
+bio: DAR (USA)
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

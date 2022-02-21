@@ -14,15 +14,15 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: University of Liège (Belgium)
+- name: Mediterranean Institute of Oceanology (France)
   url: "https://www.researchgate.net/profile/Baptiste_Le_Bourg"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ULiège (BE) 
+bio: MIO (FR) 
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Collaborators
 ---
-Collaboration topics: Southern ocean ecology, starfish ecology. I’m Baptiste’s PhD co-advisor.
+Collaboration topics: Southern ocean ecology, starfish ecology. I was Baptiste’s PhD co-advisor at ULiège, from which he graduated in July 2020.

@@ -1,4 +1,4 @@
-﻿---
+---
 # Display name
 name: Pierre Methou
 
@@ -14,11 +14,11 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Ifremer (France) 
+- name: Japan Agency for Marine-Earth Science and Technology (Japan) 
   url: "https://www.researchgate.net/profile/Pierre_Methou"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ifremer (FR) 
+bio: JAMSTEC (JP) 
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

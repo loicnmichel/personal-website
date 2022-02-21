@@ -14,11 +14,11 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: University of Mons (Belgium)
+- name: University of Liège (Belgium)
   url: "https://www.researchgate.net/profile/Nicolas_Sturaro"
 
 # Short bio (displayed in user profile at end of posts)
-bio: UMons (BE) 
+bio: ULiège (BE) 
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
