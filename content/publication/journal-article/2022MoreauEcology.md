@@ -38,7 +38,7 @@ featured: true
 # links:
 #- name: ""
 #  url: ""
-url_pdf:	''
+url_pdf:	'https://hdl.handle.net/2268/288303'
 url_code: ''
 url_dataset: 'https://doi.org/10.5281/zenodo.5041317'
 url_poster: ''
