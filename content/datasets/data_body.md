@@ -51,11 +51,17 @@ weight = 25  # Order that this section will appear.
 +++
 <h2>Stable isotope data</h2>
 
+<p>Le Bourg B. Saucède T., Charpentier A., Lepoint G., Gan Y.-M. & <strong>Michel L. N</strong> (2022). Stable isotope ratios and elemental contents of C, N and S in benthic organisms sampled during the PROTEKER 5 summer campaign in Kerguelen Islands (2016).<br>
+<a href="https://ipt.biodiversity.aq/resource?r=proteker2016-event" target="_blank" rel="noopener">https://ipt.biodiversity.aq/resource?r=proteker2016-event</a><br>
+<a href="https://doi.org/10.15468/frpbz6" target="_blank" rel="noopener">https://doi.org/10.15468/frpbz6</a></p>
+
 <p>Frotté L., <strong>Michel L. N.</strong>, Lepoint G., Cordonnier S., Bezault E. & Monti D. (2021). Stable isotope ratios of C and N in diadromous fauna from Guadeloupe, French West Indies in 2017.<br>
 <a href="https://doi.org/10.14284/476" target="_blank" rel="noopener">https://doi.org/10.14284/476</a></p>
 
-<p>Le Bourg B., Moreau C., Lepoint G., Danis B. & <strong>Michel L. N</strong> (2021). Stable isotope ratios of C, N and S in Southern Ocean sea stars (1985-2017).<br>
-<a href="https://ipt.biodiversity.aq/resource?r=antarctic_subantarctic_asteroidea_isotopes&v=1.4" target="_blank" rel="noopener">https://ipt.biodiversity.aq/resource?r=antarctic_subantarctic_asteroidea_isotopes&v=1.4</a></p>
+<p>Le Bourg B., Moreau C., Balazy P., Danis B., Eléaume M., Jossart Q., Kuklinski P., Lepoint G., Saucède T., Van de Putte A., Gan Y.-M. & <strong>Michel L. N</strong> (2021). Stable isotope ratios of C, N and S in Southern Ocean sea stars (1985-2017).<br>
+<a href="https://ipt.biodiversity.aq/resource?r=antarctic_subantarctic_asteroidea_isotopes&v=1.5" target="_blank" rel="noopener">https://ipt.biodiversity.aq/resource?r=antarctic_subantarctic_asteroidea_isotopes&v=1.5</a><br>
+<a href="https://doi.org/10.15468/p8gcpe" target="_blank" rel="noopener">https://doi.org/10.15468/p8gcpe</a><br>
+<a href="https://doi.org/10.5281/zenodo.5535585" target="_blank" rel="noopener">https://doi.org/10.5281/zenodo.5535585</a></p>
 
 <p><strong>Michel L. N.</strong>, Remy F., Mascart T., De Troch M. & Lepoint, G (2021). Stable isotope ratios of C and N in benthic macrofauna from Mediterranean seagrass litter accumulations from Calvi Bay in 2011-2012.<br>
 <a href="https://doi.org/10.14284/454" target="_blank" rel="noopener">https://doi.org/10.14284/454</a></p>

@@ -51,7 +51,7 @@ subtitle = ""
 +++
 <h2>2021</h2>
 
-<p>[112] Zbinden M., Compère P., Lepoint G., Shillito B. & <strong>Michel L. N</strong> (2021). How does *Alvinella pompejana* acquire carbon from chemoautotrophic bacteria? Poster presented at the "16th Deep-Sea Biology Symposium", 12-17/09/2021, online/Brest, France.</p>
+<p>[112] Zbinden M., Compère P., Lepoint G., Shillito B. & <strong>Michel L. N</strong> (2021). How does <i>Alvinella pompejana</i> acquire carbon from chemoautotrophic bacteria? Poster presented at the "16th Deep-Sea Biology Symposium", 12-17/09/2021, online/Brest, France.</p>
 
 <p>[111] <strong>Michel L. N.</strong>, Bell J. B., Dubois S. F., Lepoint G., Olu K., Reid W. D. K., Sarrazin J., Schaal G. & Hayden B (2021). Building up DeepIso - A global open database of stable isotope ratios and elemental contents for deep-sea ecosystems. Poster presented at the "16th Deep-Sea Biology Symposium", 12-17/09/2021, online/Brest, France.</p>
 
