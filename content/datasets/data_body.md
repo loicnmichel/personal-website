@@ -86,7 +86,7 @@ weight = 25  # Order that this section will appear.
 <p>[03] <strong>Michel L. N.</strong>, David B., Dubois P., Lepoint G. & De Ridder C (2016). Stable isotope ratios of Antarctic echinoids from the PS81 - ANTXXIX/3 Polarstern expedition.<br>
 <a class="citation-link" href="https://doi.org/10.6084/m9.figshare.1591834">https://doi.org/10.6084/m9.figshare.1591834</a></p>
 
-<p>[02 ]<strong>Michel L. N.</strong>, Heughebaert A. & Lepoint G (2016). AxIOM: Amphipod crustaceans from insular <em>Posidonia oceanica</em> seagrass meadows.<br>
+<p>[02 ] <strong>Michel L. N.</strong>, Heughebaert A. & Lepoint G (2016). AxIOM: Amphipod crustaceans from insular <em>Posidonia oceanica</em> seagrass meadows.<br>
 <a href="https://doi.org/10.15468/nnjtke" target="_blank" rel="noopener">https://doi.org/10.15468/nnjtke</a></p>
 
 <p>[01] Lepoint G., Heughebaert A. & <strong>Michel L. N</strong> (2015). Epiphytic Bryozoa of <em>Posidonia oceanica</em> leaves and scales.<br>
