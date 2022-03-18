@@ -29,8 +29,8 @@ authors:
 - Kuama D. C.
 - Hourdez S.
 - Jollivet D
-date: "2022-03-01T00:00:00Z"
-doi: ""
+date: "2022-03-17T00:00:00Z"
+doi: "10.1038/s43247-022-00387-9"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -42,7 +42,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Communications Earth & Environment*, In Press"
+publication: "*Communications Earth & Environment*, 3: 64"
 publication_short: ""
 
 abstract: "Here we report the discovery of a high-temperature hydrothermal vent field on the Woodlark Ridge, using ship-born multibeam echosounding and Remotely Operated Vehicle (ROV) exploration. La Scala Vent Field comprises two main active areas and several inactive zones dominated by variably altered basaltic rocks, indicating that an active and stable hydrothermal circulation has been maintained over a long period of time. The Pandora Site, at a depth of 3,380 m, is mainly composed of diffuse vents. The Corto site, at a depth of 3,360 m, is characterized by vigorous black smokers (temperature above 360°C). The striking features of this new vent field are the profusion of stalked barnacles *Vulcanolepas* sp. nov., the absence of mussels and the scarcity of the gastropod symbiotic fauna. We suggest that La Scala Vent Field may act as a dispersing centre for hydrothermal fauna towards the nearby North Fiji, Lau and Manus basins."
@@ -58,12 +58,12 @@ featured: false
 #  url: ""
 url_pdf:	'https://hdl.handle.net/2268/288581'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://doi.org/10.6084/m9.figshare.19095659'
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://campagnes.flotteoceanographique.fr/campagnes/18001111/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
