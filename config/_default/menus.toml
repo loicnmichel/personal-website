@@ -100,7 +100,7 @@
 
 [[main]]
   name = "Download my CV"
-  url = "https://docs.google.com/document/d/1nSPq47XahkX0iHRBBMtOsTF7_6QIaPDXEDnX_0YYfnQ/export?format=pdf"
+  url = "https://docs.google.com/document/d/1Rzsg8GBgKktObg9NBGtbyBQn94j7zz6sgmjqwWy4Lr4/export?format=pdf"
   parent="CV"
   weight = 82
 

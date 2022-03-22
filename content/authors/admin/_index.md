@@ -1,4 +1,4 @@
-﻿---
+---
 # Display name
 name: Loïc N. Michel
 
@@ -54,7 +54,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: cv
   icon_pack: ai
-  link: https://docs.google.com/document/d/1nSPq47XahkX0iHRBBMtOsTF7_6QIaPDXEDnX_0YYfnQ/export?format=pdf
+  link: https://docs.google.com/document/d/1Rzsg8GBgKktObg9NBGtbyBQn94j7zz6sgmjqwWy4Lr4/export?format=pdf
 - icon: university
   icon_pack: fas
   link: https://annuaire.ifremer.fr/cv/24391/en/
