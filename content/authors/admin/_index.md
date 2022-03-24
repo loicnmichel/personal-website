@@ -48,7 +48,7 @@ education:
 social:
 - icon: open-access
   icon_pack: ai
-  link: https://orbi.uliege.be/browse?type=author&value=Michel%2C+Lo%C3%AFc+p003031
+  link: https://tinyurl.com/lnmpub
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
