@@ -90,7 +90,7 @@
   name = "Code"
   url = "/code"
   identifier="Code"
-  weight = 80
+  weight = 70
 
 [[main]]
   name = "CV"
