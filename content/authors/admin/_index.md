@@ -55,7 +55,7 @@ social:
 - icon: cv
   icon_pack: ai
   link: https://docs.google.com/document/d/1Rzsg8GBgKktObg9NBGtbyBQn94j7zz6sgmjqwWy4Lr4/export?format=pdf
-  icon: book
+- icon: book
   icon_pack : fas
   link: https://docs.google.com/document/d/1FdBsbgs_0f8w7h_0DU9Xc342jNLIQXdeJMbYajtSHMI/export?format=pdf
 - icon: university
@@ -68,7 +68,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=BxfeVdAAAAAJ
 - icon: researchgate
-  icon_pack: ai
+  icon_pack: fas
   link: https://www.researchgate.net/profile/Loic_Michel
 - icon: publons
   icon_pack: ai
