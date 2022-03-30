@@ -55,6 +55,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: https://docs.google.com/document/d/1Rzsg8GBgKktObg9NBGtbyBQn94j7zz6sgmjqwWy4Lr4/export?format=pdf
+  icon: book
+  icon_pack : fas
+  link: https://docs.google.com/document/d/1FdBsbgs_0f8w7h_0DU9Xc342jNLIQXdeJMbYajtSHMI/export?format=pdf
 - icon: university
   icon_pack: fas
   link: https://annuaire.ifremer.fr/cv/24391/en/
