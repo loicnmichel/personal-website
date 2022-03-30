@@ -57,7 +57,7 @@
   weight = 43
 
 [[main]]
-  name = "Download my publication list"
+  name = "Publication list (pdf)"
   url = "https://docs.google.com/document/d/1FdBsbgs_0f8w7h_0DU9Xc342jNLIQXdeJMbYajtSHMI/export?format=pdf"
   parent="Publications"
   weight = 44
