@@ -68,7 +68,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=BxfeVdAAAAAJ
 - icon: researchgate
-  icon_pack: fas
+  icon_pack: ai
   link: https://www.researchgate.net/profile/Loic_Michel
 - icon: publons
   icon_pack: ai
