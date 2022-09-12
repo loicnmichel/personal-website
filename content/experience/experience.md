@@ -18,13 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Assistant professor"
+  company = "University of Liège"
+  company_url = ""
+  location = "Liège, Belgium"
+  date_start = "2022-09-12"
+  date_end = ""
+  description = """I am responsible of the Laboratory of Systematics and Diversity, and conduct research about biodiversity of marine invertebrates; links between food webs, ecological plasticity and environmental change; and polar and deep-sea ecology. <br> I teach a total 308h (29 ECTS credits) to multiple BSc, MSc and PhD programs."""
+  
+[[experience]]
   title = "Research scientist"
   company = "Deep Environment Laboratory, Ifremer Brittany"
   company_url = ""
   location = "Brest, France"
   date_start = "2017-09-04"
-  date_end = ""
-  description = """I study food web structure and trophic interactions in deep-sea benthic ecosystems."""
+  date_end = "2022-09-11"
+  description = """I studied food web structure and trophic interactions in deep-sea benthic ecosystems."""
   
 [[experience]]
   title = "Guest lecturer"
@@ -32,8 +41,8 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Liège, Belgium"
   date_start = "2017-09-01"
-  date_end = ""
-  description = """I co-teach the "Study of stable isotopes and applications to marine environments" course (master and PhD level)."""  
+  date_end = "2022-09-11"
+  description = """I co-taught the "Study of stable isotopes and applications to marine environments" course (master and PhD level)."""  
   
 [[experience]]
   title = "Visiting lecturer"
@@ -41,8 +50,8 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Brest, France"
   date_start = "2018-10-02"
-  date_end = ""
-  description = """I take part in the "Deep-Sea Environments" and "Marine lipids: biological roles and applications" courses (master level)."""  
+  date_end = "2022-09-11"
+  description = """I took part in the "Deep-Sea Environments" and "Marine lipids: biological roles and applications" courses (master level)."""  
 
 [[experience]]
   title = "BELSPO postdoctoral researcher"

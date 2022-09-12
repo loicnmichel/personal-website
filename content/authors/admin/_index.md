@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research scientist
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Ifremer Brittany 
-  url: "https://wwz.ifremer.fr/en/"
+- name: University of Liège (BE)
+  url: "https://www.uliege.be/cms/c_8699436/en/uliege"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -60,7 +60,7 @@ social:
   link: https://docs.google.com/document/d/1FdBsbgs_0f8w7h_0DU9Xc342jNLIQXdeJMbYajtSHMI/export?format=pdf
 - icon: university
   icon_pack: fas
-  link: https://annuaire.ifremer.fr/cv/24391/en/
+  link: https://www.uliege.be/cms/c_9054334/en/directory?uid=u172073
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-0988-7050
@@ -75,7 +75,7 @@ social:
   link: https://publons.com/researcher/551146/loic-n-michel/peer-review/
 - icon: facebook
   icon_pack: fab
-  link: https://www.facebook.com/ifremer.fr/
+  link: https://www.facebook.com/FOCUS.ULiege
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/loicnmichel
