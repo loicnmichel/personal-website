@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Liège, Belgium"
   date_start = "2022-09-12"
   date_end = ""
-  description = """I am responsible of the Laboratory of Systematics and Diversity, and conduct research about biodiversity of marine invertebrates; links between food webs, ecological plasticity and environmental change; and polar and deep-sea ecology. <br> I teach a total 308h (29 ECTS credits) to multiple BSc, MSc and PhD programs."""
+  description = """I am responsible of the Laboratory of Animal Systematics and Diversity, and conduct research about biodiversity of marine invertebrates; links between food webs, ecological plasticity and environmental change; and polar and deep-sea ecology. <br> I teach a total 308h (29 ECTS credits) to multiple BSc, MSc and PhD programs."""
   
 [[experience]]
   title = "Research scientist"
