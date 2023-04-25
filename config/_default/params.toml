@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Loïc N. Michel - Marine ecologist"
+description = "Animal Systematics & Diversity - University of Liège"
 
 ############################
 ## Site Features
